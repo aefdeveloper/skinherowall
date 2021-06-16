@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_ads": "FACEBOOK",
+      "select_ads": "STARAPP",
       "status_app": "0",
       "link_redirect": "https://",
       "admob_interid": "",
       "admob_nativeid": "",
       "admob_openid": "",
       "interval_intertitial": "10",
-      "startappid": "",
+      "startappid": "207868610",
       "fan_inter": "1210613359304594_1270662203299709",
       "fan_banner_native": "1210613359304594_1270658209966775",
       "mopub_banner": "",
