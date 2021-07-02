@@ -5,9 +5,9 @@
       "select_backup_ads": "FACEBOOK",
       "status_app": "0",
       "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
-      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
-      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+      "admob_interid": "",
+      "admob_nativeid": "",
+      "admob_openid": "",
       "interval": 5,
       "startappid": "",
       "fan_inter": "",
@@ -16,7 +16,7 @@
       "mopub_inter": "",
       "applovin_banner": "",
       "applovin_inter": "",
-      "packagename": "com.tukumaning.skinherowallpaper"
+      "packagename": "mak.ad.wallpaperalienx"
     }
   ],
   "More":
@@ -27,616 +27,617 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Gloo",
-      "image": "https://1.bp.blogspot.com/-5PUBXFOKuxc/YKZj81-qrEI/AAAAAAAALEI/1IKCYQAHJBo3RgqT1igwIPtQpuggRy2hACLcBGAsYHQ/s2048/Gloo%2B-%2Bcategory.jpg"
+      "name_category": "Akai",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/AKAI.jpg"
 
     },
     {
       "id": 2,
-      "name_category": "Zilong",
-      "image": "https://1.bp.blogspot.com/-nmj5yUcUjZ8/YAVQ0gexVFI/AAAAAAAAF0g/59BD8OCVJGw9HMbkDsoZh0vDSAOn8kyOQCLcBGAsYHQ/s2048/zilong.jpg"
+      "name_category": "Alucard",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/ALUCARD.jpg"
 
     },
     {
       "id": 3,
-      "name_category": "Zhask",
-      "image": "https://1.bp.blogspot.com/-xIW6FoSqyY8/YAVQtRetvII/AAAAAAAAFzE/FXlnTWBODLAMNlPliLOhGw0a8rfA5ctcwCLcBGAsYHQ/s908/Zhask.jpg"
+      "name_category": "Atlas",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/ATLAS.jpg"
 
     },
     {
       "id": 4,
-      "name_category": "Yu Zhong",
-      "image": "https://1.bp.blogspot.com/-DcTLsrYcl3U/YAVQs6MUIpI/AAAAAAAAFzA/o3qlMqpfNycFhynZGswn29-zxrntEB3mQCLcBGAsYHQ/s726/Yu%2BZhong.jpg"
+      "name_category": "Aldous",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Aldous.jpg"
 
     },
     {
       "id": 5,
-      "name_category": "Yi-Sun-Shin",
-      "image": "https://1.bp.blogspot.com/-3LGL-v845T4/YAVQz1f4oHI/AAAAAAAAF0c/Xbed6snWAUYQhu-lbZGxNsZJhzH2c7fGQCLcBGAsYHQ/s1703/yi-sun-shin.jpg"
+      "name_category": "Alice",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Alice.jpg"
 
     },
     {
       "id": 6,
-      "name_category": "X Borg",
-      "image": "https://1.bp.blogspot.com/-iPKu8p3XJd4/YAVQzoAyU_I/AAAAAAAAF0U/2FYxC96OEk4H7CG_wUWaSgTB02odyGbawCLcBGAsYHQ/s894/x%2BBorg.jpg"
+      "name_category": "Alpha",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Alpha.jpg"
 
     },
     {
       "id": 7,
-      "name_category": "Wanwan",
-      "image": "https://1.bp.blogspot.com/-IzSeBNPDtCU/YAVQsnj5Q4I/AAAAAAAAFy8/HHTTMTxiB_IlghJiFccrZDogvjrUuEH5QCLcBGAsYHQ/s864/Wanwan.jpg"
+      "name_category": "Angela",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Angela.jpg"
 
     },
     {
       "id": 8,
-      "name_category": "Vexana",
-      "image": "https://1.bp.blogspot.com/-6r9Zs2tJe0c/YAVQskE06gI/AAAAAAAAFy4/mloijYOQxMMxihfEA3iYdrlFOkBPcoiFQCLcBGAsYHQ/s786/Vexana.jpg"
+      "name_category": "Argus",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Argus.jpg"
 
     },
     {
       "id": 9,
-      "name_category": "Valir",
-      "image": "https://1.bp.blogspot.com/-LLwT4ixkAtI/YAVQsCRP9oI/AAAAAAAAFy0/uRigfMQPqFkh4vsctiEspVJHSBOGxN0jwCLcBGAsYHQ/s1102/Valir.jpg"
+      "name_category": "Aurora",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Aurora.jpg"
 
     },
     {
       "id": 10,
-      "name_category": "Vale",
-      "image": "https://1.bp.blogspot.com/-F9f0eaWG4lI/YAVQzmGnY2I/AAAAAAAAF0Y/zzkEyychISUcymbjpS4IN_x-SuAZasFDACLcBGAsYHQ/s2048/vale.jpg"
+      "name_category": "Barats",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/BARATS.jpg"
 
     },
     {
       "id": 11,
-      "name_category": "URANUS",
-      "image": "https://1.bp.blogspot.com/-qOVfXJCyAFY/YAVQsOSJBxI/AAAAAAAAFyw/a5lyuYSZnV4wUQPOk_kK7cMMJRTagQHjACLcBGAsYHQ/s512/URANUS.jpg"
+      "name_category": "Badang",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Badang.jpg"
 
     },
     {
       "id": 12,
-      "name_category": "TIGREAL",
-      "image": "https://1.bp.blogspot.com/-jK3XtuqT2pQ/YAVQrWlIgII/AAAAAAAAFyk/w-vdNkZg700TkMA8_VwGJn-qJsa12VtGgCLcBGAsYHQ/s512/TIGREAL.jpg"
+      "name_category": "Balmond",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Balmond.jpg"
 
     },
     {
       "id": 13,
-      "name_category": "Thamuz",
-      "image": "https://1.bp.blogspot.com/-Av9JQQgW-xU/YAVQr1olDyI/AAAAAAAAFys/sPWqgg7iS_Ya0gBFwsLw5WZhNIvlDiXvQCLcBGAsYHQ/s878/Thamuz.jpg"
+      "name_category": "Bane",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Bane.jpg"
 
     },
     {
       "id": 14,
-      "name_category": "Terizla",
-      "image": "https://1.bp.blogspot.com/-UZTzIcDyEXI/YAVQrn7wY-I/AAAAAAAAFyo/i8Ymp0KVE-c1SZ45R06I2fY7iguHtPA5QCLcBGAsYHQ/s815/Terizla.jpg"
+      "name_category": "Bruno",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Bruno.jpg"
 
     },
     {
       "id": 15,
-      "name_category": "Sun",
-      "image": "https://1.bp.blogspot.com/-AFuaWUA1Ae8/YAVQzArTLdI/AAAAAAAAF0Q/LBRy_2YoLfANWmdrK4oEzsMcoJYp3eTVgCLcBGAsYHQ/s890/sun.jpg"
+      "name_category": "Carmilla",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Carmilla.jpg"
 
     },
     {
       "id": 16,
-      "name_category": "Silvana ",
-      "image": "https://1.bp.blogspot.com/-VHnbd63Ealg/YAVQrc2Xa4I/AAAAAAAAFyg/AimgtXQNvbwOMwtTRYE60lMA0FCd6wkIACLcBGAsYHQ/s823/Silvana%2B.jpg"
+      "name_category": "Change",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Change.jpg"
 
     },
     {
       "id": 17,
-      "name_category": "Selena",
-      "image": "https://1.bp.blogspot.com/-dGBSfaT61EM/YAVQywTyPSI/AAAAAAAAF0I/wz5ZsZz7qHcuHuiBB11whqDFgFtb8sqWgCLcBGAsYHQ/s405/selena.jpg"
+      "name_category": "Chou",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Chou.jpg"
 
     },
     {
       "id": 18,
-      "name_category": "Saber",
-      "image": "https://1.bp.blogspot.com/-Rjuw_y-MOYA/YAVQy22aEtI/AAAAAAAAF0M/d9hQg2QmEQo9vSLgD4JzoXmaqrVZGyWyACLcBGAsYHQ/s2048/saber.jpg"
+      "name_category": "Claude",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Claude.jpg"
 
     },
     {
       "id": 19,
-      "name_category": "Ruby",
-      "image": "https://1.bp.blogspot.com/-AZPhSTXGjS4/YAVQrEi7Q1I/AAAAAAAAFyc/yVCnIkIpHkokcmC2k9Wsk0s3O1qkekuMgCLcBGAsYHQ/s819/Ruby.jpg"
+      "name_category": "Clint",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Clint.jpg"
 
     },
     {
       "id": 20,
-      "name_category": "Roger",
-      "image": "https://1.bp.blogspot.com/-KWShySOQew8/YAVQq4e7oAI/AAAAAAAAFyY/e-vQQUUHrBoEx04vccMhsbO85EG8vXQbACLcBGAsYHQ/s781/Roger.jpg"
+      "name_category": "Cyclops",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Cyclops.jpg"
 
     },
     {
       "id": 21,
-      "name_category": "Rafaela",
-      "image": "https://1.bp.blogspot.com/-9Q_Rl0ggbp4/YAVQq552a0I/AAAAAAAAFyU/lWvDG5svvuE87LlAz71gSQwFUq6oVjaggCLcBGAsYHQ/s734/Rafaela.jpg"
+      "name_category": "Dyrroth",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/DYRROTH.jpg"
 
     },
     {
       "id": 22,
-      "name_category": "Popol Kupa",
-      "image": "https://1.bp.blogspot.com/-1HfUqPsF0kU/YAVQqjHIXOI/AAAAAAAAFyQ/2bz-niJ01hIkUfYogw82yUgdtOitzDz0gCLcBGAsYHQ/s1070/Popol%2BKupa.jpg"
+      "name_category": "Esmeralda",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Esmeralda.jpg"
 
     },
     {
       "id": 23,
-      "name_category": "Pharsa",
-      "image": "https://1.bp.blogspot.com/-Gg71DPixKoA/YAVQqfoj8-I/AAAAAAAAFyM/venhnV1plg40F3IiBe2FR4LqZ2waodLCgCLcBGAsYHQ/s864/Pharsa.jpg"
+      "name_category": "Estes",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Estes.jpg"
 
     },
     {
       "id": 24,
-      "name_category": "Oddete",
-      "image": "https://1.bp.blogspot.com/-kl_3UqVjOqI/YAVQqMAZWnI/AAAAAAAAFyI/gazpTnUJrE0pENtWLz0pMKY70jl2VzPnwCLcBGAsYHQ/s928/Oddete.jpg"
+      "name_category": "Eudora",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Eudora.jpg"
 
     },
     {
       "id": 25,
-      "name_category": "Natalia",
-      "image": "https://1.bp.blogspot.com/-HZWf9CBk9mE/YAVQykgGv4I/AAAAAAAAF0E/GXpW4sdGycQNR8QKTt9mNl02PJCsJ8LVwCLcBGAsYHQ/s435/natalia.jpg"
+      "name_category": "Franco",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/FRANCO.jpg"
 
     },
     {
       "id": 26,
-      "name_category": "Nana",
-      "image": "https://1.bp.blogspot.com/-EYAfeE29j3Y/YAVQp7wqpiI/AAAAAAAAFyE/UIXCkKC6p1IwvbifFHZMb1hKoIq5fw8CwCLcBGAsYHQ/s973/Nana.jpg"
+      "name_category": "Freya",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Freya.jpg"
 
     },
     {
       "id": 27,
-      "name_category": "Moskov",
-      "image": "https://1.bp.blogspot.com/-UmAOyeNw-mE/YAVQpxFhpjI/AAAAAAAAFyA/hJM7FpgiBaAt7aCF_rOPtcxjY5Tt0reagCLcBGAsYHQ/s881/Moskov.jpg"
+      "name_category": "Gatotkaca",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/GATOTKACA.jpg"
 
     },
     {
       "id": 28,
-      "name_category": "Miya",
-      "image": "https://1.bp.blogspot.com/-1KMJN0PjQUk/YAVQplcM7EI/AAAAAAAAFx8/h6VpEjoQ5aclraRnJyS9QMkAMf-QxytlwCLcBGAsYHQ/s891/Miya.jpg"
+      "name_category": "Grock",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/GROCK.jpg"
 
     },
     {
       "id": 29,
-      "name_category": "Minsitthar",
-      "image": "https://1.bp.blogspot.com/-w6pFvpPZeS0/YAVQpSghokI/AAAAAAAAFx4/Iaj76SPDoWETIod-nNY9wrZ-boxweEQYQCLcBGAsYHQ/s456/Minsitthar.jpg"
+      "name_category": "Gord",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Gord.jpg"
 
     },
     {
       "id": 30,
-      "name_category": "MINOTAUR",
-      "image": "https://1.bp.blogspot.com/-ekO-9R8Vpoo/YAVQoSYyRFI/AAAAAAAAFxs/Adk2OImn--0qpDbc01kPPzOCDMKeXFPiACLcBGAsYHQ/s512/MINOTAUR.jpg"
+      "name_category": "Granger",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Granger.jpg"
 
     },
     {
       "id": 31,
-      "name_category": "Mathilda",
-      "image": "https://1.bp.blogspot.com/-tCjlMMjS8vQ/YAVQyZwVybI/AAAAAAAAF0A/0Scy5xBq93Yt-r4peiQE2gwQzGHh82viQCLcBGAsYHQ/s2048/mathilda.jpg"
+      "name_category": "Guinevere",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Guinevere.jpg"
 
     },
     {
       "id": 32,
-      "name_category": "Masha",
-      "image": "https://1.bp.blogspot.com/-_B_q4Tuyzn8/YAVQpENEvNI/AAAAAAAAFx0/XndgKUZObloP-TREbjZVdU-pLWi0lhvKwCLcBGAsYHQ/s878/Masha.jpg"
+      "name_category": "Hilda",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/HILDA.jpg"
 
     },
     {
       "id": 33,
-      "name_category": "Martis",
-      "image": "https://1.bp.blogspot.com/-H4wnkHL1RlA/YAVQopxBOSI/AAAAAAAAFxw/oTqGPsG_tQYGARluUFamSj85ZRuxHwVNgCLcBGAsYHQ/s744/Martis.jpg"
+      "name_category": "Hylos",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/HYLOS.jpg"
 
     },
     {
       "id": 34,
-      "name_category": "Lylia",
-      "image": "https://1.bp.blogspot.com/-259qqAJ4cYk/YAVQoVBjPHI/AAAAAAAAFxo/N8Nb_cZz5Gw_sL9jI5VtcEbxL1C9nf-3wCLcBGAsYHQ/s908/Lylia.jpg"
+      "name_category": "Hanabi",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Hanabi.jpg"
 
     },
     {
       "id": 35,
-      "name_category": "Luo Yi",
-      "image": "https://1.bp.blogspot.com/-kv-AZtUXaro/YAVQoCEe-cI/AAAAAAAAFxk/mhSET_yrQvE5QutTcLs4BZxkVnNSHbCywCLcBGAsYHQ/s395/Luo%2BYi.jpg"
+      "name_category": "Harith",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Harith.jpg"
 
     },
     {
       "id": 36,
-      "name_category": "Lunox",
-      "image": "https://1.bp.blogspot.com/-3gB3FIlDt44/YAVQn4vk_MI/AAAAAAAAFxg/PP5pZZU1ma8kaNlKDcPcZsM07OxZNV8nwCLcBGAsYHQ/s978/Lunox.jpg"
+      "name_category": "Harley",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Harley.jpg"
 
     },
     {
       "id": 37,
-      "name_category": "Lolita",
-      "image": "https://1.bp.blogspot.com/-EKq5Q6uM4Ac/YAVQn-ga1nI/AAAAAAAAFxc/QNEMFrGpEgwY5IjfDwBBk9fTtrdq1y1rACLcBGAsYHQ/s678/Lolita.jpg"
+      "name_category": "Irithel",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Irithel%20.jpg"
 
     },
     {
       "id": 38,
-      "name_category": "Ling",
-      "image": "https://1.bp.blogspot.com/-1vkWf7F3faw/YAVQyAovRJI/AAAAAAAAFz8/cR_QFhNnD2Ub7rY6GBrWjPvr6HRYagUZQCLcBGAsYHQ/s2048/ling.jpg"
+      "name_category": "Johnson",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/JOHNSON.jpg"
 
     },
     {
       "id": 39,
-      "name_category": "Lesley",
-      "image": "https://1.bp.blogspot.com/-iuxzoaE5IFw/YAVQnpVJLgI/AAAAAAAAFxY/urXZOClKidcCBXBiMiJpVPZiooyXiqlJQCLcBGAsYHQ/s892/Lesley.jpg"
+      "name_category": "Jawhead",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Jawhead.jpg"
 
     },
     {
       "id": 40,
-      "name_category": "Leomord",
-      "image": "https://1.bp.blogspot.com/-tXid2qq2toQ/YAVQnIPgOwI/AAAAAAAAFxU/6vf0wZhgEzM5rCqPGCCSFkAXSxmOM1tdQCLcBGAsYHQ/s756/Leomord.jpg"
+      "name_category": "Khufra",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/KHUFRA.jpg"
 
     },
     {
       "id": 41,
-      "name_category": "Layla",
-      "image": "https://1.bp.blogspot.com/-Ldi9XtylmRE/YAVQm5s-ZbI/AAAAAAAAFxQ/KXcZ7nBOttcKBoM6iVtLHkgIWOvF08rmACLcBGAsYHQ/s935/Layla.jpg"
+      "name_category": "Kadita",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Kadita.jpg"
 
     },
     {
       "id": 42,
-      "name_category": "Lapu-Lapu",
-      "image": "https://1.bp.blogspot.com/-c21x4Y43qxE/YAVQxwY24ZI/AAAAAAAAFz4/9YUxx_jB8bIlOmPZ8OIUmdtM4ysHIpzbQCLcBGAsYHQ/s2024/lapu-lapu.jpg"
+      "name_category": "Kagura",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Kagura.jpg"
 
     },
     {
       "id": 43,
-      "name_category": "Lancelot",
-      "image": "https://1.bp.blogspot.com/-6p57kVNzt5c/YAVQxhsHT9I/AAAAAAAAFz0/2V-qfXBi7JkcVH6WHIxXqjEQzeFI3X56ACLcBGAsYHQ/s1883/lancelot.jpg"
+      "name_category": "Kaja",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Kaja.jpg"
 
     },
     {
       "id": 44,
-      "name_category": "Kimmy",
-      "image": "https://1.bp.blogspot.com/-8n84GGfM83M/YAVQm-i1riI/AAAAAAAAFxM/Z_THGO-jh5g1VjVvgDsQavgaFvsBXE3rQCLcBGAsYHQ/s768/Kimmy.jpg"
+      "name_category": "Karrie",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Karrie.jpg"
 
     },
     {
       "id": 45,
-      "name_category": "KHUFRA",
-      "image": "https://1.bp.blogspot.com/-_NTRx-MXgqo/YAVQlp_811I/AAAAAAAAFw0/x3qLJ0AaPVQXHDkxzuKQ_-DdYnrPZG73QCLcBGAsYHQ/s512/KHUFRA.jpg"
+      "name_category": "Khaleed",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Khaleed.jpg"
 
     },
     {
       "id": 46,
-      "name_category": "Khaleed",
-      "image": "https://1.bp.blogspot.com/-wiCfGpRcCSw/YAVQmhcez0I/AAAAAAAAFxI/ZjwVYcaOHY0Qo7IqXw6xUTz9CIZdqBuLACLcBGAsYHQ/s304/Khaleed.jpg"
+      "name_category": "Kimmy",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Kimmy.jpg"
 
     },
     {
       "id": 47,
-      "name_category": "Khaleed",
-      "image": "https://1.bp.blogspot.com/-wiCfGpRcCSw/YAVQmhcez0I/AAAAAAAAFxI/ZjwVYcaOHY0Qo7IqXw6xUTz9CIZdqBuLACLcBGAsYHQ/s0/Khaleed.jpg"
+      "name_category": "Layla",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Layla.jpg"
 
     },
     {
       "id": 48,
-      "name_category": "Karrie",
-      "image": "https://1.bp.blogspot.com/-1oOT3p-aa-I/YAVQmUlpVpI/AAAAAAAAFxE/xNRjkpBs55wrIBytGNj9doeVW0XRCcW9gCLcBGAsYHQ/s902/Karrie.jpg"
+      "name_category": "Leomord",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Leomord.jpg"
 
     },
     {
       "id": 49,
-      "name_category": "Karina",
-      "image": "https://1.bp.blogspot.com/-yqPbXOgwOwc/YAVQxK6g53I/AAAAAAAAFzw/O0QLTIw9XisEysJtNF6BysFwEoR5JGbbQCLcBGAsYHQ/s2010/karina.jpg"
+      "name_category": "Lesley",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Lesley.jpg"
 
     },
     {
       "id": 50,
-      "name_category": "Kaja",
-      "image": "https://1.bp.blogspot.com/-3ltiP_9Cnz0/YAVQmBsMhuI/AAAAAAAAFxA/GQES2oFRYUs6mTjkDk-8F7Yy6ROq7tr1ACLcBGAsYHQ/s614/Kaja.jpg"
+      "name_category": "Lolita",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Lolita.jpg"
 
     },
     {
       "id": 51,
-      "name_category": "Kagura",
-      "image": "https://1.bp.blogspot.com/-yWvbhRa56M4/YAVQmGdROnI/AAAAAAAAFw8/AZlhY4byu1E396t9UGjspQksn9rmjVX7gCLcBGAsYHQ/s886/Kagura.jpg"
+      "name_category": "Lunox",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Lunox.jpg"
 
     },
     {
       "id": 52,
-      "name_category": "Kadita",
-      "image": "https://1.bp.blogspot.com/-00grnQ2XVQg/YAVQl28YxSI/AAAAAAAAFw4/vS1aROjjh7Yx1LGQuTOLLGh-gJYtp8FFACLcBGAsYHQ/s434/Kadita.jpg"
+      "name_category": "Luo Yi",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Luo%20Yi.jpg"
 
     },
     {
       "id": 53,
-      "name_category": "JOHNSON",
-      "image": "https://1.bp.blogspot.com/-yR3GhscmOjw/YAVQktWBtyI/AAAAAAAAFws/MeGFA4l6N7wPtsfALyuoMn356U-dPm2xwCLcBGAsYHQ/s512/JOHNSON.jpg"
+      "name_category": "Lylia",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Lylia.jpg"
 
     },
     {
       "id": 54,
-      "name_category": "Jawhead",
-      "image": "https://1.bp.blogspot.com/-xPNklJy-kpQ/YAVQlKRHlkI/AAAAAAAAFww/GPdCcklfy0svQtBfo8Uk6lKV4yvvJY2NgCLcBGAsYHQ/s861/Jawhead.jpg"
+      "name_category": "Minotaur",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/MINOTAUR.jpg"
 
     },
     {
       "id": 55,
-      "name_category": "Irithel ",
-      "image": "https://1.bp.blogspot.com/-ovSS8IbVWGg/YAVQkWZvhqI/AAAAAAAAFwo/88c5rMHQh0QYi3LIPqVoaW_2iMyfwnAbgCLcBGAsYHQ/s924/Irithel%2B.jpg"
+      "name_category": "Martis",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Martis.jpg"
 
     },
     {
       "id": 56,
-      "name_category": "HYLOS",
-      "image": "https://1.bp.blogspot.com/-NVAfU7ZwUXM/YAVQjAcUueI/AAAAAAAAFwY/4TuEJ7n15FsqpbXgdRp_WfDOQ0G3Xf7YgCLcBGAsYHQ/s512/HYLOS.jpg"
+      "name_category": "Masha",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Masha.jpg"
 
     },
     {
       "id": 57,
-      "name_category": "HILDA",
-      "image": "https://1.bp.blogspot.com/-QKQZYDdAI2g/YAVQiVDUfwI/AAAAAAAAFwU/n7_NFlQt2_wMg1XTmaB2Z4Mj7STs-PA5QCLcBGAsYHQ/s512/HILDA.jpg"
+      "name_category": "Minsitthar",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Minsitthar.jpg"
 
     },
     {
       "id": 58,
-      "name_category": "Helcurt",
-      "image": "https://1.bp.blogspot.com/-UIX3OUwc3rQ/YAVQwjT4-MI/AAAAAAAAFzs/y8WqWD1UB4s0Ej6MdPMFTZ8EVx98C6O0wCLcBGAsYHQ/s1014/helcurt.jpg"
+      "name_category": "Miya",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Miya.jpg"
 
     },
     {
       "id": 59,
-      "name_category": "Hayabusa",
-      "image": "https://1.bp.blogspot.com/-8PzooH9gZpA/YAVQv1TTuGI/AAAAAAAAFzk/WWMstCQQek0CHie5dJq4TLd3ZZ9kG6t5ACLcBGAsYHQ/s925/hayabusa.jpg"
+      "name_category": "Moskov",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Moskov.jpg"
 
     },
     {
       "id": 60,
-      "name_category": "Harley",
-      "image": "https://1.bp.blogspot.com/-0H2-Dyk5PU0/YAVQkUl2r_I/AAAAAAAAFwk/kqE6lou3OEQQ76wu46p0wn70R6yOml2qACLcBGAsYHQ/s951/Harley.jpg"
+      "name_category": "Nana",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Nana.jpg"
 
     },
     {
       "id": 61,
-      "name_category": "Harith",
-      "image": "https://1.bp.blogspot.com/-ODGNlutZ2zc/YAVQkLnGi1I/AAAAAAAAFwg/FDz0P8xoVeYeHvd_J345k1OSGY99u3EjgCLcBGAsYHQ/s684/Harith.jpg"
+      "name_category": "Oddete",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Oddete.jpg"
 
     },
     {
       "id": 62,
-      "name_category": "Hanzo",
-      "image": "https://1.bp.blogspot.com/-h2G2AJUO5D0/YAVQwKu_4TI/AAAAAAAAFzo/p5dFASTUZV4wBLwKjnCJ7FM9D1FxNCDvwCLcBGAsYHQ/s2048/hanzo.jpg"
+      "name_category": "Paquito",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Paquito.jpg"
 
     },
     {
       "id": 63,
-      "name_category": "Hanabi",
-      "image": "https://1.bp.blogspot.com/-_qggfBVVDhc/YAVQjjdihDI/AAAAAAAAFwc/7j3K3l5i2qoxfrK3_SnocBRlJk91Fg3vgCLcBGAsYHQ/s910/Hanabi.jpg"
+      "name_category": "Pharsa",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Pharsa.jpg"
 
     },
     {
       "id": 64,
-      "name_category": "Gusion",
-      "image": "https://1.bp.blogspot.com/-OlPgfQxUZuc/YAVQv_li5CI/AAAAAAAAFzg/KXB7To02dnoqaf-ZnJ29PRy24ewoPY-GACLcBGAsYHQ/s2048/gusion.jpg"
+      "name_category": "Popol And Kupa And Kupa",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Popol%20Kupa.jpg"
 
     },
     {
       "id": 65,
-      "name_category": "Guinevere",
-      "image": "https://1.bp.blogspot.com/-3aMO-qYe1Z8/YAVQiMKB7ZI/AAAAAAAAFwQ/3CcMILU6puoMpV46IxIihnDUgLa8o25XACLcBGAsYHQ/s736/Guinevere.jpg"
+      "name_category": "Rafaela",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Rafaela.jpg"
 
     },
     {
       "id": 66,
-      "name_category": "GROCK",
-      "image": "https://1.bp.blogspot.com/-fE81DhfmFZQ/YAVQgbbJJrI/AAAAAAAAFwE/EyzeTnFPc7IZ2fkOvRt1n17G6xV0oA7xwCLcBGAsYHQ/s512/GROCK.jpg"
+      "name_category": "Roger",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Roger.jpg"
 
     },
     {
       "id": 67,
-      "name_category": "Granger",
-      "image": "https://1.bp.blogspot.com/-AvP0a3iMeps/YAVQhm9XmSI/AAAAAAAAFwM/WwW2cg5bOtI3iVlcnCmrfGr5EqaEwXV4wCLcBGAsYHQ/s987/Granger.jpg"
+      "name_category": "Ruby",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Ruby.jpg"
 
     },
     {
       "id": 68,
-      "name_category": "Gord",
-      "image": "https://1.bp.blogspot.com/-eyXx6jNAU38/YAVQhDVj4UI/AAAAAAAAFwI/7QO_I7UJdIIbXNxoq2qVSdQrNj-YHd-9ACLcBGAsYHQ/s900/Gord.jpg"
+      "name_category": "Silvana",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Silvana%20.jpg"
 
     },
     {
       "id": 69,
-      "name_category": "GATOTKACA",
-      "image": "https://1.bp.blogspot.com/-HVlSN6DTGhY/YAVQgRbSmTI/AAAAAAAAFwA/d9elgSXe-B0LkKQ5NS1TMmDVeWZMFWLzACLcBGAsYHQ/s512/GATOTKACA.jpg"
+      "name_category": "Tigreal",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/TIGREAL.jpg"
 
     },
     {
       "id": 70,
-      "name_category": "Freya",
-      "image": "https://1.bp.blogspot.com/-8AjrbTWhz20/YAVQgeXEtBI/AAAAAAAAFv8/HKw_AArSkkg9Vxxk8xepRZbXi7ikwAJxQCLcBGAsYHQ/s854/Freya.jpg"
+      "name_category": "Terizla",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Terizla.jpg"
 
     },
     {
       "id": 71,
-      "name_category": "FRANCO",
-      "image": "https://1.bp.blogspot.com/-P2D6mMyQo-0/YAVQfyy87fI/AAAAAAAAFv4/IqCWi3M6LiswJ8HqqdNjby2Ut_Ye_7YuwCLcBGAsYHQ/s512/FRANCO.jpg"
+      "name_category": "Thamuz",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Thamuz.jpg"
 
     },
     {
       "id": 72,
-      "name_category": "Faramis",
-      "image": "https://1.bp.blogspot.com/-tSosKlBJud4/YAVQvbTPVWI/AAAAAAAAFzc/LHLGfxrWj74PbCrd7MyMtqBOBPNkUXdBQCLcBGAsYHQ/s629/faramis.jpg"
+      "name_category": "Uranus",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/URANUS.jpg"
 
     },
     {
       "id": 73,
-      "name_category": "Fanny",
-      "image": "https://1.bp.blogspot.com/-iwUaKS30STs/YAVQvIB9UvI/AAAAAAAAFzY/ZIsEOQaQr74TW4L5N1ZH8zGOdtwVtpavACLcBGAsYHQ/s2048/fanny.jpg"
+      "name_category": "Valir",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Valir.jpg"
 
     },
     {
       "id": 74,
-      "name_category": "Eudora",
-      "image": "https://1.bp.blogspot.com/-zE_hdJFxXO8/YAVQfy3f7RI/AAAAAAAAFv0/HmtEM0eqU4Yk0U0cnIBHAniithQSjYR5wCLcBGAsYHQ/s704/Eudora.jpg"
+      "name_category": "Vexana",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Vexana.jpg"
 
     },
     {
       "id": 75,
-      "name_category": "Estes",
-      "image": "https://1.bp.blogspot.com/-nIZZSl2e3ms/YAVQfuNINFI/AAAAAAAAFvw/580mnU-AUs4NKACk2-w8UUJ3z49TI4qswCLcBGAsYHQ/s655/Estes.jpg"
+      "name_category": "Wanwan",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Wanwan.jpg"
 
     },
     {
       "id": 76,
-      "name_category": "Esmeralda",
-      "image": "https://1.bp.blogspot.com/-sCcG4_Gje7w/YAVQfSVXKSI/AAAAAAAAFvs/KUBiH-zmX1IB2iMquZSZ4-uEQVJ9Mj3nACLcBGAsYHQ/s895/Esmeralda.jpg"
+      "name_category": "Yu Zhong",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Yu%20Zhong.jpg"
 
     },
     {
       "id": 77,
-      "name_category": "DYRROTH",
-      "image": "https://1.bp.blogspot.com/-rQtSZ8l6loA/YAVQfERPUtI/AAAAAAAAFvo/zPy2GHAv4xQ6dx79DR83ZMx4oUceauqngCLcBGAsYHQ/s697/DYRROTH.jpg"
+      "name_category": "Zhask",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Zhask.jpg"
 
     },
     {
       "id": 78,
-      "name_category": "Diggie",
-      "image": "https://1.bp.blogspot.com/-UIhWmGNhPXU/YAVQu3ww-HI/AAAAAAAAFzU/dITLVvqteP0_ry-Gh7l_YGJWBSzt6YEKACLcBGAsYHQ/s712/diggie.jpg"
+      "name_category": "Beatrix",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/beatrix.jpg"
 
     },
     {
       "id": 79,
-      "name_category": "Cyclops",
-      "image": "https://1.bp.blogspot.com/-HZ4sYgESlZo/YAVQfKBk_oI/AAAAAAAAFvk/HwTWARGGo20vXjjatpynZQYmWTOmrrShQCLcBGAsYHQ/s869/Cyclops.jpg"
+      "name_category": "Benedetta",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/benedetta.jpg"
 
     },
     {
       "id": 80,
-      "name_category": "Clint",
-      "image": "https://1.bp.blogspot.com/-CxD0dltB0Rk/YAVQe5wscLI/AAAAAAAAFvg/mPqcHHFo0VQXniSEksQlD861SiY6B7GewCLcBGAsYHQ/s848/Clint.jpg"
+      "name_category": "Brody",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/brody.jpg"
 
     },
     {
       "id": 81,
-      "name_category": "Claude",
-      "image": "https://1.bp.blogspot.com/-VGd5oLCxjfM/YAVQeUiMMZI/AAAAAAAAFvc/Rlh5C-oDpIYawdi66mm7-QNSpfZ3Uby5wCLcBGAsYHQ/s913/Claude.jpg"
+      "name_category": "Cecilion",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/cecilion.jpg"
 
     },
     {
       "id": 82,
-      "name_category": "Chou",
-      "image": "https://1.bp.blogspot.com/--zYh9xW3z1M/YAVQeM7lsSI/AAAAAAAAFvY/VrNMN5WtG6kUGyn68nmcr_RzwlxxuY4dgCLcBGAsYHQ/s864/Chou.jpg"
+      "name_category": "Diggie",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/diggie.jpg"
 
     },
     {
       "id": 83,
-      "name_category": "Change",
-      "image": "https://1.bp.blogspot.com/-JXRjBSYkEmk/YAVQeLYe6CI/AAAAAAAAFvU/szWPXuAq0HwmMV-HJyeRNJGbljquXeg3wCLcBGAsYHQ/s874/Change.jpg"
+      "name_category": "Fanny",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/fanny.jpg"
 
     },
     {
       "id": 84,
-      "name_category": "Cecilion",
-      "image": "https://1.bp.blogspot.com/-HjH2e7ZrtwQ/YAVQuy880MI/AAAAAAAAFzQ/qx8RIPZP4K8JjbxSVRgq9vTaZuVWNdSwACLcBGAsYHQ/s604/cecilion.jpg"
+      "name_category": "Faramis",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/faramis.jpg"
 
     },
     {
       "id": 85,
-      "name_category": "Carmilla",
-      "image": "https://1.bp.blogspot.com/-KRMYPyuYPmM/YAVQdhasFFI/AAAAAAAAFvQ/U2zOkVkXQYwohKymoeevm0AKGeV5iJ6agCLcBGAsYHQ/s576/Carmilla.jpg"
+      "name_category": "Gloo",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/gloo.jpg"
 
     },
     {
       "id": 86,
-      "name_category": "Bruno",
-      "image": "https://1.bp.blogspot.com/-2Mu0LXXTPWg/YAVQddMD6lI/AAAAAAAAFvI/Z1mqMdbd2YofJ5HgLPeSGya-HPGodkXyACLcBGAsYHQ/s864/Bruno.jpg"
+      "name_category": "Gusion",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/gusion.jpg"
 
     },
     {
       "id": 87,
-      "name_category": "Brody",
-      "image": "https://1.bp.blogspot.com/-n3FPGkmiGOs/YAVQuXINCJI/AAAAAAAAFzM/9Destfcvi9wzEIBvQav6QhLEokeMOxFXQCLcBGAsYHQ/s2048/brody.jpg"
+      "name_category": "Hanzo",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/hanzo.jpg"
 
     },
     {
       "id": 88,
-      "name_category": "Benedetta",
-      "image": "https://1.bp.blogspot.com/-AnHarXo4mjQ/YAVQt5OrpbI/AAAAAAAAFzI/3pZf6xJMuowiNR3zDF3sRHEn3njEwk-5ACLcBGAsYHQ/s1240/benedetta.jpg"
+      "name_category": "Hayabusa",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/hayabusa.jpg"
 
     },
     {
       "id": 89,
-      "name_category": "BARATS",
-      "image": "https://1.bp.blogspot.com/--_Ak4T9kTo8/YAVQcVyul7I/AAAAAAAAFu4/GIjTmFfKg4cjvycN6YZhK4nTlYAb0qV3wCLcBGAsYHQ/s512/BARATS.jpg"
+      "name_category": "Helcurt",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/helcurt.jpg"
 
     },
     {
       "id": 90,
-      "name_category": "Bane",
-      "image": "https://1.bp.blogspot.com/-OgYPygGk_9I/YAVQda-jegI/AAAAAAAAFvM/RphtzYvO-4cGCKd8qRnKi_jqrCuzusCWQCLcBGAsYHQ/s967/Bane.jpg"
+      "name_category": "Karina",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/karina.jpg"
 
     },
     {
       "id": 91,
-      "name_category": "Balmond",
-      "image": "https://1.bp.blogspot.com/-logzBR5ykkc/YAVQdNtwfHI/AAAAAAAAFvE/MmhTQkmmFJgXGNhbDEAnMHq7-WVRzKalwCLcBGAsYHQ/s826/Balmond.jpg"
+      "name_category": "Lancelot",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/lancelot.jpg"
 
     },
     {
       "id": 92,
-      "name_category": "Badang",
-      "image": "https://1.bp.blogspot.com/-rCHnRBJgSyQ/YAVQcmXwROI/AAAAAAAAFvA/oCyKSOKVXP0dcsVfil-3Xk0q59GvtYMzgCLcBGAsYHQ/s656/Badang.jpg"
+      "name_category": "Lapu Lapu",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/lapu-lapu.jpg"
 
     },
     {
       "id": 93,
-      "name_category": "Aurora",
-      "image": "https://1.bp.blogspot.com/-k749bYgtJaw/YAVQcSWKUxI/AAAAAAAAFu8/r4Y8ru-gPW8wqdQ_XaoSei2XwA441OrXQCLcBGAsYHQ/s939/Aurora.jpg"
+      "name_category": "Ling",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/ling.jpg"
 
     },
     {
       "id": 94,
-      "name_category": "ATLAS",
-      "image": "https://1.bp.blogspot.com/-9s66GUYQPUM/YAVQaRFSZnI/AAAAAAAAFuc/nqQ_QM8qtP4ycFSBFPPxucmTWNxwoJdRgCLcBGAsYHQ/s512/ATLAS.jpg"
+      "name_category": "Mathilda",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/mathilda.jpg"
 
     },
     {
       "id": 95,
-      "name_category": "Argus",
-      "image": "https://1.bp.blogspot.com/-YShX1UL1bLk/YAVQcHVKsZI/AAAAAAAAFu0/_GnXBHvXsWgwq3DTKCnYxSLRi0aEqOHaQCLcBGAsYHQ/s889/Argus.jpg"
+      "name_category": "Natalia",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/natalia.jpg"
 
     },
     {
       "id": 96,
-      "name_category": "Angela",
-      "image": "https://1.bp.blogspot.com/-AleWKo6Rano/YAVQbvh7WqI/AAAAAAAAFuw/2Hp62baYgY4MECM4kR_8och1HYjf6khUwCLcBGAsYHQ/s707/Angela.jpg"
+      "name_category": "Saber",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/saber.jpg"
 
     },
     {
       "id": 97,
-      "name_category": "ALUCARD",
-      "image": "https://1.bp.blogspot.com/-9rZJY4GFV7E/YAVQahLaXII/AAAAAAAAFug/hmHTz5xxE0wGy0K3KL7U9jlWb9IHp1gUwCLcBGAsYHQ/s1967/ALUCARD.jpg"
+      "name_category": "Selena",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/selena.jpg"
 
     },
     {
       "id": 98,
-      "name_category": "Alpha",
-      "image": "https://1.bp.blogspot.com/-8nh8b2bnrjg/YAVQbAlstOI/AAAAAAAAFuo/YZ2SH-bdtVUs4M4bziGvdfrNtIBBOb5kACLcBGAsYHQ/s834/Alpha.jpg"
+      "name_category": "Sun",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/sun.jpg"
 
     },
     {
       "id": 99,
-      "name_category": "Alice",
-      "image": "https://1.bp.blogspot.com/-LQMfqc6yaHE/YAVQbQvdgVI/AAAAAAAAFus/kDfZME3wpAQF-clw31VTtV6lQD91myl_QCLcBGAsYHQ/s814/Alice.jpg"
+      "name_category": "Vale",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/vale.jpg"
 
     },
     {
       "id": 100,
-      "name_category": "Aldous",
-      "image": "https://1.bp.blogspot.com/-gLQ1BMKB68c/YAVQa-qgHyI/AAAAAAAAFuk/51QpDg73p_og6nC4YGITRu_aehuoG1g6ACLcBGAsYHQ/s869/Aldous.jpg"
+      "name_category": "X Borg",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/x%20Borg.jpg"
 
     },
     {
       "id": 101,
-      "name_category": "AKAI",
-      "image": "https://1.bp.blogspot.com/-fqkJaYqhjiQ/YAVQaYU8spI/AAAAAAAAFuY/n6QOYGI0zgEHPH_2J7OMLe8iYkbAOQEJgCLcBGAsYHQ/s512/AKAI.jpg"
+      "name_category": "Yi Sun Shin",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/yi-sun-shin.jpg"
 
     },
     {
       "id": 102,
-      "name_category": "Beatrix",
-      "image": "https://1.bp.blogspot.com/-MFXTZ4o1cdo/YKZiLmPIacI/AAAAAAAALEA/bwxG3qVQFKA9qWKrpUMObrO4pG_gDljYACLcBGAsYHQ/s1226/Beatrix%2B-%2BCATEGORY.jpg"
+      "name_category": "Yve",
+      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/yve.jpg"
 
     }
+
   ],
 
   "Data":
@@ -2035,55 +2036,55 @@
     },
     {
       "id":233,
-      "name_category": "X.Borg",
+      "name_category": "X Borg",
       "title":"X.Borg Blue Storm",
       "image":"http://tukumaning.miemiebrownie.com/FIGHTER/X%20BORG/x%20Borg%20blue%20storm.jpg"
     },
     {
       "id":234,
-      "name_category": "X.Borg",
+      "name_category": "X Borg",
       "title":"X.Borg Firaga Armor",
       "image":"http://tukumaning.miemiebrownie.com/FIGHTER/X%20BORG/x%20Borg%20firaga%20armor.jpg"
     },
     {
       "id":235,
-      "name_category": "X.Borg",
+      "name_category": "X Borg",
       "title":"X.Borg Moto Drifter",
       "image":"http://tukumaning.miemiebrownie.com/FIGHTER/X%20BORG/x%20Borg%20moto%20drifter.jpg"
     },
     {
       "id":236,
-      "name_category": "X.Borg",
+      "name_category": "X Borg",
       "title":"X.Borg Graffiti Fashion",
       "image":"http://tukumaning.miemiebrownie.com/FIGHTER/X%20BORG/x-borg-graffiti-fashion.jpg"
     },
     {
       "id":237,
-      "name_category": "X.Borg",
+      "name_category": "X Borg",
       "title":"X.Borg Tesla Maniac",
       "image":"http://tukumaning.miemiebrownie.com/FIGHTER/X%20BORG/x-borg-tesla-maniac.jpg"
     },
     {
       "id":238,
-      "name_category": "Yu",
+      "name_category": "Yu Zhong",
       "title":"Yu Zhong Black Dragon",
       "image":"http://tukumaning.miemiebrownie.com/FIGHTER/YU%20ZHONG/Yu%20Zhong%20Black%20Dragon.jpg"
     },
     {
       "id":239,
-      "name_category": "Yu",
+      "name_category": "Yu Zhong",
       "title":"Yu Zhong Emerald Dragon 2",
       "image":"http://tukumaning.miemiebrownie.com/FIGHTER/YU%20ZHONG/Yu%20Zhong%20emerald%20dragon%202.jpg"
     },
     {
       "id":240,
-      "name_category": "Yu",
+      "name_category": "Yu Zhong",
       "title":"Yu Zhong Emerald Dragon",
       "image":"http://tukumaning.miemiebrownie.com/FIGHTER/YU%20ZHONG/Yu%20Zhong%20emerald%20dragon.jpg"
     },
     {
       "id":241,
-      "name_category": "Yu",
+      "name_category": "Yu Zhong",
       "title":"Yu Zhong Biohazard",
       "image":"http://tukumaning.miemiebrownie.com/FIGHTER/YU%20ZHONG/yu-zhong-biohazard.jpg"
     },
@@ -3397,43 +3398,43 @@
     },
     {
       "id":460,
-      "name_category": "Popol",
+      "name_category": "Popol And Kupa",
       "title":"Popol Kupa  1 ",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/Popol%20Kupa%20%20%281%29.jpg"
     },
     {
       "id":461,
-      "name_category": "Popol",
+      "name_category": "Popol And Kupa",
       "title":"Popol Kupa  2 ",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/Popol%20Kupa%20%20%282%29.jpg"
     },
     {
       "id":462,
-      "name_category": "Popol",
+      "name_category": "Popol And Kupa",
       "title":"Popol Kupa  3 ",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/Popol%20Kupa%20%20%283%29.jpg"
     },
     {
       "id":463,
-      "name_category": "Popol",
+      "name_category": "Popol And Kupa",
       "title":"Popol Kupa Hunting Pals",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/Popol%20Kupa%20Hunting%20pals.jpg"
     },
     {
       "id":464,
-      "name_category": "Popol",
+      "name_category": "Popol And Kupa",
       "title":"Popol Kupa Iceland Companions",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/Popol%20Kupa%20Iceland%20Companions.jpg"
     },
     {
       "id":465,
-      "name_category": "Popol",
+      "name_category": "Popol And Kupa",
       "title":"Popol And Kupa Tribal Howl 2 ",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/popol-and-kupa-tribal-howl%20%282%29.jpg"
     },
     {
       "id":466,
-      "name_category": "Popol",
+      "name_category": "Popol And Kupa",
       "title":"Popol And Kupa Tribal Howl",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/popol-and-kupa-tribal-howl.jpg"
     },
@@ -3469,49 +3470,49 @@
     },
     {
       "id":472,
-      "name_category": "Yi",
+       "name_category": "Yi Sun Shin",
       "title":"Yi Sun Shin Apocalypse Agent",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/Yi%20Sun%20Shin%20Apocalypse%20Agent.jpg"
     },
     {
       "id":473,
-      "name_category": "Yi",
+       "name_category": "Yi Sun Shin",
       "title":"Yi Sun Shin Imperial Champion Old Version",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/Yi%20Sun%20Shin%20Imperial%20Champion%20Old%20Version.jpg"
     },
     {
       "id":474,
-      "name_category": "Yi",
+       "name_category": "Yi Sun Shin",
       "title":"Yi Sun Shin Major General Old Version",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/Yi%20Sun%20Shin%20Major%20General%20Old%20version.jpg"
     },
     {
       "id":475,
-      "name_category": "Yi",
+       "name_category": "Yi Sun Shin",
       "title":"Yi Sun Shin Old Version 2 ",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/Yi%20Sun%20Shin%20Old%20Version%20%282%29.jpg"
     },
     {
       "id":476,
-      "name_category": "Yi",
+       "name_category": "Yi Sun Shin",
       "title":"Yi Sun Shin Roguish Ranger",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/Yi%20Sun%20Shin%20Roguish%20Ranger.jpg"
     },
     {
       "id":477,
-      "name_category": "Yi",
+       "name_category": "Yi Sun Shin",
       "title":"Yi Sun Shin Lone Destructor",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/yi-sun-shin-lone-destructor.jpg"
     },
     {
       "id":478,
-      "name_category": "Yi",
+       "name_category": "Yi Sun Shin",
       "title":"Yi Sun Shin Major General",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/yi-sun-shin-major-general.jpg"
     },
     {
       "id":479,
-      "name_category": "Yi",
+       "name_category": "Yi Sun Shin",
       "title":"Yi Sun Shin Rework",
       "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/yi-sun-shin-rework.jpg"
     },
@@ -3524,7 +3525,7 @@
     {
       "id":481,
       "name_category": "Angela",
-      "title":"Angela Dove %26 Love",
+      "title":"Angela Dove Love",
       "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ANGELA/Angela%20Dove%20%26%20Love.jpg"
     },
     {
