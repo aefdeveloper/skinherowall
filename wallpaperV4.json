@@ -27,617 +27,262 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Akai",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/AKAI.jpg"
+      "name_category": "Aamon",
+      "image": "https://i.ibb.co/ckWHRdX/Aamon.jpg"
 
     },
     {
       "id": 2,
-      "name_category": "Alucard",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/ALUCARD.jpg"
+      "name_category": "Aldous",
+      "image": "https://i.ibb.co/WygcbY2/Aldous.jpg"
 
     },
     {
       "id": 3,
-      "name_category": "Atlas",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/ATLAS.jpg"
+      "name_category": "Alpha",
+      "image": "https://i.ibb.co/2chm2Kj/Alpha.jpg"
 
     },
     {
       "id": 4,
-      "name_category": "Aldous",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Aldous.jpg"
+      "name_category": "Alucard",
+      "image": "https://i.ibb.co/bLCjQLs/Alucard.jpg"
 
     },
     {
       "id": 5,
-      "name_category": "Alice",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Alice.jpg"
+      "name_category": "Argus",
+      "image": "https://i.ibb.co/BgkFdbG/Argus.jpg"
 
     },
     {
       "id": 6,
-      "name_category": "Alpha",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Alpha.jpg"
+      "name_category": "Aulus",
+      "image": "https://i.ibb.co/Mkf6Cjv/Aulus.jpg"
 
     },
     {
       "id": 7,
-      "name_category": "Angela",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Angela.jpg"
+      "name_category": "Badang",
+      "image": "https://i.ibb.co/TtwFfLD/Badang.jpg"
 
     },
     {
       "id": 8,
-      "name_category": "Argus",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Argus.jpg"
+      "name_category": "Balmond",
+      "image": "https://i.ibb.co/ZHVsWqF/Balmond.jpg"
 
     },
     {
       "id": 9,
-      "name_category": "Aurora",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Aurora.jpg"
+      "name_category": "Bane",
+      "image": "https://i.ibb.co/z63vJDD/Bane.jpg"
 
     },
     {
       "id": 10,
-      "name_category": "Barats",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/BARATS.jpg"
+      "name_category": "Benedetta",
+      "image": "https://i.ibb.co/DzpYxSQ/Benedetta.jpg"
 
     },
     {
       "id": 11,
-      "name_category": "Badang",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Badang.jpg"
+      "name_category": "Chou",
+      "image": "https://i.ibb.co/8mwTdL9/Chou.jpg"
 
     },
     {
       "id": 12,
-      "name_category": "Balmond",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Balmond.jpg"
+      "name_category": "Dyrroth",
+      "image": "https://i.ibb.co/T1F8R79/Dyrroth.jpg"
 
     },
     {
       "id": 13,
-      "name_category": "Bane",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Bane.jpg"
+      "name_category": "Fanny",
+      "image": "https://i.ibb.co/qR0ZzHR/Fanny.jpg"
 
     },
     {
       "id": 14,
-      "name_category": "Bruno",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Bruno.jpg"
+      "name_category": "Freya",
+      "image": "https://i.ibb.co/kMnBFQ2/Freya.jpg"
 
     },
     {
       "id": 15,
-      "name_category": "Carmilla",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Carmilla.jpg"
+      "name_category": "Guinevere",
+      "image": "https://i.ibb.co/JshbTy2/Guinevere.jpg"
 
     },
     {
       "id": 16,
-      "name_category": "Change",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Change.jpg"
+      "name_category": "Gusion",
+      "image": "https://i.ibb.co/rv69RXZ/Gusion.jpg"
 
     },
     {
       "id": 17,
-      "name_category": "Chou",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Chou.jpg"
+      "name_category": "Hanzo",
+      "image": "https://i.ibb.co/6nkNrLf/Hanzo.jpg"
 
     },
     {
       "id": 18,
-      "name_category": "Claude",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Claude.jpg"
+      "name_category": "Hayabusa",
+      "image": "https://i.ibb.co/XFnBCX9/Hayabusa.jpg"
 
     },
     {
       "id": 19,
-      "name_category": "Clint",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Clint.jpg"
+      "name_category": "Helcurt",
+      "image": "https://i.ibb.co/BBgqZcH/Helcurt.jpg"
 
     },
     {
       "id": 20,
-      "name_category": "Cyclops",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Cyclops.jpg"
+      "name_category": "Jawhead",
+      "image": "https://i.ibb.co/MnMWvdX/Jawhead.jpg"
 
     },
     {
       "id": 21,
-      "name_category": "Dyrroth",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/DYRROTH.jpg"
+      "name_category": "Karina",
+      "image": "https://i.ibb.co/zZN2fxy/Karina.jpg"
 
     },
     {
       "id": 22,
-      "name_category": "Esmeralda",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Esmeralda.jpg"
+      "name_category": "Khaleed",
+      "image": "https://i.ibb.co/6PZBt4p/Khaleed.jpg"
 
     },
     {
       "id": 23,
-      "name_category": "Estes",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Estes.jpg"
+      "name_category": "Lancelot",
+      "image": "https://i.ibb.co/Mpm522r/Lancelot.jpg"
 
     },
     {
       "id": 24,
-      "name_category": "Eudora",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Eudora.jpg"
+      "name_category": "Lapu-Lapu",
+      "image": "https://i.ibb.co/mCVVbC9/Lapu-Lapu.jpg"
 
     },
     {
       "id": 25,
-      "name_category": "Franco",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/FRANCO.jpg"
+      "name_category": "Leomord",
+      "image": "https://i.ibb.co/j4vX3Wz/Leomord.jpg"
 
     },
     {
       "id": 26,
-      "name_category": "Freya",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Freya.jpg"
+      "name_category": "Ling",
+      "image": "https://i.ibb.co/YWjwbsT/Ling.jpg"
 
     },
     {
       "id": 27,
-      "name_category": "Gatotkaca",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/GATOTKACA.jpg"
+      "name_category": "Martis",
+      "image": "https://i.ibb.co/6rMsjsw/Martis.jpg"
 
     },
     {
       "id": 28,
-      "name_category": "Grock",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/GROCK.jpg"
+      "name_category": "Masha",
+      "image": "https://i.ibb.co/HFH4p0w/Masha.jpg"
 
     },
     {
       "id": 29,
-      "name_category": "Gord",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Gord.jpg"
+      "name_category": "Minsitthar",
+      "image": "https://i.ibb.co/G5QG9PX/Minsitthar.jpg"
 
     },
     {
       "id": 30,
-      "name_category": "Granger",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Granger.jpg"
+      "name_category": "Natalia",
+      "image": "https://i.ibb.co/m6p3DGs/Natalia.jpg"
 
     },
     {
       "id": 31,
-      "name_category": "Guinevere",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Guinevere.jpg"
+      "name_category": "Paquito",
+      "image": "https://i.ibb.co/QQnpmkf/Paquito.jpg"
 
     },
     {
       "id": 32,
-      "name_category": "Hilda",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/HILDA.jpg"
+      "name_category": "Phoveus",
+      "image": "https://i.ibb.co/yRbPz62/Phoveus.jpg"
 
     },
     {
       "id": 33,
-      "name_category": "Hylos",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/HYLOS.jpg"
+      "name_category": "Roger",
+      "image": "https://i.ibb.co/98HKkv8/Roger.jpg"
 
     },
     {
       "id": 34,
-      "name_category": "Hanabi",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Hanabi.jpg"
+      "name_category": "Ruby",
+      "image": "https://i.ibb.co/mhQCm8r/Ruby.jpg"
 
     },
     {
       "id": 35,
-      "name_category": "Harith",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Harith.jpg"
+      "name_category": "Saber",
+      "image": "https://i.ibb.co/QJJGsK9/Saber.jpg"
 
     },
     {
       "id": 36,
-      "name_category": "Harley",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Harley.jpg"
+      "name_category": "Selena",
+      "image": "https://i.ibb.co/0BCrHJJ/Selena.jpg"
 
     },
     {
       "id": 37,
-      "name_category": "Irithel",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Irithel%20.jpg"
+      "name_category": "Silvanna",
+      "image": "https://i.ibb.co/b7gsBdQ/Silvanna.jpg"
 
     },
     {
       "id": 38,
-      "name_category": "Johnson",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/JOHNSON.jpg"
+      "name_category": "Sun",
+      "image": "https://i.ibb.co/NKK9wby/Sun.jpg"
 
     },
     {
       "id": 39,
-      "name_category": "Jawhead",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Jawhead.jpg"
+      "name_category": "Terizla",
+      "image": "https://i.ibb.co/dbK30Zj/Terizla.jpg"
 
     },
     {
       "id": 40,
-      "name_category": "Khufra",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/KHUFRA.jpg"
+      "name_category": "Thamuz",
+      "image": "https://i.ibb.co/2Fp13DQ/Thamuz.jpg"
 
     },
     {
       "id": 41,
-      "name_category": "Kadita",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Kadita.jpg"
+      "name_category": "X Borg",
+      "image": "https://i.ibb.co/y6dN6gV/X-Borg.jpg"
 
     },
     {
       "id": 42,
-      "name_category": "Kagura",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Kagura.jpg"
+      "name_category": "Yu Zhong",
+      "image": "https://i.ibb.co/QpfQtRw/Yu-Zhong.jpg"
 
     },
     {
       "id": 43,
-      "name_category": "Kaja",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Kaja.jpg"
-
-    },
-    {
-      "id": 44,
-      "name_category": "Karrie",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Karrie.jpg"
-
-    },
-    {
-      "id": 45,
-      "name_category": "Khaleed",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Khaleed.jpg"
-
-    },
-    {
-      "id": 46,
-      "name_category": "Kimmy",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Kimmy.jpg"
-
-    },
-    {
-      "id": 47,
-      "name_category": "Layla",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Layla.jpg"
-
-    },
-    {
-      "id": 48,
-      "name_category": "Leomord",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Leomord.jpg"
-
-    },
-    {
-      "id": 49,
-      "name_category": "Lesley",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Lesley.jpg"
-
-    },
-    {
-      "id": 50,
-      "name_category": "Lolita",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Lolita.jpg"
-
-    },
-    {
-      "id": 51,
-      "name_category": "Lunox",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Lunox.jpg"
-
-    },
-    {
-      "id": 52,
-      "name_category": "Luo Yi",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Luo%20Yi.jpg"
-
-    },
-    {
-      "id": 53,
-      "name_category": "Lylia",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Lylia.jpg"
-
-    },
-    {
-      "id": 54,
-      "name_category": "Minotaur",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/MINOTAUR.jpg"
-
-    },
-    {
-      "id": 55,
-      "name_category": "Martis",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Martis.jpg"
-
-    },
-    {
-      "id": 56,
-      "name_category": "Masha",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Masha.jpg"
-
-    },
-    {
-      "id": 57,
-      "name_category": "Minsitthar",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Minsitthar.jpg"
-
-    },
-    {
-      "id": 58,
-      "name_category": "Miya",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Miya.jpg"
-
-    },
-    {
-      "id": 59,
-      "name_category": "Moskov",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Moskov.jpg"
-
-    },
-    {
-      "id": 60,
-      "name_category": "Nana",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Nana.jpg"
-
-    },
-    {
-      "id": 61,
-      "name_category": "Oddete",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Oddete.jpg"
-
-    },
-    {
-      "id": 62,
-      "name_category": "Paquito",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Paquito.jpg"
-
-    },
-    {
-      "id": 63,
-      "name_category": "Pharsa",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Pharsa.jpg"
-
-    },
-    {
-      "id": 64,
-      "name_category": "Popol And Kupa",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Popol%20Kupa.jpg"
-
-    },
-    {
-      "id": 65,
-      "name_category": "Rafaela",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Rafaela.jpg"
-
-    },
-    {
-      "id": 66,
-      "name_category": "Roger",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Roger.jpg"
-
-    },
-    {
-      "id": 67,
-      "name_category": "Ruby",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Ruby.jpg"
-
-    },
-    {
-      "id": 68,
-      "name_category": "Silvana",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Silvana%20.jpg"
-
-    },
-    {
-      "id": 69,
-      "name_category": "Tigreal",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/TIGREAL.jpg"
-
-    },
-    {
-      "id": 70,
-      "name_category": "Terizla",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Terizla.jpg"
-
-    },
-    {
-      "id": 71,
-      "name_category": "Thamuz",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Thamuz.jpg"
-
-    },
-    {
-      "id": 72,
-      "name_category": "Uranus",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/URANUS.jpg"
-
-    },
-    {
-      "id": 73,
-      "name_category": "Valir",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Valir.jpg"
-
-    },
-    {
-      "id": 74,
-      "name_category": "Vexana",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Vexana.jpg"
-
-    },
-    {
-      "id": 75,
-      "name_category": "Wanwan",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Wanwan.jpg"
-
-    },
-    {
-      "id": 76,
-      "name_category": "Yu Zhong",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Yu%20Zhong.jpg"
-
-    },
-    {
-      "id": 77,
-      "name_category": "Zhask",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/Zhask.jpg"
-
-    },
-    {
-      "id": 78,
-      "name_category": "Beatrix",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/beatrix.jpg"
-
-    },
-    {
-      "id": 79,
-      "name_category": "Benedetta",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/benedetta.jpg"
-
-    },
-    {
-      "id": 80,
-      "name_category": "Brody",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/brody.jpg"
-
-    },
-    {
-      "id": 81,
-      "name_category": "Cecilion",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/cecilion.jpg"
-
-    },
-    {
-      "id": 82,
-      "name_category": "Diggie",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/diggie.jpg"
-
-    },
-    {
-      "id": 83,
-      "name_category": "Fanny",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/fanny.jpg"
-
-    },
-    {
-      "id": 84,
-      "name_category": "Faramis",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/faramis.jpg"
-
-    },
-    {
-      "id": 85,
-      "name_category": "Gloo",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/gloo.jpg"
-
-    },
-    {
-      "id": 86,
-      "name_category": "Gusion",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/gusion.jpg"
-
-    },
-    {
-      "id": 87,
-      "name_category": "Hanzo",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/hanzo.jpg"
-
-    },
-    {
-      "id": 88,
-      "name_category": "Hayabusa",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/hayabusa.jpg"
-
-    },
-    {
-      "id": 89,
-      "name_category": "Helcurt",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/helcurt.jpg"
-
-    },
-    {
-      "id": 90,
-      "name_category": "Karina",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/karina.jpg"
-
-    },
-    {
-      "id": 91,
-      "name_category": "Lancelot",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/lancelot.jpg"
-
-    },
-    {
-      "id": 92,
-      "name_category": "Lapu Lapu",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/lapu-lapu.jpg"
-
-    },
-    {
-      "id": 93,
-      "name_category": "Ling",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/ling.jpg"
-
-    },
-    {
-      "id": 94,
-      "name_category": "Mathilda",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/mathilda.jpg"
-
-    },
-    {
-      "id": 95,
-      "name_category": "Natalia",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/natalia.jpg"
-
-    },
-    {
-      "id": 96,
-      "name_category": "Saber",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/saber.jpg"
-
-    },
-    {
-      "id": 97,
-      "name_category": "Selena",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/selena.jpg"
-
-    },
-    {
-      "id": 98,
-      "name_category": "Sun",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/sun.jpg"
-
-    },
-    {
-      "id": 99,
-      "name_category": "Vale",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/vale.jpg"
-
-    },
-    {
-      "id": 100,
-      "name_category": "X Borg",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/x%20Borg.jpg"
-
-    },
-    {
-      "id": 101,
-      "name_category": "Yi Sun Shin",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/yi-sun-shin.jpg"
-
-    },
-    {
-      "id": 102,
-      "name_category": "Yve",
-      "image": "http://tukumaning.miemiebrownie.com/01%20CATEGORY/yve.jpg"
+      "name_category": "Zilong",
+      "image": "https://i.ibb.co/W53F171/Zilong.jpg"
 
     }
-
   ],
 
   "Data":
@@ -1874,20 +1519,20 @@
     },
     {
       "id":206,
-      "name_category": "Lapu",
-      "title":"Lapu Lapu Vulcan",
+      "name_category": "Lapu-Lapu",
+      "title":"Lapu-Lapu Vulcan",
       "image":"https://i.ibb.co/x3Z0fgV/Lapu-Lapu-Vulcan.jpg"
     },
     {
       "id":207,
-      "name_category": "Lapu",
-      "title":"Lapu Lapu",
+      "name_category": "Lapu-Lapu",
+      "title":"Lapu-Lapu",
       "image":"https://i.ibb.co/pz084DG/Lapu-Lapu.jpg"
     },
     {
       "id":208,
-      "name_category": "Lapu",
-      "title":"Lapu Lapu Imperial Champion",
+      "name_category": "Lapu-Lapu",
+      "title":"Lapu-Lapu Imperial Champion",
       "image":"https://i.ibb.co/9vXS10J/Lapu-Lapu-Imperial-Champion.jpg"
     },
     {
