@@ -2,12 +2,12 @@
   "Ads": [
     {
       "select_ads": "FACEBOOK",
-      "select_backup_ads": "ABMOB",
+      "select_backup_ads": "MOPUB",
       "status_app": "0",
       "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-5445947100454432/4245306427",
+      "admob_interid": "",
       "admob_nativeid": "ca-app-pub-5445947100454432/6679898078",
-      "admob_openid": "ca-app-pub-5445947100454432/1516320866",
+      "admob_openid": "",
       "interval": 5,
       "startappid": "207868610",
       "fan_inter": "1210613359304594_1270662203299709",
@@ -644,3735 +644,1473 @@
   [
     {
       "id":1,
-      "name_category": "Alucard",
-      "title":"Alucard Child Of The Fall",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ALUCARD/Alucard%20Child%20Of%20The%20Fall.jpg"
+      "name_category": "X Borg",
+      "title":"X Borg Bumblebee",
+      "image":"https://i.ibb.co/TPB33b3/X-Borg-Bumblebee.jpg"
     },
     {
       "id":2,
-      "name_category": "Alucard",
-      "title":"Alucard Empire Agent",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ALUCARD/Alucard%20Empire-Agent.jpg"
+      "name_category": "X Borg",
+      "title":"X Borg Firaga Armor",
+      "image":"https://i.ibb.co/6yGnTqk/X-Borg-Firaga-Armor.jpg"
     },
     {
       "id":3,
-      "name_category": "Alucard",
-      "title":"Alucard Fiery Inferno",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ALUCARD/Alucard%20Fiery%20Inferno.jpg"
+      "name_category": "X Borg",
+      "title":"X Borg Graffiti Fashion",
+      "image":"https://i.ibb.co/v1DPLXc/X-Borg-Graffiti-Fashion.jpg"
     },
     {
       "id":4,
-      "name_category": "Alucard",
-      "title":"Alucard Lightborn",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ALUCARD/Alucard%20Lightborn.jpg"
+      "name_category": "X Borg",
+      "title":"X Borg Moto Drifter",
+      "image":"https://i.ibb.co/ggLQjmK/X-Borg-Moto-Drifter.jpg"
     },
     {
       "id":5,
-      "name_category": "Alucard",
-      "title":"Alucard Lone Hero",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ALUCARD/Alucard%20Lone%20Hero.jpg"
+      "name_category": "X Borg",
+      "title":"X Borg Tesla Maniac",
+      "image":"https://i.ibb.co/q7QrPWk/X-Borg-Tesla-Maniac.jpg"
     },
     {
       "id":6,
-      "name_category": "Alucard",
-      "title":"Alucard Obsidian Blade",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ALUCARD/Alucard%20Obsidian%20Blade.jpg"
+      "name_category": "X Borg",
+      "title":"X Borg Blue Storm",
+      "image":"https://i.ibb.co/kmMJw3Y/X-Borg-Blue-Storm.jpg"
     },
     {
       "id":7,
-      "name_category": "Alucard",
-      "title":"Alucard Revamped",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ALUCARD/Alucard%20Revamped.jpg"
+      "name_category": "Yu Zhong",
+      "title":"Yu Zhong Biohazard",
+      "image":"https://i.ibb.co/dLn4bgX/Yu-Zhong-Biohazard.jpg"
     },
     {
       "id":8,
-      "name_category": "Alucard",
-      "title":"Alucard Romantic Fantasy",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ALUCARD/Alucard%20Romantic%20Fantasy.jpg"
+      "name_category": "Yu Zhong",
+      "title":"Yu Zhong Black Dragon",
+      "image":"https://i.ibb.co/GxdX95j/Yu-Zhong-Black-Dragon.jpg"
     },
     {
       "id":9,
-      "name_category": "Alucard",
-      "title":"Alucard Viscount",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ALUCARD/Alucard%20Viscount.jpg"
+      "name_category": "Yu Zhong",
+      "title":"Yu Zhong Blood Serpent",
+      "image":"https://i.ibb.co/Jkd747R/Yu-Zhong-Blood-Serpent.jpg"
     },
     {
       "id":10,
-      "name_category": "Alucard",
-      "title":"Fanny Alucard Eudora",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ALUCARD/Fanny%20Alucard%20Eudora.jpg"
+      "name_category": "Yu Zhong",
+      "title":"Yu Zhong Emerald Dragon",
+      "image":"https://i.ibb.co/XVJdkp6/Yu-Zhong-Emerald-Dragon.jpg"
     },
     {
       "id":11,
-      "name_category": "Alucard",
-      "title":"Miya Sweet Fantasy Alucard Romantic Fantasy",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ALUCARD/Miya%20Sweet%20Fantasy%20Alucard%20Romantic%20Fantasy.jpg"
+      "name_category": "Yu Zhong",
+      "title":"Yu Zhong ML",
+      "image":"https://i.ibb.co/h10xk2L/Yu-Zhong-ML.jpg"
     },
     {
       "id":12,
-      "name_category": "Alucard",
-      "title":"Alucard 2",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ALUCARD/alucard%20%285%29.jpg"
+      "name_category": "Aldous",
+      "title":"Aldous Blazing Force",
+      "image":"https://i.ibb.co/j6CbFV6/Aldous-Blazing-Force.jpg"
     },
     {
       "id":13,
-      "name_category": "Benedetta",
-      "title":"Benedetta",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/BENEDETTA/benedetta%20%284%29.jpg"
+      "name_category": "Aldous",
+      "title":"Aldous Death Skin",
+      "image":"https://i.ibb.co/hc7Rt6H/Aldous-Death-Skin.jpg"
     },
     {
       "id":14,
-      "name_category": "Benedetta",
-      "title":"Benedetta Honor Blade",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/BENEDETTA/benedetta-honor-blade.jpg"
+      "name_category": "Aldous",
+      "title":"Aldous King of Supremacy",
+      "image":"https://i.ibb.co/Zf70ywV/Aldous-King-of-Supremacy.jpg"
     },
     {
       "id":15,
-      "name_category": "Benedetta",
-      "title":"Benedetta Street Blow",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/BENEDETTA/benedetta-street-blow.jpg"
+      "name_category": "Aldous",
+      "title":"Aldous Realm Watcher",
+      "image":"https://i.ibb.co/9HR53M5/Aldous-Realm-Watcher.jpg"
     },
     {
       "id":16,
-      "name_category": "Fanny",
-      "title":"Fanny Campus Youth",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/FANNY/fanny-campus-youth.jpg"
+      "name_category": "Aldous",
+      "title":"Aldous Red Mantle",
+      "image":"https://i.ibb.co/3vqLmn5/Aldous-Red-Mantle.jpg"
     },
     {
       "id":17,
-      "name_category": "Fanny",
-      "title":"Fanny Christmas Carnival",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/FANNY/fanny-christmas-carnival.jpg"
+      "name_category": "Aldous",
+      "title":"Aldous Soul Contractor",
+      "image":"https://i.ibb.co/PrgkRcs/Aldous-Soul-Contractor.jpg"
     },
     {
       "id":18,
-      "name_category": "Fanny",
-      "title":"Fanny Lightborn Ranger",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/FANNY/fanny-lightborn-ranger.jpg"
+      "name_category": "Aldous",
+      "title":"Aldous The Insentient",
+      "image":"https://i.ibb.co/JmxXH39/Aldous-The-Insentient.jpg"
     },
     {
       "id":19,
-      "name_category": "Fanny",
-      "title":"Fanny Punk Princess",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/FANNY/fanny-punk-princess.jpg"
+      "name_category": "Alpha",
+      "title":"Alpha Crimson Warrior",
+      "image":"https://i.ibb.co/CWgXLKs/Alpha-Crimson-Warrior.jpg"
     },
     {
       "id":20,
-      "name_category": "Fanny",
-      "title":"Fanny Royal Cavalry",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/FANNY/fanny-royal-cavalry.jpg"
+      "name_category": "Alpha",
+      "title":"Alpha Fierce Dragon",
+      "image":"https://i.ibb.co/DtVL32X/Alpha-Fierce-Dragon.jpg"
     },
     {
       "id":21,
-      "name_category": "Fanny",
-      "title":"Fanny Skylark",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/FANNY/fanny-skylark.jpg"
+      "name_category": "Alpha",
+      "title":"Alpha Onimusha Commander",
+      "image":"https://i.ibb.co/QMdnvpW/Alpha-Onimusha-Commander.jpg"
     },
     {
       "id":22,
-      "name_category": "Gusion",
-      "title":"Gusion Lesley",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/GUSION/gusion%20lesley.jpg"
+      "name_category": "Alpha",
+      "title":"Alpha Revamped",
+      "image":"https://i.ibb.co/t3SF7xR/Alpha-Revamped.jpg"
     },
     {
       "id":23,
-      "name_category": "Gusion",
-      "title":"Gusion Aurora Dyrroth Ko",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/GUSION/gusion-aurora-dyrroth-ko.jpg"
+      "name_category": "Alpha",
+      "title":"Alpha Sea gladiator",
+      "image":"https://i.ibb.co/C8F3cYM/Alpha-Sea-gladiator.jpg"
     },
     {
       "id":24,
-      "name_category": "Gusion",
-      "title":"Gusion Cosmic Gleam",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/GUSION/gusion-cosmic-gleam.jpg"
+      "name_category": "Alpha",
+      "title":"Alpha Ultimate Weapon",
+      "image":"https://i.ibb.co/wyTxrDc/Alpha-Ultimate-Weapon.jpg"
     },
     {
       "id":25,
-      "name_category": "Gusion",
-      "title":"Gusion Cyber Ops",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/GUSION/gusion-cyber-ops.jpg"
+      "name_category": "Argus",
+      "title":"Argus Catastrophe",
+      "image":"https://i.ibb.co/J7Fkg7S/Argus-Catastrophe.jpg"
     },
     {
       "id":26,
-      "name_category": "Gusion",
-      "title":"Gusion Dangerous Liaison Lesley Dangerous Love",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/GUSION/gusion-dangerous-liaison-lesley-dangerous-love.jpg"
+      "name_category": "Argus",
+      "title":"Argus Dark Draconic",
+      "image":"https://i.ibb.co/pj4mkw2/Argus-Dark-Draconic.jpg"
     },
     {
       "id":27,
-      "name_category": "Gusion",
-      "title":"Gusion Hairstylist",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/GUSION/gusion-hairstylist.jpg"
+      "name_category": "Argus",
+      "title":"Argus Darth Vader",
+      "image":"https://i.ibb.co/7jKz9xq/Argus-Darth-Vader.jpg"
     },
     {
       "id":28,
-      "name_category": "Gusion",
-      "title":"Gusion Kof",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/GUSION/gusion-kof.jpg"
+      "name_category": "Argus",
+      "title":"Argus Light of Dawn",
+      "image":"https://i.ibb.co/gFZs5qv/Argus-Light-of-Dawn.jpg"
     },
     {
       "id":29,
-      "name_category": "Gusion",
-      "title":"Gusion Moonlight Sonata",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/GUSION/gusion-moonlight-sonata.jpg"
+      "name_category": "Argus",
+      "title":"Argus Nightstalker",
+      "image":"https://i.ibb.co/DQyhy88/Argus-Nightstalker.jpg"
     },
     {
       "id":30,
-      "name_category": "Gusion",
-      "title":"Gusion Venom Emperor Scorpion",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/GUSION/gusion-venom-emperor-scorpion.jpg"
+      "name_category": "Aulus",
+      "title":"Aulus Berserker",
+      "image":"https://i.ibb.co/9sy9vm2/Aulus-Berserker.jpg"
     },
     {
       "id":31,
-      "name_category": "Gusion",
-      "title":"Gusion",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/GUSION/gusion.jpg"
+      "name_category": "Aulus",
+      "title":"Aulus",
+      "image":"https://i.ibb.co/qDr2ScR/Aulus.jpg"
     },
     {
       "id":32,
-      "name_category": "Hanzo",
-      "title":"Hanzo Insidious Tutor",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HANZO/hanzo-insidious-tutor.jpg"
+      "name_category": "Badang",
+      "title":"Badang Fist Of Zen",
+      "image":"https://i.ibb.co/3dxs8Dz/Badang-Fist-Of-Zen.jpg"
     },
     {
       "id":33,
-      "name_category": "Hanzo",
-      "title":"Hanzo Pale Phantom",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HANZO/hanzo-pale-phantom.jpg"
+      "name_category": "Badang",
+      "title":"Badang Ironfists",
+      "image":"https://i.ibb.co/rxz6scb/Badang-Ironfists.jpg"
     },
     {
       "id":34,
-      "name_category": "Hanzo",
-      "title":"Hanzo Undead King",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HANZO/hanzo-undead-king.jpg"
+      "name_category": "Badang",
+      "title":"Badang Leo Zodiac",
+      "image":"https://i.ibb.co/MV7SBfv/Badang-Leo-Zodiac.jpg"
     },
     {
       "id":35,
-      "name_category": "Hanzo",
-      "title":"Hanzo",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HANZO/hanzo.jpg"
+      "name_category": "Badang",
+      "title":"Badang Susanoo",
+      "image":"https://i.ibb.co/L5gwNpS/Badang-Susanoo.jpg"
     },
     {
       "id":36,
-      "name_category": "Hayabusa",
-      "title":"Hayabusa Shadow Of Iga",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HAYABUSA/Hayabusa%20Shadow%20Of%20Iga.jpg"
+      "name_category": "Badang",
+      "title":"Badang Tribal Warrior",
+      "image":"https://i.ibb.co/JtN0X56/Badang-Tribal-Warrior.jpg"
     },
     {
       "id":37,
-      "name_category": "Hayabusa",
-      "title":"Hayabusa Experiment",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HAYABUSA/hayabusa%20experiment.jpg"
+      "name_category": "Balmond",
+      "title":"Balmond Ghouls Fury",
+      "image":"https://i.ibb.co/vJj8Ftd/Balmond-Ghouls-Fury.jpg"
     },
     {
       "id":38,
-      "name_category": "Hayabusa",
-      "title":"Hayabusa Future Enforcer",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HAYABUSA/hayabusa%20future%20enforcer.jpg"
+      "name_category": "Balmond",
+      "title":"Balmond God of Mountains",
+      "image":"https://i.ibb.co/T8HbVyp/Balmond-God-of-Mountains.jpg"
     },
     {
       "id":39,
-      "name_category": "Hayabusa",
-      "title":"Hayabusa Shadow Of Obscurity",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HAYABUSA/hayabusa%20shadow%20of%20obscurity.jpg"
+      "name_category": "Balmond",
+      "title":"Balmond Old Version",
+      "image":"https://i.ibb.co/HP6Wkr0/Balmond-Old-Version.jpg"
     },
     {
       "id":40,
-      "name_category": "Hayabusa",
-      "title":"Hayabusa Spacetime Shadow",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HAYABUSA/hayabusa%20spacetime%20shadow.jpg"
+      "name_category": "Balmond",
+      "title":"Balmond Power Source",
+      "image":"https://i.ibb.co/GJ1kk2c/Balmond-Power-Source.jpg"
     },
     {
       "id":41,
-      "name_category": "Hayabusa",
-      "title":"Hayabusa Biological Weapon",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HAYABUSA/hayabusa-biological-weapon.jpg"
+      "name_category": "Balmond",
+      "title":"Balmond Savage Hunter",
+      "image":"https://i.ibb.co/DVczMPP/Balmond-Savage-Hunter.jpg"
     },
     {
       "id":42,
-      "name_category": "Hayabusa",
-      "title":"Hayabusa Sushi Master",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HAYABUSA/hayabusa-sushi-master.jpg"
+      "name_category": "Balmond",
+      "title":"Balmond Savage Pointguard",
+      "image":"https://i.ibb.co/RcpQVnh/Balmond-Savage-Pointguard.jpg"
     },
     {
       "id":43,
-      "name_category": "Hayabusa",
-      "title":"Hayabusa",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HAYABUSA/hayabusa.jpg"
+      "name_category": "Balmond",
+      "title":"Balmond",
+      "image":"https://i.ibb.co/qrN4Wsh/Balmond.jpg"
     },
     {
       "id":44,
-      "name_category": "Helcurt",
-      "title":"Helcurt Shadowbringer",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HELCURT/Helcurt%20Shadowbringer.jpg"
+      "name_category": "Bane",
+      "title":"Bane Count Dracula",
+      "image":"https://i.ibb.co/xh9MtQR/Bane-Count-Dracula.jpg"
     },
     {
       "id":45,
-      "name_category": "Helcurt",
-      "title":"Helcurt %281%29",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HELCURT/helcurt%20%281%29.jpg"
+      "name_category": "Bane",
+      "title":"Bane Deep Sea Monster",
+      "image":"https://i.ibb.co/NLVWyVq/Bane-Deep-Sea-Monster.jpg"
     },
     {
       "id":46,
-      "name_category": "Helcurt",
-      "title":"Helcurt %286%29",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HELCURT/helcurt%20%286%29.jpg"
+      "name_category": "Bane",
+      "title":"Bane Lor of The Heptaseas",
+      "image":"https://i.ibb.co/FBXQZrz/Bane-Lor-of-The-Heptaseas.jpg"
     },
     {
       "id":47,
-      "name_category": "Helcurt",
-      "title":"Helcurt Evolve Predator",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HELCURT/helcurt-evolve-predator.jpg"
+      "name_category": "Bane",
+      "title":"Bane Warlord",
+      "image":"https://i.ibb.co/VvLmYPd/Bane-Warlord.jpg"
     },
     {
       "id":48,
-      "name_category": "Helcurt",
-      "title":"Helcurt Scorpio Zodiac",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/HELCURT/helcurt-scorpio-zodiac.jpg"
+      "name_category": "Chou",
+      "title":"Chou Dragon Boy",
+      "image":"https://i.ibb.co/cXpddPs/Chou-Dragon-Boy.jpg"
     },
     {
       "id":49,
-      "name_category": "Karina",
-      "title":"Karina Black Pearl",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/KARINA/karina-black-pearl.jpg"
+      "name_category": "Chou",
+      "title":"Chou Furious Tiger",
+      "image":"https://i.ibb.co/zP1k1T1/Chou-Furious-Tiger.jpg"
     },
     {
       "id":50,
-      "name_category": "Karina",
-      "title":"Karina Blood Moon",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/KARINA/karina-blood-moon.jpg"
+      "name_category": "Chou",
+      "title":"Chou Go Ballistic",
+      "image":"https://i.ibb.co/1zmrM8Q/Chou-Go-Ballistic.jpg"
     },
     {
       "id":51,
-      "name_category": "Karina",
-      "title":"Karina Doom Duelist",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/KARINA/karina-doom-duelist.jpg"
+      "name_category": "Chou",
+      "title":"Chou King of Muay Thai",
+      "image":"https://i.ibb.co/HrDMbhH/Chou-King-of-Muay-Thai.jpg"
     },
     {
       "id":52,
-      "name_category": "Karina",
-      "title":"Karina Gemini Zodiac",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/KARINA/karina-gemini-zodiac.jpg"
+      "name_category": "Chou",
+      "title":"Chou Kung Fu Boy",
+      "image":"https://i.ibb.co/xh7CBZv/Chou-Kung-Fu-Boy.jpg"
     },
     {
       "id":53,
-      "name_category": "Karina",
-      "title":"Karina Kof Leona",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/KARINA/karina-kof-leona.jpg"
+      "name_category": "Chou",
+      "title":"Chou Lori",
+      "image":"https://i.ibb.co/dpr0sK7/Chou-Lori.jpg"
     },
     {
       "id":54,
-      "name_category": "Karina",
-      "title":"Karina Spider Lily",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/KARINA/karina-spider-lily.jpg"
+      "name_category": "Chou",
+      "title":"Chou S T U N",
+      "image":"https://i.ibb.co/g61S9ZQ/Chou-S-T-U-N.jpg"
     },
     {
       "id":55,
-      "name_category": "Karina",
-      "title":"Karina",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/KARINA/karina.jpg"
+      "name_category": "Chou",
+      "title":"Chou Thunderfist",
+      "image":"https://i.ibb.co/hftG3WZ/Chou-Thunderfist.jpg"
     },
     {
       "id":56,
-      "name_category": "Lancelot",
-      "title":"Lancelot Sword Master",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LANCELOT/Lancelot%20Sword%20Master.jpg"
+      "name_category": "Chou",
+      "title":"S T U N Chou",
+      "image":"https://i.ibb.co/tH8DdyL/S-T-U-N-Chou.jpg"
     },
     {
       "id":57,
-      "name_category": "Lancelot",
-      "title":"Lancelot Christmas Carnival",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LANCELOT/lancelot-christmas-carnival.jpg"
+      "name_category": "Dyrroth",
+      "title":"Dyrroth Orochi Chris KOF",
+      "image":"https://i.ibb.co/5ndxsxd/Dyrroth-Orochi-Chris-KOF.jpg"
     },
     {
       "id":58,
-      "name_category": "Lancelot",
-      "title":"Lancelot Dark Earl",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LANCELOT/lancelot-dark-earl.jpg"
+      "name_category": "Dyrroth",
+      "title":"Dyrroth Prince of The Abyss",
+      "image":"https://i.ibb.co/YkhJwFV/Dyrroth-Prince-of-The-Abyss.jpg"
     },
     {
       "id":59,
-      "name_category": "Lancelot",
-      "title":"Lancelot Floral Knight",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LANCELOT/lancelot-floral-knight.jpg"
+      "name_category": "Dyrroth",
+      "title":"Dyrroth Ruins Scavenger",
+      "image":"https://i.ibb.co/ZSs9zHN/Dyrroth-Ruins-Scavenger.jpg"
     },
     {
       "id":60,
-      "name_category": "Lancelot",
-      "title":"Lancelot Masked Knight",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LANCELOT/lancelot-masked-knight.jpg"
+      "name_category": "Dyrroth",
+      "title":"Dyrroth Scalebore",
+      "image":"https://i.ibb.co/jDnkQ8Z/Dyrroth-Scalebore.jpg"
     },
     {
       "id":61,
-      "name_category": "Lancelot",
-      "title":"Lancelot Odette Christmas Carnival",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LANCELOT/lancelot-odette-christmas-carnival.jpg"
+      "name_category": "Freya",
+      "title":"Freya Beach Sweetheart",
+      "image":"https://i.ibb.co/b5m802R/Freya-Beach-Sweetheart.jpg"
     },
     {
       "id":62,
-      "name_category": "Lancelot",
-      "title":"Lancelot Royal Matador",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LANCELOT/lancelot-royal-matador.jpg"
+      "name_category": "Freya",
+      "title":"Freya Christmas Carnival",
+      "image":"https://i.ibb.co/0KJnLXK/Freya-Christmas-Carnival.jpg"
     },
     {
       "id":63,
-      "name_category": "Lancelot",
-      "title":"Lancelot",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LANCELOT/lancelot.jpg"
+      "name_category": "Freya",
+      "title":"Freya Dark Rose",
+      "image":"https://i.ibb.co/JtJfPbn/Freya-Dark-Rose.jpg"
     },
     {
       "id":64,
-      "name_category": "Lapu Lapu",
-      "title":"Lapu Lapu",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LAPU-LAPU/Lapu%20Llapu.jpg"
+      "name_category": "Freya",
+      "title":"Freya Gladiator",
+      "image":"https://i.ibb.co/CvNymf2/Freya-Gladiator.jpg"
     },
     {
       "id":65,
-      "name_category": "Lapu Lapu",
-      "title":"Lapu Lapu Imperial Champion 2",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LAPU-LAPU/lapu-lapu-imperial-champion%202.jpg"
+      "name_category": "Freya",
+      "title":"Freya Hero Reborn",
+      "image":"https://i.ibb.co/DV7NLy5/Freya-Hero-Reborn.jpg"
     },
     {
       "id":66,
-      "name_category": "Lapu Lapu",
-      "title":"Lapu Lapu Vulcan 2",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LAPU-LAPU/lapu-lapu-vulcan%202.jpg"
+      "name_category": "Freya",
+      "title":"Freya Raven Shogun",
+      "image":"https://i.ibb.co/Tqv6q5V/Freya-Raven-Shogun.jpg"
     },
     {
       "id":67,
-      "name_category": "Ling",
-      "title":"Ling Fiery Dance",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LING/Ling%20Fiery%20Dance.jpg"
+      "name_category": "Freya",
+      "title":"Freya War Angel",
+      "image":"https://i.ibb.co/chfpPBT/Freya-War-Angel.jpg"
     },
     {
       "id":68,
-      "name_category": "Ling",
-      "title":"Ling Street Punk 2",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LING/Ling%20Street%20Punk%202.jpg"
+      "name_category": "Guinevere",
+      "title":"Guinevere Amethyst Dance",
+      "image":"https://i.ibb.co/pzDd9dq/Guinevere-Amethyst-Dance.jpg"
     },
     {
       "id":69,
-      "name_category": "Ling",
-      "title":"Ling 2",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LING/ling%202.jpg"
+      "name_category": "Guinevere",
+      "title":"Guinevere Fleur de Bleau",
+      "image":"https://i.ibb.co/TcC2Q4x/Guinevere-Fleur-de-Bleau.jpg"
     },
     {
       "id":70,
-      "name_category": "Ling",
-      "title":"Ling Night Shade",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LING/ling%20night%20shade.jpg"
+      "name_category": "Guinevere",
+      "title":"Guinevere KOF Athena Asamiya",
+      "image":"https://i.ibb.co/zHRHWsv/Guinevere-KOF-Athena-Asamiya.jpg"
     },
     {
       "id":71,
-      "name_category": "Ling",
-      "title":"Ling Cosmo Guard",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LING/ling-cosmo-guard.jpg"
+      "name_category": "Guinevere",
+      "title":"Guinevere Lady Crane",
+      "image":"https://i.ibb.co/rkS5YMr/Guinevere-Lady-Crane.jpg"
     },
     {
       "id":72,
-      "name_category": "Ling",
-      "title":"Ling Serene Plume",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/LING/ling-serene-plume.jpg"
+      "name_category": "Guinevere",
+      "title":"Guinevere Lotus",
+      "image":"https://i.ibb.co/PYZdxdN/Guinevere-Lotus.jpg"
     },
     {
       "id":73,
-      "name_category": "Natalia",
-      "title":"Natalia  2",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/NATALIA/alice-divine-owl.jpg"
+      "name_category": "Guinevere",
+      "title":"Guinevere Ms Violet",
+      "image":"https://i.ibb.co/vq6zp06/Guinevere-Ms-Violet.jpg"
     },
     {
       "id":74,
-      "name_category": "Natalia",
-      "title":"Natalia 3",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/NATALIA/natalia%20%281%29.jpg"
+      "name_category": "Guinevere",
+      "title":"Guinevere Sakura Wishes",
+      "image":"https://i.ibb.co/N7fxGmG/Guinevere-Sakura-Wishes.jpg"
     },
     {
       "id":75,
-      "name_category": "Natalia",
-      "title":"Natalia Cyber Spectre",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/NATALIA/natalia-cyber-spectre.jpg"
+      "name_category": "Guinevere",
+      "title":"Guinevere Summer Breeze",
+      "image":"https://i.ibb.co/6PxLfY0/Guinevere-Summer-Breeze.jpg"
     },
     {
       "id":76,
-      "name_category": "Natalia",
-      "title":"Natalia Deadly Mamba",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/NATALIA/natalia-deadly-mamba.jpg"
+      "name_category": "Jawhead",
+      "title":"Jawhead Candy Bear Starlight",
+      "image":"https://i.ibb.co/5kWQ74X/Jawhead-Candy-Bear-Starlight.jpg"
     },
     {
       "id":77,
-      "name_category": "Natalia",
-      "title":"Natalia Glass Blade",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/NATALIA/natalia-glass-blade.jpg"
+      "name_category": "Jawhead",
+      "title":"Jawhead Foo Quarterback",
+      "image":"https://i.ibb.co/N6YGBjx/Jawhead-Foo-Quarterback.jpg"
     },
     {
       "id":78,
-      "name_category": "Natalia",
-      "title":"Natalia Grim Strangler",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/NATALIA/natalia-grim-strangler.jpg"
+      "name_category": "Jawhead",
+      "title":"Jawhead Girl Scout",
+      "image":"https://i.ibb.co/XJvLxTV/Jawhead-Girl-Scout.jpg"
     },
     {
       "id":79,
-      "name_category": "Natalia",
-      "title":"Natalia",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/NATALIA/natalia.jpg"
+      "name_category": "Jawhead",
+      "title":"Jawhead Samurai Mech",
+      "image":"https://i.ibb.co/HTdrmHV/Jawhead-Samurai-Mech.jpg"
     },
     {
       "id":80,
-      "name_category": "Saber",
-      "title":"Saber 2",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SABER/saber%20%2815%29.jpg"
+      "name_category": "Jawhead",
+      "title":"Jawhead Steel sweetheart",
+      "image":"https://i.ibb.co/BNDTRZF/Jawhead-Steel-sweetheart.jpg"
     },
     {
       "id":81,
-      "name_category": "Saber",
-      "title":"Saber Codename Storm",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SABER/saber-codename-storm.jpg"
+      "name_category": "Jawhead",
+      "title":"Jawhead the nutcracker",
+      "image":"https://i.ibb.co/kgXG3z6/Jawhead-the-nutcracker.jpg"
     },
     {
       "id":82,
-      "name_category": "Saber",
-      "title":"Saber Cyclops Rafaela Saber Squad",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SABER/saber-cyclops-rafaela-saber-squad.jpg"
+      "name_category": "Khaleed",
+      "title":"Khaleed Crescent Scimitar",
+      "image":"https://i.ibb.co/9c9ZDq6/Khaleed-Crescent-Scimitar.jpg"
     },
     {
       "id":83,
-      "name_category": "Saber",
-      "title":"Saber Force Warrior",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SABER/saber-force-warrior.jpg"
+      "name_category": "Khaleed",
+      "title":"Khaleed Desert scimitar",
+      "image":"https://i.ibb.co/z6gVYY9/Khaleed-Desert-scimitar.jpg"
     },
     {
       "id":84,
-      "name_category": "Saber",
-      "title":"Saber Fullmetal Ronin",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SABER/saber-fullmetal-ronin.jpg"
+      "name_category": "Khaleed",
+      "title":"Khaleed Prince of Sand",
+      "image":"https://i.ibb.co/0CxLHwj/Khaleed-Prince-of-Sand.jpg"
     },
     {
       "id":85,
-      "name_category": "Saber",
-      "title":"Saber Golden Flash Rework",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SABER/saber-golden-flash-rework.jpg"
+      "name_category": "Leomord",
+      "title":"Leomord Frostborn Paladin",
+      "image":"https://i.ibb.co/BfMByDM/Leomord-Frostborn-Paladin.jpg"
     },
     {
       "id":86,
-      "name_category": "Saber",
-      "title":"Saber Onimaru",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SABER/saber-onimaru.jpg"
+      "name_category": "Leomord",
+      "title":"Leomord Hell Knight",
+      "image":"https://i.ibb.co/TWJ1sPv/Leomord-Hell-Knight.jpg"
     },
     {
       "id":87,
-      "name_category": "Saber",
-      "title":"Saber Regulator",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SABER/saber-regulator.jpg"
+      "name_category": "Leomord",
+      "title":"Leomord Inferno Soul",
+      "image":"https://i.ibb.co/SxnQgYw/Leomord-Inferno-Soul.jpg"
     },
     {
       "id":88,
-      "name_category": "Selena",
-      "title":"Selena Zodiak",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SELENA/Selena%20Zodiak.jpg"
+      "name_category": "Leomord",
+      "title":"Leomord Jack O Lantern",
+      "image":"https://i.ibb.co/kDJb8N6/Leomord-Jack-O-Lantern.jpg"
     },
     {
       "id":89,
-      "name_category": "Selena",
-      "title":"Selena Double Identity",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SELENA/selena-double-identity.jpg"
+      "name_category": "Leomord",
+      "title":"Leomord Phantom Knight",
+      "image":"https://i.ibb.co/q58JBbB/Leomord-Phantom-Knight.jpg"
     },
     {
       "id":90,
-      "name_category": "Selena",
-      "title":"Selena Stun",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SELENA/selena-stun.jpg"
+      "name_category": "Leomord",
+      "title":"Leomord Triumph Eagle",
+      "image":"https://i.ibb.co/QdghQQn/Leomord-Triumph-Eagle.jpg"
     },
     {
       "id":91,
-      "name_category": "Selena",
-      "title":"Selena Thunder Flash",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SELENA/selena-thunder-flash.jpg"
+      "name_category": "Martis",
+      "title":"Martis Ashura King",
+      "image":"https://i.ibb.co/mHfGh8j/Martis-Ashura-King.jpg"
     },
     {
       "id":92,
-      "name_category": "Selena",
-      "title":"Selena Virus",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SELENA/selena-virus.jpg"
+      "name_category": "Martis",
+      "title":"Martis Capricorn",
+      "image":"https://i.ibb.co/4ts86WG/Martis-Capricorn.jpg"
     },
     {
       "id":93,
-      "name_category": "Selena",
-      "title":"Selena Wasp Queen",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SELENA/selena-wasp-queen.jpg"
+      "name_category": "Martis",
+      "title":"Martis Deathrock",
+      "image":"https://i.ibb.co/bXmF3F9/Martis-Deathrock.jpg"
     },
     {
       "id":94,
-      "name_category": "Selena",
-      "title":"Selena",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/SELENA/selena.jpg"
+      "name_category": "Martis",
+      "title":"Martis God of War",
+      "image":"https://i.ibb.co/nLMxQ3S/Martis-God-of-War.jpg"
     },
     {
       "id":95,
-      "name_category": "Zilong",
-      "title":"Zilong  Old Version",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ZILONG/zilong%20%20Old%20Version.jpg"
+      "name_category": "Martis",
+      "title":"Martis Searing",
+      "image":"https://i.ibb.co/wW1vjmc/Martis-Searing.jpg"
     },
     {
       "id":96,
-      "name_category": "Zilong",
-      "title":"Zilong Christmas Carnival",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ZILONG/zilong%20christmas-carnival.jpg"
+      "name_category": "Martis",
+      "title":"Martis Tyrant",
+      "image":"https://i.ibb.co/jb5xmw8/Martis-Tyrant.jpg"
     },
     {
       "id":97,
-      "name_category": "Zilong",
-      "title":"Zilong Freya Christmas Carnival",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ZILONG/zilong%20freya%20christmas%20carnival.jpg"
+      "name_category": "Masha",
+      "title":"Masha 1",
+      "image":"https://i.ibb.co/L0HxpXw/Masha-1.jpg"
     },
     {
       "id":98,
-      "name_category": "Zilong",
-      "title":"Zilong Revamped",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ZILONG/zilong%20revamped.jpg"
+      "name_category": "Masha",
+      "title":"Masha 2",
+      "image":"https://i.ibb.co/GnKMRVC/Masha-2.jpg"
     },
     {
       "id":99,
-      "name_category": "Zilong",
-      "title":"Zilong Blazing Lancer",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ZILONG/zilong-blazing-lancer.jpg"
+      "name_category": "Masha",
+      "title":"Masha 3",
+      "image":"https://i.ibb.co/Jy6F1KG/Masha-3.jpg"
     },
     {
       "id":100,
-      "name_category": "Zilong",
-      "title":"Zilong Changbanpo Commander",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ZILONG/zilong-changbanpo-commander.jpg"
+      "name_category": "Masha",
+      "title":"Masha Combat Maiden",
+      "image":"https://i.ibb.co/fN1kz4Z/Masha-Combat-Maiden.jpg"
     },
     {
       "id":101,
-      "name_category": "Zilong",
-      "title":"Zilong Eastern Warrior",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ZILONG/zilong-eastern-warrior.jpg"
+      "name_category": "Masha",
+      "title":"Masha Dragon Armor",
+      "image":"https://i.ibb.co/rdPqNpD/Masha-Dragon-Armor.jpg"
     },
     {
       "id":102,
-      "name_category": "Zilong",
-      "title":"Zilong Elite Warrior",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ZILONG/zilong-elite-warrior.jpg"
+      "name_category": "Masha",
+      "title":"Masha wild oats fist",
+      "image":"https://i.ibb.co/fqrV5SP/Masha-wild-oats-fist.jpg"
     },
     {
       "id":103,
-      "name_category": "Zilong",
-      "title":"Zilong Freya Christmas Carnival",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ZILONG/zilong-freya-christmas-carnival.jpg"
+      "name_category": "Masha",
+      "title":"Masha Winter Guard",
+      "image":"https://i.ibb.co/HGZKDFk/Masha-Winter-Guard.jpg"
     },
     {
       "id":104,
-      "name_category": "Zilong",
-      "title":"Zilong Glorious General",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ZILONG/zilong-glorious-general.jpg"
+      "name_category": "Minsitthar",
+      "title":"Minsitthar Courangeous Warrior",
+      "image":"https://i.ibb.co/6DZ3F3Q/Minsitthar-Courangeous-Warrior.jpg"
     },
     {
       "id":105,
-      "name_category": "Zilong",
-      "title":"Zilong Ravamped Glorious General",
-      "image":"http://tukumaning.miemiebrownie.com/ASSASSIN/ZILONG/zilong-ravamped-glorious-general.jpg"
+      "name_category": "Minsitthar",
+      "title":"Minsitthar Gilded King",
+      "image":"https://i.ibb.co/zQbtbYy/Minsitthar-Gilded-King.jpg"
     },
     {
       "id":106,
-      "name_category": "Aldous",
-      "title":"Aldous Soul Contractor",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ALDOUS/Aldous%20Soul%20Contractor.jpg"
+      "name_category": "Minsitthar",
+      "title":"Minsitthar King Of War",
+      "image":"https://i.ibb.co/2MLHHtq/Minsitthar-King-Of-War.jpg"
     },
     {
       "id":107,
-      "name_category": "Aldous",
-      "title":"Aldous Death",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ALDOUS/Aldous%20death.jpg"
+      "name_category": "Paquito",
+      "title":"Paquito Death Blow",
+      "image":"https://i.ibb.co/wsL99Yc/Paquito-Death-Blow.jpg"
     },
     {
       "id":108,
-      "name_category": "Aldous",
-      "title":"Aldous Red Mantle",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ALDOUS/Aldous%20red%20mantle.jpg"
+      "name_category": "Paquito",
+      "title":"Paquito Manny Pacquiao",
+      "image":"https://i.ibb.co/NFLLC4n/Paquito-Manny-Pacquiao.jpg"
     },
     {
       "id":109,
-      "name_category": "Aldous",
-      "title":"Aldous The Insentient",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ALDOUS/Aldous%20the%20insentient.jpg"
+      "name_category": "Paquito",
+      "title":"Paquito Underground Boxer",
+      "image":"https://i.ibb.co/5GzfLrf/Paquito-Underground-Boxer.jpg"
     },
     {
       "id":110,
-      "name_category": "Aldous",
-      "title":"Aldous Blazing Force",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ALDOUS/aldous-blazing-force.jpg"
+      "name_category": "Paquito",
+      "title":"Paquito",
+      "image":"https://i.ibb.co/DwGbsvB/Paquito.jpg"
     },
     {
       "id":111,
-      "name_category": "Aldous",
-      "title":"Aldous King Of Supremacy",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ALDOUS/aldous-king-of-supremacy.jpg"
+      "name_category": "Phoveus",
+      "title":"Phoveus Horror Bringer",
+      "image":"https://i.ibb.co/4d64S2f/Phoveus-Horror-Bringer.jpg"
     },
     {
       "id":112,
-      "name_category": "Alpha",
-      "title":"Alpha Fierce Dragon",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ALPHA/Alpha%20Fierce%20Dragon.jpg"
+      "name_category": "Phoveus",
+      "title":"Phoveus",
+      "image":"https://i.ibb.co/Sd4c9dj/Phoveus.jpg"
     },
     {
       "id":113,
-      "name_category": "Alpha",
-      "title":"Alpha Onimusha Commander",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ALPHA/Alpha%20Onimusha%20Commander.jpg"
+      "name_category": "Roger",
+      "title":"Roger Anubis",
+      "image":"https://i.ibb.co/chj1t88/Roger-Anubis.jpg"
     },
     {
       "id":114,
-      "name_category": "Alpha",
-      "title":"Alpha Sea Gladiator",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ALPHA/Alpha%20Sea%20gladiator.jpg"
+      "name_category": "Roger",
+      "title":"Roger Cyborg Werewolf",
+      "image":"https://i.ibb.co/R7NmLS2/Roger-Cyborg-Werewolf.jpg"
     },
     {
       "id":115,
-      "name_category": "Alpha",
-      "title":"Alpha Ultimate Weapon",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ALPHA/Alpha%20Ultimate%20Weapon.jpg"
+      "name_category": "Roger",
+      "title":"Roger Dark Gent",
+      "image":"https://i.ibb.co/pKycQdX/Roger-Dark-Gent.jpg"
     },
     {
       "id":116,
-      "name_category": "Alpha",
-      "title":"Alpha Crimson Warrior",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ALPHA/alpha%20crimson%20warrior.jpg"
+      "name_category": "Roger",
+      "title":"Roger Dire Wolf Hunter",
+      "image":"https://i.ibb.co/hgwMRy3/Roger-Dire-Wolf-Hunter.jpg"
     },
     {
       "id":117,
-      "name_category": "Argus",
-      "title":"Argus Catastrophe",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ARGUS/Argus%20-%20Catastrophe.jpg"
+      "name_category": "Roger",
+      "title":"Roger Dr Beast",
+      "image":"https://i.ibb.co/QX77G0h/Roger-Dr-Beast.jpg"
     },
     {
       "id":118,
-      "name_category": "Argus",
-      "title":"Argus Dark Draconic",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ARGUS/Argus%20-%20Dark%20Draconic.jpg"
+      "name_category": "Roger",
+      "title":"Roger Phantom Pirate",
+      "image":"https://i.ibb.co/mC6Dtwm/Roger-Phantom-Pirate.jpg"
     },
     {
       "id":119,
-      "name_category": "Argus",
-      "title":"Argus Light Of Dawn",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ARGUS/Argus%20-%20Light%20of%20Dawn.jpg"
+      "name_category": "Ruby",
+      "title":"Ruby cat girl",
+      "image":"https://i.ibb.co/m80fvHh/Ruby-cat-girl.jpg"
     },
     {
       "id":120,
-      "name_category": "Argus",
-      "title":"Argus Nightstalker",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ARGUS/Argus%20-%20Nightstalker.jpg"
+      "name_category": "Ruby",
+      "title":"Ruby edelweiss",
+      "image":"https://i.ibb.co/7tT0YSH/Ruby-edelweiss.jpg"
     },
     {
       "id":121,
-      "name_category": "Badang",
-      "title":"Badang Fist Of Zen",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BADANG/Badang%20Fist%20Of%20Zen.jpg"
+      "name_category": "Ruby",
+      "title":"Ruby Hidden orchid",
+      "image":"https://i.ibb.co/pR357B0/Ruby-Hidden-orchid.jpg"
     },
     {
       "id":122,
-      "name_category": "Badang",
-      "title":"Badang Ironfists",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BADANG/Badang%20Ironfists.jpg"
+      "name_category": "Ruby",
+      "title":"Ruby lady zombie",
+      "image":"https://i.ibb.co/X8CQbjy/Ruby-lady-zombie.jpg"
     },
     {
       "id":123,
-      "name_category": "Badang",
-      "title":"Badang Leo",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BADANG/Badang%20Leo.jpg"
+      "name_category": "Ruby",
+      "title":"Ruby little red hood",
+      "image":"https://i.ibb.co/Q8q39w5/Ruby-little-red-hood.jpg"
     },
     {
       "id":124,
-      "name_category": "Badang",
-      "title":"Badang Susano",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BADANG/Badang%20Susano.jpg"
+      "name_category": "Ruby",
+      "title":"Ruby Revamp",
+      "image":"https://i.ibb.co/2kPwx9d/Ruby-Revamp.jpg"
     },
     {
       "id":125,
-      "name_category": "Badang",
-      "title":"Badang Tribal Warior",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BADANG/Badang%20Tribal%20Warior.jpg"
+      "name_category": "Silvanna",
+      "title":"Silvanna Hallowed Lance",
+      "image":"https://i.ibb.co/cT7W0Df/Silvanna-Hallowed-Lance.jpg"
     },
     {
       "id":126,
-      "name_category": "Balmond",
-      "title":"Balmond Savage Hunter",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BALMOND/BALMOND%20savage%20hunter.jpg"
+      "name_category": "Silvanna",
+      "title":"Silvanna Imperial Knightess",
+      "image":"https://i.ibb.co/fQsTxRh/Silvanna-Imperial-Knightess.jpg"
     },
     {
       "id":127,
-      "name_category": "Balmond",
-      "title":"Balmond Savage Pointguard",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BALMOND/BALMOND%20savage%20pointguard.jpg"
+      "name_category": "Silvanna",
+      "title":"Silvanna Midnight Justice",
+      "image":"https://i.ibb.co/vcD0XqM/Silvanna-Midnight-Justice.jpg"
     },
     {
       "id":128,
-      "name_category": "Balmond",
-      "title":"Balmond Berserker",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BALMOND/Balmond%20Berserker.jpg"
+      "name_category": "Silvanna",
+      "title":"Silvanna Pure Heroine",
+      "image":"https://i.ibb.co/JppyS9j/Silvanna-Pure-Heroine.jpg"
     },
     {
       "id":129,
-      "name_category": "Balmond",
-      "title":"Balmond Power Source",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BALMOND/Balmond%20Power%20Source.jpg"
+      "name_category": "Sun",
+      "title":"Sun Celestial Outlaw",
+      "image":"https://i.ibb.co/YdWSFtQ/Sun-Celestial-Outlaw.jpg"
     },
     {
       "id":130,
-      "name_category": "Balmond",
-      "title":"Balmond Old Version 1 ",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BALMOND/balmond%20old%20version%20%281%29.jpg"
+      "name_category": "Sun",
+      "title":"Sun Monkey King Old Skin",
+      "image":"https://i.ibb.co/0K3Mntc/Sun-Monkey-King-Old-Skin.jpg"
     },
     {
       "id":131,
-      "name_category": "Balmond",
-      "title":"Balmond Old Version 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BALMOND/balmond%20old%20version%20%282%29.jpg"
+      "name_category": "Sun",
+      "title":"Sun Monkey King",
+      "image":"https://i.ibb.co/xftfhTy/Sun-Monkey-King.jpg"
     },
     {
       "id":132,
-      "name_category": "Balmond",
-      "title":"Balmond Old Version 4 ",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BALMOND/balmond%20old%20version%20%284%29.jpg"
+      "name_category": "Sun",
+      "title":"Sun Rock Star",
+      "image":"https://i.ibb.co/9YTf1VB/Sun-Rock-Star.jpg"
     },
     {
       "id":133,
-      "name_category": "Balmond",
-      "title":"Balmond Old Version 5 ",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BALMOND/balmond%20old%20version%20%285%29.jpg"
+      "name_category": "Sun",
+      "title":"Sun Simian Curse",
+      "image":"https://i.ibb.co/G9XLY36/Sun-Simian-Curse.jpg"
     },
     {
       "id":134,
-      "name_category": "Bane",
-      "title":"Bane Lor Of The Heptaseas",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BANE/Bane%20Lor%20of%20The%20heptaseas.jpg"
+      "name_category": "Sun",
+      "title":"Sun Street Legend",
+      "image":"https://i.ibb.co/7gG0kC8/Sun-Street-Legend.jpg"
     },
     {
       "id":135,
-      "name_category": "Bane",
-      "title":"Bane Count Dracula",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BANE/Bane%20count%20dracula.jpg"
+      "name_category": "Terizla",
+      "title":"Terizla Abyss Guard",
+      "image":"https://i.ibb.co/p0HMxXR/Terizla-Abyss-Guard.jpg"
     },
     {
       "id":136,
-      "name_category": "Bane",
-      "title":"Bane Deep Sea Monster",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BANE/Bane%20deep%20sea%20monster.jpg"
+      "name_category": "Terizla",
+      "title":"Terizla Executioner",
+      "image":"https://i.ibb.co/7KmHGcg/Terizla-Executioner.jpg"
     },
     {
       "id":137,
-      "name_category": "Bane",
-      "title":"Bane Warlord",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/BANE/Bane%20warlord.jpg"
+      "name_category": "Terizla",
+      "title":"Terizla Flare",
+      "image":"https://i.ibb.co/2cPBZSt/Terizla-Flare.jpg"
     },
     {
       "id":138,
-      "name_category": "Chou",
-      "title":"Chou Go Ballistic",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/CHOU/Chou%20Go%20Ballistic.jpg"
+      "name_category": "Terizla",
+      "title":"Terizla Hammer Giant",
+      "image":"https://i.ibb.co/r0L81dR/Terizla-Hammer-Giant.jpg"
     },
     {
       "id":139,
-      "name_category": "Chou",
-      "title":"Chou Iori Yagami",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/CHOU/Chou%20Iori%20Yagami.jpg"
+      "name_category": "Thamuz",
+      "title":"Thamuz Abyssal Reaper",
+      "image":"https://i.ibb.co/9NqSGwJ/Thamuz-Abyssal-Reaper.jpg"
     },
     {
       "id":140,
-      "name_category": "Chou",
-      "title":"Chou Kung Fu Boy",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/CHOU/Chou%20Kung%20fu%20boy.jpg"
+      "name_category": "Thamuz",
+      "title":"Thamuz Liquid Fire",
+      "image":"https://i.ibb.co/6v8rmkq/Thamuz-Liquid-Fire.jpg"
     },
     {
       "id":141,
-      "name_category": "Chou",
-      "title":"Chou Dragon Boy",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/CHOU/Chou%20dragon%20boy.jpg"
+      "name_category": "Thamuz",
+      "title":"Thamuz Lord Lava",
+      "image":"https://i.ibb.co/kmj3t0m/Thamuz-Lord-Lava.jpg"
     },
     {
       "id":142,
-      "name_category": "Chou",
-      "title":"Chou Furious Tiger",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/CHOU/Chou%20furious%20tiger.jpg"
+      "name_category": "Thamuz",
+      "title":"Thamuz Lord of Wraith",
+      "image":"https://i.ibb.co/wWmY9HK/Thamuz-Lord-of-Wraith.jpg"
     },
     {
       "id":143,
-      "name_category": "Chou",
-      "title":"Chou Hip Hop Boy",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/CHOU/Chou%20hip%20hop%20boy.jpg"
+      "name_category": "Aamon",
+      "title":"Aamon Helcurt Ice Scyth",
+      "image":"https://i.ibb.co/k1qXYbN/Aamon-Helcurt-Ice-Scyth.jpg"
     },
     {
       "id":144,
-      "name_category": "Chou",
-      "title":"Chou King Of Muay Thai",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/CHOU/Chou%20king%20of%20muay%20thai.jpg"
+      "name_category": "Aamon",
+      "title":"Aamon",
+      "image":"https://i.ibb.co/4fGVWbX/Aamon.jpg"
     },
     {
       "id":145,
-      "name_category": "Chou",
-      "title":"Chou Stun",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/CHOU/chou-stun.jpg"
+      "name_category": "Alucard",
+      "title":"Alucard Viscount",
+      "image":"https://i.ibb.co/BVz7qnZ/Alucard-Viscount.jpg"
     },
     {
       "id":146,
-      "name_category": "Chou",
-      "title":"Chou Thunderfist",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/CHOU/chou-thunderfist.jpg"
+      "name_category": "Alucard",
+      "title":"Alucard Child Of The Fall",
+      "image":"https://i.ibb.co/1zx9ffZ/Alucard-Child-Of-The-Fall.jpg"
     },
     {
       "id":147,
-      "name_category": "Dyrroth",
-      "title":"Dyrroth 10 ",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/DYRROTH/DYRROTH%20%2810%29.jpg"
+      "name_category": "Alucard",
+      "title":"Alucard Empire Agent",
+      "image":"https://i.ibb.co/KwxqgpJ/Alucard-Empire-Agent.jpg"
     },
     {
       "id":148,
-      "name_category": "Dyrroth",
-      "title":"Dyrroth Kof 1 ",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/DYRROTH/Dyrroth%20KOF%20%281%29.jpg"
+      "name_category": "Alucard",
+      "title":"Alucard Fiery Inferno",
+      "image":"https://i.ibb.co/3swk594/Alucard-Fiery-Inferno.jpg"
     },
     {
       "id":149,
-      "name_category": "Dyrroth",
-      "title":"Dyrroth Kof 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/DYRROTH/Dyrroth%20KOF%20%282%29.jpg"
+      "name_category": "Alucard",
+      "title":"Alucard Lightborn",
+      "image":"https://i.ibb.co/HrBb66G/Alucard-Lightborn.jpg"
     },
     {
       "id":150,
-      "name_category": "Dyrroth",
-      "title":"Dyrroth Orochi Chris",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/DYRROTH/Dyrroth%20Orochi%20chris.jpg"
+      "name_category": "Alucard",
+      "title":"Alucard Lone",
+      "image":"https://i.ibb.co/9wzcTTF/Alucard-Lone.jpg"
     },
     {
       "id":151,
-      "name_category": "Dyrroth",
-      "title":"Dyrroth Prince Of The Abyss",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/DYRROTH/Dyrroth%20Prince%20of%20the%20abyss.jpg"
+      "name_category": "Alucard",
+      "title":"Alucard Obsidian Blade",
+      "image":"https://i.ibb.co/4p7BbS0/Alucard-Obsidian-Blade.jpg"
     },
     {
       "id":152,
-      "name_category": "Dyrroth",
-      "title":"Dyrroth Ruins Scavenger",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/DYRROTH/Dyrroth%20Ruins%20scavenger.jpg"
+      "name_category": "Alucard",
+      "title":"Alucard Revamped",
+      "image":"https://i.ibb.co/Kj3WY5S/Alucard-Revamped.jpg"
     },
     {
       "id":153,
-      "name_category": "Dyrroth",
-      "title":"Dyrroth Scalebore",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/DYRROTH/Dyrroth%20scalebore.jpg"
+      "name_category": "Alucard",
+      "title":"Alucard Romantic Fantasy",
+      "image":"https://i.ibb.co/12gVFqg/Alucard-Romantic-Fantasy.jpg"
     },
     {
       "id":154,
-      "name_category": "Freya",
-      "title":"Freya Dark Rose",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/FREYA/Freya%20Dark%20Rose.jpg"
+      "name_category": "Benedetta",
+      "title":"Benedetta",
+      "image":"https://i.ibb.co/JR365nQ/Benedetta.jpg"
     },
     {
       "id":155,
-      "name_category": "Freya",
-      "title":"Freya Dragon Hunter",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/FREYA/Freya%20Dragon%20Hunter.jpg"
+      "name_category": "Benedetta",
+      "title":"Benedetta Death Oath",
+      "image":"https://i.ibb.co/pwNDsqC/Benedetta-Death-Oath.jpg"
     },
     {
       "id":156,
-      "name_category": "Freya",
-      "title":"Freya Old Version",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/FREYA/Freya%20Old%20Version.jpg"
+      "name_category": "Benedetta",
+      "title":"Benedetta Honor Blade",
+      "image":"https://i.ibb.co/1n9gK56/Benedetta-Honor-Blade.jpg"
     },
     {
       "id":157,
-      "name_category": "Freya",
-      "title":"Freya Valkyrie",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/FREYA/Freya%20Valkyrie.jpg"
+      "name_category": "Benedetta",
+      "title":"Benedetta Street Blow",
+      "image":"https://i.ibb.co/c68KT4M/Benedetta-Street-Blow.jpg"
     },
     {
       "id":158,
-      "name_category": "Freya",
-      "title":"Freya War Angel",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/FREYA/Freya%20War%20angel.jpg"
+      "name_category": "Fanny",
+      "title":"Fanny Skylark",
+      "image":"https://i.ibb.co/PwxXfzp/Fanny-Skylark.jpg"
     },
     {
       "id":159,
-      "name_category": "Freya",
-      "title":"Freya Christmas Carnival",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/FREYA/Freya%20christmas%20carnival.jpg"
+      "name_category": "Fanny",
+      "title":"Fanny Campus Youth",
+      "image":"https://i.ibb.co/xz14FHD/Fanny-Campus-Youth.jpg"
     },
     {
       "id":160,
-      "name_category": "Freya",
-      "title":"Freya Gladiator",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/FREYA/Freya%20gladiator.jpg"
+      "name_category": "Fanny",
+      "title":"Fanny Christma Carnival",
+      "image":"https://i.ibb.co/RbdHC2y/Fanny-Christma-Carnival.jpg"
     },
     {
       "id":161,
-      "name_category": "Freya",
-      "title":"Freya War Angel",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/FREYA/War%20Angel.jpg"
+      "name_category": "Fanny",
+      "title":"Fanny Lifeguard",
+      "image":"https://i.ibb.co/HPXs3qq/Fanny-Lifeguard.jpg"
     },
     {
       "id":162,
-      "name_category": "Freya",
-      "title":"Freya Beach Sweetheart",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/FREYA/freya-beach-sweetheart.jpg"
+      "name_category": "Fanny",
+      "title":"Fanny Lightbor Ranger",
+      "image":"https://i.ibb.co/vBWmp23/Fanny-Lightbor-Ranger.jpg"
     },
     {
       "id":163,
-      "name_category": "Freya",
-      "title":"Freya Raven Shogun",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/FREYA/freya-raven-shogun.jpg"
+      "name_category": "Fanny",
+      "title":"Fanny Punk Princess",
+      "image":"https://i.ibb.co/tq4ryMB/Fanny-Punk-Princess.jpg"
     },
     {
       "id":164,
-      "name_category": "Guinevere",
-      "title":"Guinevere Fleu De Bleau",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/GUINEVERE/Guinevere%20Fleu%20de%20bleau.jpg"
+      "name_category": "Fanny",
+      "title":"Fanny Royal Cavalry",
+      "image":"https://i.ibb.co/FsFZ45c/Fanny-Royal-Cavalry.jpg"
     },
     {
       "id":165,
-      "name_category": "Guinevere",
-      "title":"Guinevere Ms. Violet",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/GUINEVERE/Guinevere%20Ms.%20Violet.jpg"
+      "name_category": "Gusion",
+      "title":"Gusion",
+      "image":"https://i.ibb.co/mJy5DfV/Gusion.jpg"
     },
     {
       "id":166,
-      "name_category": "Guinevere",
-      "title":"Guinevere Amethyst Dance",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/GUINEVERE/Guinevere%20amethyst%20dance.jpg"
+      "name_category": "Gusion",
+      "title":"Gusion Cosmic Gleam",
+      "image":"https://i.ibb.co/Cm2VGJt/Gusion-Cosmic-Gleam.jpg"
     },
     {
       "id":167,
-      "name_category": "Guinevere",
-      "title":"Guinevere Athena Asamiya",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/GUINEVERE/Guinevere%20athena%20asamiya.jpg"
+      "name_category": "Gusion",
+      "title":"Gusion Cyber Ops",
+      "image":"https://i.ibb.co/VM17Y0N/Gusion-Cyber-Ops.jpg"
     },
     {
       "id":168,
-      "name_category": "Guinevere",
-      "title":"Guinevere Lady Crane",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/GUINEVERE/Guinevere%20lady%20crane.jpg"
+      "name_category": "Gusion",
+      "title":"Gusion Dangerous Liaison",
+      "image":"https://i.ibb.co/6YYP9C1/Gusion-Dangerous-Liaison.jpg"
     },
     {
       "id":169,
-      "name_category": "Guinevere",
-      "title":"Guinevere Lotus",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/GUINEVERE/Guinevere%20lotus.jpg"
+      "name_category": "Gusion",
+      "title":"Gusion Hairstylist",
+      "image":"https://i.ibb.co/Jn6Zy7W/Gusion-Hairstylist.jpg"
     },
     {
       "id":170,
-      "name_category": "Guinevere",
-      "title":"Guinevere Sakura Wishes",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/GUINEVERE/guinevere-sakura-wishes.jpg"
+      "name_category": "Gusion",
+      "title":"Gusion KOF",
+      "image":"https://i.ibb.co/2tM8q6v/Gusion-KOF.jpg"
     },
     {
       "id":171,
-      "name_category": "Jawhead",
-      "title":"Jawhead 11 ",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/JAWHEAD/JAWHEAD%20%2811%29.jpg"
+      "name_category": "Gusion",
+      "title":"Gusion Moonlight Sonata",
+      "image":"https://i.ibb.co/GTQL9S3/Gusion-Moonlight-Sonata.jpg"
     },
     {
       "id":172,
-      "name_category": "Jawhead",
-      "title":"Jawhead  Girl Scout 2",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/JAWHEAD/Jawhead%20%20Girl%20scout%202.jpg"
+      "name_category": "Gusion",
+      "title":"Gusion Night Owl",
+      "image":"https://i.ibb.co/1XXsLk9/Gusion-Night-Owl.jpg"
     },
     {
       "id":173,
-      "name_category": "Jawhead",
-      "title":"Jawhead Girl Scout",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/JAWHEAD/Jawhead%20Girl%20Scout.jpg"
+      "name_category": "Gusion",
+      "title":"Gusion V E N O M Emperor Scorpion",
+      "image":"https://i.ibb.co/KhJrY0Z/Gusion-V-E-N-O-M-Emperor-Scorpion.jpg"
     },
     {
       "id":174,
-      "name_category": "Jawhead",
-      "title":"Jawhead Sfoo Quarterback",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/JAWHEAD/Jawhead%20Sfoo%20quarterback.jpg"
+      "name_category": "Hanzo",
+      "title":"hanzo",
+      "image":"https://i.ibb.co/LPmTmCJ/hanzo.jpg"
     },
     {
       "id":175,
-      "name_category": "Jawhead",
-      "title":"Jawhead Space Explorer 2",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/JAWHEAD/Jawhead%20Space%20Explorer%202.jpg"
+      "name_category": "Hanzo",
+      "title":"Hanzo Insidious Tutor",
+      "image":"https://i.ibb.co/1M42yBF/Hanzo-Insidious-Tutor.jpg"
     },
     {
       "id":176,
-      "name_category": "Jawhead",
-      "title":"Jawhead Space Explorer",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/JAWHEAD/Jawhead%20Space%20Explorer.jpg"
+      "name_category": "Hanzo",
+      "title":"Hanzo Pale Phantom",
+      "image":"https://i.ibb.co/HKz6tsn/Hanzo-Pale-Phantom.jpg"
     },
     {
       "id":177,
-      "name_category": "Jawhead",
-      "title":"Jawhead Steel Sweetheart",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/JAWHEAD/Jawhead%20Steel%20sweetheart.jpg"
+      "name_category": "Hanzo",
+      "title":"Hanzo Undead King",
+      "image":"https://i.ibb.co/DVZmWgR/Hanzo-Undead-King.jpg"
     },
     {
       "id":178,
-      "name_category": "Jawhead",
-      "title":"Jawhead The Nutcracker",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/JAWHEAD/Jawhead%20the%20nutcracker.jpg"
+      "name_category": "Hayabusa",
+      "title":"Hayabusa",
+      "image":"https://i.ibb.co/h1chLyp/Hayabusa.jpg"
     },
     {
       "id":179,
-      "name_category": "Jawhead",
-      "title":"Jawhead Samurai Mech",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/JAWHEAD/jawhead-samurai-mech.jpg"
+      "name_category": "Hayabusa",
+      "title":"Hayabusa Biological Weapon",
+      "image":"https://i.ibb.co/JvpRcmQ/Hayabusa-Biological-Weapon.jpg"
     },
     {
       "id":180,
-      "name_category": "Khaleed",
-      "title":"Khaleed Desert Scimitar",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/KHALEED/Khaleed%20Desert%20scimitar.jpg"
+      "name_category": "Hayabusa",
+      "title":"Hayabusa Experiment",
+      "image":"https://i.ibb.co/sFgvmHt/Hayabusa-Experiment.jpg"
     },
     {
       "id":181,
-      "name_category": "Khaleed",
-      "title":"Khaleed Prince Of Sand",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/KHALEED/Khaleed%20Prince%20of%20sand.jpg"
+      "name_category": "Hayabusa",
+      "title":"Hayabusa Future Enforcer",
+      "image":"https://i.ibb.co/F8Sp7sS/Hayabusa-Future-Enforcer.jpg"
     },
     {
       "id":182,
-      "name_category": "Leomord",
-      "title":"Leomord Hell Knight",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/LEOMORD/Leomord%20Hell%20knight.jpg"
+      "name_category": "Hayabusa",
+      "title":"Hayabusa Revamp",
+      "image":"https://i.ibb.co/LpdjMWB/Hayabusa-Revamp.jpg"
     },
     {
       "id":183,
-      "name_category": "Leomord",
-      "title":"Leomord Frostborn",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/LEOMORD/Leomord%20frostborn.jpg"
+      "name_category": "Hayabusa",
+      "title":"Hayabusa Shadow of Obscurity",
+      "image":"https://i.ibb.co/mHjgLb1/Hayabusa-Shadow-of-Obscurity.jpg"
     },
     {
       "id":184,
-      "name_category": "Leomord",
-      "title":"Leomord Inferno Souk",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/LEOMORD/Leomord%20inferno%20souk.jpg"
+      "name_category": "Hayabusa",
+      "title":"Hayabusa Spacetime Shadow",
+      "image":"https://i.ibb.co/ctVhNyR/Hayabusa-Spacetime-Shadow.jpg"
     },
     {
       "id":185,
-      "name_category": "Leomord",
-      "title":"Leomord Phantom Knight 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/LEOMORD/Leomord%20phantom%20knight%20%282%29.jpg"
+      "name_category": "Hayabusa",
+      "title":"Hayabusa Sushi Master",
+      "image":"https://i.ibb.co/h8PBcPC/Hayabusa-Sushi-Master.jpg"
     },
     {
       "id":186,
-      "name_category": "Leomord",
-      "title":"Leomord Trumph Eagle",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/LEOMORD/Leomord%20trumph%20eagle.jpg"
+      "name_category": "Helcurt",
+      "title":"helcurt scorpio zodiac",
+      "image":"https://i.ibb.co/3Y54Wx2/helcurt-scorpio-zodiac.jpg"
     },
     {
       "id":187,
-      "name_category": "Leomord",
-      "title":"Leomord Jack O Lantern",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/LEOMORD/leomord-jack-o-lantern.jpg"
+      "name_category": "Helcurt",
+      "title":"Helcurt Shadowbringer",
+      "image":"https://i.ibb.co/Lz1zGSr/Helcurt-Shadowbringer.jpg"
     },
     {
       "id":188,
-      "name_category": "Martis",
-      "title":"Martis Ashura King",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MARTIS/Martis%20Ashura%20King.jpg"
+      "name_category": "Helcurt",
+      "title":"helcurt",
+      "image":"https://i.ibb.co/h9HRqzS/helcurt.jpg"
     },
     {
       "id":189,
-      "name_category": "Martis",
-      "title":"Martis Capricorn",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MARTIS/Martis%20capricorn.jpg"
+      "name_category": "Helcurt",
+      "title":"helcurt evolve predator",
+      "image":"https://i.ibb.co/nPNmGsy/helcurt-evolve-predator.jpg"
     },
     {
       "id":190,
-      "name_category": "Martis",
-      "title":"Martis Deathrock",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MARTIS/Martis%20deathrock.jpg"
+      "name_category": "Helcurt",
+      "title":"helcurt ice scythe",
+      "image":"https://i.ibb.co/txkzN9r/helcurt-ice-scythe.jpg"
     },
     {
       "id":191,
-      "name_category": "Martis",
-      "title":"Martis God Of War",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MARTIS/Martis%20god%20of%20war.jpg"
+      "name_category": "Karina",
+      "title":"Karina",
+      "image":"https://i.ibb.co/SXD946Z/Karina.jpg"
     },
     {
       "id":192,
-      "name_category": "Martis",
-      "title":"Martis Searing Maw",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MARTIS/Martis%20searing%20maw.jpg"
+      "name_category": "Karina",
+      "title":"Karina Black Pearl",
+      "image":"https://i.ibb.co/pWJM6jf/Karina-Black-Pearl.jpg"
     },
     {
       "id":193,
-      "name_category": "Martis",
-      "title":"Martis Tyrant",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MARTIS/Martis%20tyrant.jpg"
+      "name_category": "Karina",
+      "title":"Karina Blood Moon",
+      "image":"https://i.ibb.co/cQgncJZ/Karina-Blood-Moon.jpg"
     },
     {
       "id":194,
-      "name_category": "Masha",
-      "title":"Masha  1 ",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MASHA/Masha%20%20%281%29.jpg"
+      "name_category": "Karina",
+      "title":"Karina Doom Duelist",
+      "image":"https://i.ibb.co/hg7zf87/Karina-Doom-Duelist.jpg"
     },
     {
       "id":195,
-      "name_category": "Masha",
-      "title":"Masha  2 ",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MASHA/Masha%20%20%282%29.jpg"
+      "name_category": "Karina",
+      "title":"Karina Gemini Zodiac",
+      "image":"https://i.ibb.co/5jFsyPp/Karina-Gemini-Zodiac.jpg"
     },
     {
       "id":196,
-      "name_category": "Masha",
-      "title":"Masha Combat Maiden",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MASHA/Masha%20combat%20maiden.jpg"
+      "name_category": "Karina",
+      "title":"Karina K O F Leona",
+      "image":"https://i.ibb.co/Tk8vH94/Karina-K-O-F-Leona.jpg"
     },
     {
       "id":197,
-      "name_category": "Masha",
-      "title":"Masha Dragon Armor",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MASHA/Masha%20dragon%20armor.jpg"
+      "name_category": "Karina",
+      "title":"Karina Revamped",
+      "image":"https://i.ibb.co/jR6hW6J/Karina-Revamped.jpg"
     },
     {
       "id":198,
-      "name_category": "Masha",
-      "title":"Masha Wild Oats Fist",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MASHA/Masha%20wild%20oats%20fist.jpg"
+      "name_category": "Karina",
+      "title":"Karina Spider Lily",
+      "image":"https://i.ibb.co/drd94T2/Karina-Spider-Lily.jpg"
     },
     {
       "id":199,
-      "name_category": "Masha",
-      "title":"Masha Winter Guard",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MASHA/Masha%20winter%20guard.jpg"
+      "name_category": "Lancelot",
+      "title":"Lancelot Sword Master",
+      "image":"https://i.ibb.co/w0zmCBQ/Lancelot-Sword-Master.jpg"
     },
     {
       "id":200,
-      "name_category": "Minsitthar",
-      "title":"Minsitthar Courangeous Warrior",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MINSITTHAR/Minsitthar%20courangeous%20warrior.jpg"
+      "name_category": "Lancelot",
+      "title":"Lancelot Bren Esports",
+      "image":"https://i.ibb.co/YT4MmHB/Lancelot-Bren-Esports.jpg"
     },
     {
       "id":201,
-      "name_category": "Minsitthar",
-      "title":"Minsitthar Gilded King",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MINSITTHAR/Minsitthar%20gilded%20king.jpg"
+      "name_category": "Lancelot",
+      "title":"Lancelot Christmas Carnival",
+      "image":"https://i.ibb.co/WcyKhDg/Lancelot-Christmas-Carnival.jpg"
     },
     {
       "id":202,
-      "name_category": "Minsitthar",
-      "title":"Minsitthar King Of War",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/MINSITTHAR/Minsitthar%20king%20of%20war.jpg"
+      "name_category": "Lancelot",
+      "title":"Lancelot Floral Knight",
+      "image":"https://i.ibb.co/xXpdd73/Lancelot-Floral-Knight.jpg"
     },
     {
       "id":203,
-      "name_category": "Paquito",
-      "title":"Paquito Death Blow",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/PAQUITO/Paquito%20Death%20Blow.jpg"
+      "name_category": "Lancelot",
+      "title":"Lancelot Masked Knight",
+      "image":"https://i.ibb.co/Y2dkB03/Lancelot-Masked-Knight.jpg"
     },
     {
       "id":204,
-      "name_category": "Paquito",
-      "title":"Paquito",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/PAQUITO/paquito.jpg"
+      "name_category": "Lancelot",
+      "title":"Lancelot Odette Christmas Carnival",
+      "image":"https://i.ibb.co/9g6ZtfG/Lancelot-Odette-Christmas-Carnival.jpg"
     },
     {
       "id":205,
-      "name_category": "Roger",
-      "title":"Roger Anubis 2",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ROGER/Roger%20anubis%202.jpg"
+      "name_category": "Lancelot",
+      "title":"Lancelot Revamped",
+      "image":"https://i.ibb.co/5R1cQM1/Lancelot-Revamped.jpg"
     },
     {
       "id":206,
-      "name_category": "Roger",
-      "title":"Roger Anubis",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ROGER/Roger%20anubis.jpg"
+      "name_category": "Lapu",
+      "title":"Lapu Lapu Vulcan",
+      "image":"https://i.ibb.co/x3Z0fgV/Lapu-Lapu-Vulcan.jpg"
     },
     {
       "id":207,
-      "name_category": "Roger",
-      "title":"Roger Dark Gent",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ROGER/Roger%20dark%20gent.jpg"
+      "name_category": "Lapu",
+      "title":"Lapu Lapu",
+      "image":"https://i.ibb.co/pz084DG/Lapu-Lapu.jpg"
     },
     {
       "id":208,
-      "name_category": "Roger",
-      "title":"Roger Dire Wolf Hunter",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ROGER/Roger%20dire%20wolf%20hunter.jpg"
+      "name_category": "Lapu",
+      "title":"Lapu Lapu Imperial Champion",
+      "image":"https://i.ibb.co/9vXS10J/Lapu-Lapu-Imperial-Champion.jpg"
     },
     {
       "id":209,
-      "name_category": "Roger",
-      "title":"Roger Dr Beast",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ROGER/Roger%20dr%20beast.jpg"
+      "name_category": "Ling",
+      "title":"Ling",
+      "image":"https://i.ibb.co/sHX32Wq/Ling.jpg"
     },
     {
       "id":210,
-      "name_category": "Roger",
-      "title":"Roger Phantom Pirate",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/ROGER/Roger%20phantom%20pirate.jpg"
+      "name_category": "Ling",
+      "title":"Ling Cosmo Guard",
+      "image":"https://i.ibb.co/j6JMxH9/Ling-Cosmo-Guard.jpg"
     },
     {
       "id":211,
-      "name_category": "Ruby",
-      "title":"Ruby Hidden Orchid",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/RUBY/Ruby%20Hidden%20orchid.jpg"
+      "name_category": "Ling",
+      "title":"Ling Night Shade",
+      "image":"https://i.ibb.co/g6nDt6h/Ling-Night-Shade.jpg"
     },
     {
       "id":212,
-      "name_category": "Ruby",
-      "title":"Ruby Cat Girl",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/RUBY/Ruby%20cat%20girl.jpg"
+      "name_category": "Ling",
+      "title":"Ling Serene Plume",
+      "image":"https://i.ibb.co/7R616m9/Ling-Serene-Plume.jpg"
     },
     {
       "id":213,
-      "name_category": "Ruby",
-      "title":"Ruby Edelweiss",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/RUBY/Ruby%20edelweiss.jpg"
+      "name_category": "Ling",
+      "title":"Ling Street Punk",
+      "image":"https://i.ibb.co/M70ncP3/Ling-Street-Punk.jpg"
     },
     {
       "id":214,
-      "name_category": "Ruby",
-      "title":"Ruby Lady Zombie",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/RUBY/Ruby%20lady%20zombie.jpg"
+      "name_category": "Natalia",
+      "title":"Natalia Cyber Spectre",
+      "image":"https://i.ibb.co/0BTv2Rz/Natalia-Cyber-Spectre.jpg"
     },
     {
       "id":215,
-      "name_category": "Ruby",
-      "title":"Ruby Little Red Hood",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/RUBY/Ruby%20little%20red%20hood.jpg"
+      "name_category": "Natalia",
+      "title":"Natalia Deadly Mamba",
+      "image":"https://i.ibb.co/ZGbPz09/Natalia-Deadly-Mamba.jpg"
     },
     {
       "id":216,
-      "name_category": "Silvana",
-      "title":"Silvana Hallowed Lance",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/SILVANA/Silvana%20hallowed%20lance.jpg"
+      "name_category": "Natalia",
+      "title":"Natalia Glass Blade",
+      "image":"https://i.ibb.co/P1jy3vZ/Natalia-Glass-Blade.jpg"
     },
     {
       "id":217,
-      "name_category": "Silvana",
-      "title":"Silvana Imperial Knightess",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/SILVANA/Silvana%20imperial%20knightess.jpg"
+      "name_category": "Natalia",
+      "title":"Natalia Grim Strangler",
+      "image":"https://i.ibb.co/W3HSV6P/Natalia-Grim-Strangler.jpg"
     },
     {
       "id":218,
-      "name_category": "Silvana",
-      "title":"Silvana Midnight Justice",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/SILVANA/Silvana%20midnight%20justice.jpg"
+      "name_category": "Natalia",
+      "title":"Natalia Midnight Raven",
+      "image":"https://i.ibb.co/Wt5h4tH/Natalia-Midnight-Raven.jpg"
     },
     {
       "id":219,
-      "name_category": "Silvana",
-      "title":"Silvanna Pure Heroine",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/SILVANA/silvanna-pure-heroine.jpg"
+      "name_category": "Natalia",
+      "title":"Natalia Next Project",
+      "image":"https://i.ibb.co/Jp38kXw/Natalia-Next-Project.png"
     },
     {
       "id":220,
-      "name_category": "Sun",
-      "title":"Sun Battle Buddha",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/SUN/Sun%20Battle-Buddha.jpg"
+      "name_category": "Natalia",
+      "title":"Natalia",
+      "image":"https://i.ibb.co/nMwR1Tp/Natalia.jpg"
     },
     {
       "id":221,
-      "name_category": "Sun",
-      "title":"Sun Rock Star",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/SUN/sun%20Rock%20Star.jpg"
+      "name_category": "Saber",
+      "title":"Saber",
+      "image":"https://i.ibb.co/N2Sw324/Saber.jpg"
     },
     {
       "id":222,
-      "name_category": "Sun",
-      "title":"Sun Celestial Outlaw",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/SUN/sun%20celestial%20outlaw.jpg"
+      "name_category": "Saber",
+      "title":"Saber Codename Storm",
+      "image":"https://i.ibb.co/LgzHjt6/Saber-Codename-Storm.jpg"
     },
     {
       "id":223,
-      "name_category": "Sun",
-      "title":"Sun Monkey King",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/SUN/sun%20monkey%20king.jpg"
+      "name_category": "Saber",
+      "title":"Saber Force Warrior",
+      "image":"https://i.ibb.co/BK5r2SN/Saber-Force-Warrior.jpg"
     },
     {
       "id":224,
-      "name_category": "Sun",
-      "title":"Sun Street Legend",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/SUN/sun%20street%20legend.jpg"
+      "name_category": "Saber",
+      "title":"Saber Fullmetal Ronin",
+      "image":"https://i.ibb.co/9tXLcG5/Saber-Fullmetal-Ronin.jpg"
     },
     {
       "id":225,
-      "name_category": "Terizla",
-      "title":"Terizla Abyss Guard",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/TERIZLA/Terizla%20abyss%20guard.jpg"
+      "name_category": "Saber",
+      "title":"Saber Golden Flash Rework",
+      "image":"https://i.ibb.co/4Kqbn4k/Saber-Golden-Flash-Rework.jpg"
     },
     {
       "id":226,
-      "name_category": "Terizla",
-      "title":"Terizla Dlare",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/TERIZLA/Terizla%20dlare.jpg"
+      "name_category": "Saber",
+      "title":"Saber Onimaru",
+      "image":"https://i.ibb.co/LhTm5Nk/Saber-Onimaru.jpg"
     },
     {
       "id":227,
-      "name_category": "Terizla",
-      "title":"Terizla Executioner",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/TERIZLA/Terizla%20executioner.jpg"
+      "name_category": "Saber",
+      "title":"Saber Regulator",
+      "image":"https://i.ibb.co/YjkjSxt/Saber-Regulator.jpg"
     },
     {
       "id":228,
-      "name_category": "Terizla",
-      "title":"Terizla Hammer Giant",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/TERIZLA/terizla-hammer-giant.jpg"
+      "name_category": "Saber",
+      "title":"Saber Revamped",
+      "image":"https://i.ibb.co/n6s5DgN/Saber-Revamped.jpg"
     },
     {
       "id":229,
-      "name_category": "Thamuz",
-      "title":"Thamuz Liwuid Fire",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/THAMUZ/Thamuz%20Liwuid%20fire.jpg"
+      "name_category": "Selena",
+      "title":"Selena",
+      "image":"https://i.ibb.co/0MBzMhb/Selena.jpg"
     },
     {
       "id":230,
-      "name_category": "Thamuz",
-      "title":"Thamuz Lord Lava",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/THAMUZ/Thamuz%20Lord%20lava.jpg"
+      "name_category": "Selena",
+      "title":"Selena Double Identity Starlight",
+      "image":"https://i.ibb.co/hCgtBdJ/Selena-Double-Identity-Starlight.jpg"
     },
     {
       "id":231,
-      "name_category": "Thamuz",
-      "title":"Thamuz Abyssal Reaper",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/THAMUZ/Thamuz%20abyssal%20reaper.jpg"
+      "name_category": "Selena",
+      "title":"Selena S T U N",
+      "image":"https://i.ibb.co/ykD4XnJ/Selena-S-T-U-N.jpg"
     },
     {
       "id":232,
-      "name_category": "Thamuz",
-      "title":"Thamuz Lord Of Wraith",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/THAMUZ/Thamuz%20lord%20of%20wraith.jpg"
+      "name_category": "Selena",
+      "title":"Selena Thunder Flash",
+      "image":"https://i.ibb.co/dGmL6CH/Selena-Thunder-Flash.jpg"
     },
     {
       "id":233,
-      "name_category": "X Borg",
-      "title":"X.Borg Blue Storm",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/X%20BORG/x%20Borg%20blue%20storm.jpg"
+      "name_category": "Selena",
+      "title":"Selena Virus",
+      "image":"https://i.ibb.co/FXmRC85/Selena-Virus.jpg"
     },
     {
       "id":234,
-      "name_category": "X Borg",
-      "title":"X.Borg Firaga Armor",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/X%20BORG/x%20Borg%20firaga%20armor.jpg"
+      "name_category": "Selena",
+      "title":"Selena Wasp Queen",
+      "image":"https://i.ibb.co/0q9ZXqq/Selena-Wasp-Queen.jpg"
     },
     {
       "id":235,
-      "name_category": "X Borg",
-      "title":"X.Borg Moto Drifter",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/X%20BORG/x%20Borg%20moto%20drifter.jpg"
+      "name_category": "Selena",
+      "title":"Selena Zodiak",
+      "image":"https://i.ibb.co/r5LVcsr/Selena-Zodiak.jpg"
     },
     {
       "id":236,
-      "name_category": "X Borg",
-      "title":"X.Borg Graffiti Fashion",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/X%20BORG/x-borg-graffiti-fashion.jpg"
+      "name_category": "Zilong",
+      "title":"Zilong Summer Waves",
+      "image":"https://i.ibb.co/8YVnv3y/Zilong-Summer-Waves.jpg"
     },
     {
       "id":237,
-      "name_category": "X Borg",
-      "title":"X.Borg Tesla Maniac",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/X%20BORG/x-borg-tesla-maniac.jpg"
+      "name_category": "Zilong",
+      "title":"Zilong Old Version",
+      "image":"https://i.ibb.co/fq8cY5v/Zilong-Old-Version.jpg"
     },
     {
       "id":238,
-      "name_category": "Yu Zhong",
-      "title":"Yu Zhong Black Dragon",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/YU%20ZHONG/Yu%20Zhong%20Black%20Dragon.jpg"
+      "name_category": "Zilong",
+      "title":"Zilong Blazing Lancer",
+      "image":"https://i.ibb.co/6Bq0xkd/Zilong-Blazing-Lancer.jpg"
     },
     {
       "id":239,
-      "name_category": "Yu Zhong",
-      "title":"Yu Zhong Emerald Dragon 2",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/YU%20ZHONG/Yu%20Zhong%20emerald%20dragon%202.jpg"
+      "name_category": "Zilong",
+      "title":"Zilong Changbanpo Commander",
+      "image":"https://i.ibb.co/8mzYWNy/Zilong-Changbanpo-Commander.jpg"
     },
     {
       "id":240,
-      "name_category": "Yu Zhong",
-      "title":"Yu Zhong Emerald Dragon",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/YU%20ZHONG/Yu%20Zhong%20emerald%20dragon.jpg"
+      "name_category": "Zilong",
+      "title":"Zilong Christmas Carnival",
+      "image":"https://i.ibb.co/6wHZzwy/Zilong-Christmas-Carnival.jpg"
     },
     {
       "id":241,
-      "name_category": "Yu Zhong",
-      "title":"Yu Zhong Biohazard",
-      "image":"http://tukumaning.miemiebrownie.com/FIGHTER/YU%20ZHONG/yu-zhong-biohazard.jpg"
+      "name_category": "Zilong",
+      "title":"Zilong Eastern Warrior",
+      "image":"https://i.ibb.co/k9SvB98/Zilong-Eastern-Warrior.jpg"
     },
     {
       "id":242,
-      "name_category": "Alice",
-      "title":"Alice Wizardry Teacher",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ALICE/Alice%20Wizardry%20Teacher.jpg"
+      "name_category": "Zilong",
+      "title":"Zilong Elite Warrior",
+      "image":"https://i.ibb.co/FDZbFwW/Zilong-Elite-Warrior.jpg"
     },
     {
       "id":243,
-      "name_category": "Alice",
-      "title":"Alice Wueen Of Blood",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ALICE/Alice%20Wueen%20Of%20Blood.jpg"
+      "name_category": "Zilong",
+      "title":"Zilong Glorious General",
+      "image":"https://i.ibb.co/p0KY1mr/Zilong-Glorious-General.jpg"
     },
     {
       "id":244,
-      "name_category": "Alice",
-      "title":"Alice Divine Owl",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ALICE/Alice%20divine%20owl.jpg"
+      "name_category": "Zilong",
+      "title":"Zilong Revamped Glorious General",
+      "image":"https://i.ibb.co/8BQF6bB/Zilong-Revamped-Glorious-General.jpg"
     },
     {
       "id":245,
-      "name_category": "Alice",
-      "title":"Alice Steam Glider",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ALICE/Alice%20steam%20glider.jpg"
-    },
-    {
-      "id":246,
-      "name_category": "Alice",
-      "title":"Alice Spirit Woman",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ALICE/alice-spirit-woman.jpg"
-    },
-    {
-      "id":247,
-      "name_category": "Aurora",
-      "title":"Aurora Aquarius",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/AURORA/Aurora%20Aquarius.jpg"
-    },
-    {
-      "id":248,
-      "name_category": "Aurora",
-      "title":"Aurora Foxy Lady",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/AURORA/Aurora%20Foxy%20Lady.jpg"
-    },
-    {
-      "id":249,
-      "name_category": "Aurora",
-      "title":"Aurora Frost Oracle",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/AURORA/Aurora%20Frost%20Oracle.jpg"
-    },
-    {
-      "id":250,
-      "name_category": "Aurora",
-      "title":"Aurora Heartbreak Empress",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/AURORA/Aurora%20Heartbreak%20Empress.jpg"
-    },
-    {
-      "id":251,
-      "name_category": "Aurora",
-      "title":"Aurora Kula Diamond",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/AURORA/Aurora%20Kula%20Diamond.jpg"
-    },
-    {
-      "id":252,
-      "name_category": "Aurora",
-      "title":"Aurora Natures Throne",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/AURORA/Aurora%20Natures%20Throne.jpg"
-    },
-    {
-      "id":253,
-      "name_category": "Change",
-      "title":"Change Crimson Moon",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/CHANGE/Change%20Crimson%20Moon.jpg"
-    },
-    {
-      "id":254,
-      "name_category": "Change",
-      "title":"Change Floral Elfo",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/CHANGE/Change%20Floral%20Elfo.jpg"
-    },
-    {
-      "id":255,
-      "name_category": "Change",
-      "title":"Change Lunar Magic",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/CHANGE/Change%20Lunar%20Magic.jpg"
-    },
-    {
-      "id":256,
-      "name_category": "Change",
-      "title":"Change Moon Palace Immortal",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/CHANGE/Change%20Moon%20Palace%20Immortal.jpg"
-    },
-    {
-      "id":257,
-      "name_category": "Change",
-      "title":"Change Moonstruck",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/CHANGE/Change%20Moonstruck.jpg"
-    },
-    {
-      "id":258,
-      "name_category": "Change",
-      "title":"Change Strawberry Parfait Starlight",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/CHANGE/change-strawberry-parfait-starlight.jpg"
-    },
-    {
-      "id":259,
-      "name_category": "Cyclops",
-      "title":"Cyclops Deep Sea Rescuer",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/CYCLOPS/Cyclops%20Deep%20Sea%20Rescuer.jpg"
-    },
-    {
-      "id":260,
-      "name_category": "Cyclops",
-      "title":"Cyclops Exorcist",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/CYCLOPS/Cyclops%20Exorcist.jpg"
-    },
-    {
-      "id":261,
-      "name_category": "Cyclops",
-      "title":"Cyclops Saber Blaster",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/CYCLOPS/Cyclops%20SABER%20Blaster.jpg"
-    },
-    {
-      "id":262,
-      "name_category": "Cyclops",
-      "title":"Cyclops Star Magician",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/CYCLOPS/Cyclops%20Star%20Magician.jpg"
-    },
-    {
-      "id":263,
-      "name_category": "Cyclops",
-      "title":"Cyclops Super Adventurer",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/CYCLOPS/Cyclops%20Super%20Adventurer.jpg"
-    },
-    {
-      "id":264,
-      "name_category": "Cyclops",
-      "title":"Cyclops Zombie Bambino Cyclops",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/CYCLOPS/Cyclops%20Zombie-Bambino-Cyclops.jpg"
-    },
-    {
-      "id":265,
-      "name_category": "Cyclops",
-      "title":"Cyclops Starsoul Magician",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/CYCLOPS/Starsoul%20Magician.jpg"
-    },
-    {
-      "id":266,
-      "name_category": "Cecilion",
-      "title":"Cecilion_Theillusionist",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/Cecilion/Cecilion_TheIllusionist.jpg"
-    },
-    {
-      "id":267,
-      "name_category": "Cecilion",
-      "title":"Cecilion Embrace_Of_Night",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/Cecilion/cecilion%20embrace_of_night.jpg"
-    },
-    {
-      "id":268,
-      "name_category": "Cecilion",
-      "title":"Cecilion Carmilla Wisteria Count",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/Cecilion/cecilion-carmilla-wisteria-count.jpg"
-    },
-    {
-      "id":269,
-      "name_category": "Esmeralda",
-      "title":"Esmeralda Astrologer",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ESMERALDA/Esmeralda%20Astrologer.jpg"
-    },
-    {
-      "id":270,
-      "name_category": "Esmeralda",
-      "title":"Esmeralda Blazing Shadow",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ESMERALDA/Esmeralda%20Blazing%20Shadow.jpg"
-    },
-    {
-      "id":271,
-      "name_category": "Esmeralda",
-      "title":"Esmeralda Cleopatra",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ESMERALDA/Esmeralda%20Cleopatra.jpg"
-    },
-    {
-      "id":272,
-      "name_category": "Esmeralda",
-      "title":"Esmeralda Lady Thie",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ESMERALDA/Esmeralda%20Lady%20Thie.jpg"
-    },
-    {
-      "id":273,
-      "name_category": "Esmeralda",
-      "title":"Esmeralda Poison Vine",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ESMERALDA/Esmeralda%20Poison%20Vine.jpg"
-    },
-    {
-      "id":274,
-      "name_category": "Esmeralda",
-      "title":"Esmeralda Ruddy Dusk",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ESMERALDA/Esmeralda%20Ruddy%20Dusk.jpg"
-    },
-    {
-      "id":275,
-      "name_category": "Edr",
-      "title":"Edr 3 ",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/EUDORA/EDR%20%283%29.jpg"
-    },
-    {
-      "id":276,
-      "name_category": "Edr",
-      "title":"Edr 5 ",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/EUDORA/EDR%20%285%29.jpg"
-    },
-    {
-      "id":277,
-      "name_category": "Edr",
-      "title":"Edr 6 ",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/EUDORA/EDR%20%286%29.jpg"
-    },
-    {
-      "id":278,
-      "name_category": "Eudora",
-      "title":"Eudora Chrismas Carnival",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/EUDORA/Eudora%20Chrismas%20Carnival.jpg"
-    },
-    {
-      "id":279,
-      "name_category": "Eudora",
-      "title":"Eudora Countess Scarlet",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/EUDORA/Eudora%20Countess%20Scarlet.jpg"
-    },
-    {
-      "id":280,
-      "name_category": "Eudora",
-      "title":"Eudora Emerald Enchantress 2",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/EUDORA/Eudora%20Emerald%20Enchantress%202.jpg"
-    },
-    {
-      "id":281,
-      "name_category": "Eudora",
-      "title":"Eudora Emerald Enchantress",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/EUDORA/Eudora%20Emerald%20Enchantress.jpg"
-    },
-    {
-      "id":282,
-      "name_category": "Eudora",
-      "title":"Eudora Flame Red Lips",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/EUDORA/Eudora%20Flame%20Red%20Lips.jpg"
-    },
-    {
-      "id":283,
-      "name_category": "Eudora",
-      "title":"Eudora Lightnig Weaver",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/EUDORA/Eudora%20Lightnig%20Weaver.jpg"
-    },
-    {
-      "id":284,
-      "name_category": "Eudora",
-      "title":"Eudora Vivo Selfie Goddess 2",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/EUDORA/Eudora%20Vivo%20Selfie%20Goddess%202.jpg"
-    },
-    {
-      "id":285,
-      "name_category": "Eudora",
-      "title":"Eudora Vivo Selfie Goddess",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/EUDORA/Eudora%20Vivo%20Selfie%20Goddess.jpg"
-    },
-    {
-      "id":286,
-      "name_category": "Eudora",
-      "title":"Eudora",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/EUDORA/Eudora.jpg"
-    },
-    {
-      "id":287,
-      "name_category": "Gord",
-      "title":"Gord Christmas Carnival",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/GORD/Gord%20Christmas%20Carnival.jpg"
-    },
-    {
-      "id":288,
-      "name_category": "Gord",
-      "title":"Gord Conqueror",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/GORD/Gord%20Conqueror.jpg"
-    },
-    {
-      "id":289,
-      "name_category": "Gord",
-      "title":"Gord No 1 Controller",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/GORD/Gord%20No%201%20Controller.jpg"
-    },
-    {
-      "id":290,
-      "name_category": "Gord",
-      "title":"Gord Professor Of Hell",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/GORD/Gord%20Professor%20Of%20Hell.jpg"
-    },
-    {
-      "id":291,
-      "name_category": "Gord",
-      "title":"Gord Professor Of The Mystics",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/GORD/Gord%20Professor%20Of%20The%20Mystics.jpg"
-    },
-    {
-      "id":292,
-      "name_category": "Harith",
-      "title":"Harith Evos Legends",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/HARITH/Harith%20EVOS%20Legends.jpg"
-    },
-    {
-      "id":293,
-      "name_category": "Harith",
-      "title":"Harith Lightborn Inspirer",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/HARITH/Harith%20Lightborn%20Inspirer.jpg"
-    },
-    {
-      "id":294,
-      "name_category": "Harith",
-      "title":"Harith Savannah Cat",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/HARITH/Harith%20Savannah%20Cat.jpg"
-    },
-    {
-      "id":295,
-      "name_category": "Harith",
-      "title":"Harith Stardust",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/HARITH/Harith%20Stardust.jpg"
-    },
-    {
-      "id":296,
-      "name_category": "Harith",
-      "title":"Harith Time Traveler",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/HARITH/Harith%20Time%20Traveler.jpg"
-    },
-    {
-      "id":297,
-      "name_category": "Harley",
-      "title":"Harley Great Inventor",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/HARLEY/Harley%20Great%20Inventor.jpg"
-    },
-    {
-      "id":298,
-      "name_category": "Harley",
-      "title":"Harley Mage Genius",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/HARLEY/Harley%20Mage%20Genius.jpg"
-    },
-    {
-      "id":299,
-      "name_category": "Harley",
-      "title":"Harley Naughty Joker",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/HARLEY/Harley%20Naughty%20Joker.jpg"
-    },
-    {
-      "id":300,
-      "name_category": "Harley",
-      "title":"Harley Referee",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/HARLEY/Harley%20Referee.jpg"
-    },
-    {
-      "id":301,
-      "name_category": "Harley",
-      "title":"Harley Royal Magister",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/HARLEY/Harley%20Royal%20Magister.jpg"
-    },
-    {
-      "id":302,
-      "name_category": "Harley",
-      "title":"Harley Venom Octopus",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/HARLEY/Harley%20VENOM%20Octopus.jpg"
-    },
-    {
-      "id":303,
-      "name_category": "Kadita",
-      "title":"Kadita Atlantean Princess",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/KADITA/Kadita%20Atlantean%20Princess.jpg"
-    },
-    {
-      "id":304,
-      "name_category": "Kadita",
-      "title":"Kadita Ocean Goddess",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/KADITA/Kadita%20Ocean%20Goddess.jpg"
-    },
-    {
-      "id":305,
-      "name_category": "Kadita",
-      "title":"Kadita White Robin",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/KADITA/Kadita%20White%20Robin.jpg"
-    },
-    {
-      "id":306,
-      "name_category": "Kagura",
-      "title":"Kagura Cherry Witch",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/KAGURA/Kagura%20Cherry%20Witch.jpg"
-    },
-    {
-      "id":307,
-      "name_category": "Kagura",
-      "title":"Kagura Flower Season 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/KAGURA/Kagura%20Flower%20Season%20%282%29.jpg"
-    },
-    {
-      "id":308,
-      "name_category": "Kagura",
-      "title":"Kagura Flower Season 2",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/KAGURA/Kagura%20Flower%20Season%202.jpg"
-    },
-    {
-      "id":309,
-      "name_category": "Kagura",
-      "title":"Kagura Onmyouji Master",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/KAGURA/Kagura%20Onmyouji%20Master.jpg"
-    },
-    {
-      "id":310,
-      "name_category": "Kagura",
-      "title":"Kagura Soryu Maiden",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/KAGURA/Kagura%20Soryu%20Maiden.jpg"
-    },
-    {
-      "id":311,
-      "name_category": "Kagura",
-      "title":"Kagura Summer Festival",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/KAGURA/Kagura%20Summer%20Festival.jpg"
-    },
-    {
-      "id":312,
-      "name_category": "Lunox",
-      "title":"Lunox Ash Blossom",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LUNOX/Lunox%20Ash%20Blossom.jpg"
-    },
-    {
-      "id":313,
-      "name_category": "Lunox",
-      "title":"Lunox Bloody Mary",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LUNOX/Lunox%20Bloody%20Mary.jpg"
-    },
-    {
-      "id":314,
-      "name_category": "Lunox",
-      "title":"Lunox Butterfly Seraphim",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LUNOX/Lunox%20Butterfly%20Seraphim.jpg"
-    },
-    {
-      "id":315,
-      "name_category": "Lunox",
-      "title":"Lunox Cosmic Harmony",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LUNOX/Lunox%20Cosmic%20Harmony.jpg"
-    },
-    {
-      "id":316,
-      "name_category": "Lunox",
-      "title":"Lunox Libra",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LUNOX/Lunox%20Libra.jpg"
-    },
-    {
-      "id":317,
-      "name_category": "Lunox",
-      "title":"Lunox Twilight Goddess",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LUNOX/Lunox%20Twilight%20Goddess.jpg"
-    },
-    {
-      "id":318,
-      "name_category": "Lunox",
-      "title":"Lunox Butterfly",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LUNOX/lunox-butterfly.jpg"
-    },
-    {
-      "id":319,
-      "name_category": "Luo",
-      "title":"Luo Yi 3 ",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LUO%20YI/LUO%20YI%20%283%29.jpg"
-    },
-    {
-      "id":320,
-      "name_category": "Luo",
-      "title":"Luo Yi 4 ",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LUO%20YI/LUO%20YI%20%284%29.jpg"
-    },
-    {
-      "id":321,
-      "name_category": "Luo",
-      "title":"Luo Yi 5 ",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LUO%20YI/LUO%20YI%20%285%29.jpg"
-    },
-    {
-      "id":322,
-      "name_category": "Luo",
-      "title":"Luo Yi Tenko",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LUO%20YI/Luo%20Yi%20Tenko.jpg"
-    },
-    {
-      "id":323,
-      "name_category": "Luo",
-      "title":"Luo Yi Yinyang Geomancer",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LUO%20YI/Luo%20Yi%20YinYang%20Geomancer.jpg"
-    },
-    {
-      "id":324,
-      "name_category": "Luo",
-      "title":"Luo Yi Yinyang Mage",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LUO%20YI/Luo%20Yi%20YinYang%20Mage.jpg"
-    },
-    {
-      "id":325,
-      "name_category": "Lylia",
-      "title":"Lylia Future Star",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LYLIA/Lylia%20Future%20Star.jpg"
-    },
-    {
-      "id":326,
-      "name_category": "Lylia",
-      "title":"Lylia Little Wizard",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LYLIA/Lylia%20Little%20Wizard.jpg"
-    },
-    {
-      "id":327,
-      "name_category": "Lylia",
-      "title":"Lylia School Idol",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LYLIA/Lylia%20School%20Idol.jpg"
-    },
-    {
-      "id":328,
-      "name_category": "Lylia",
-      "title":"Lylia Star Student",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LYLIA/Lylia%20Star%20Student.jpg"
-    },
-    {
-      "id":329,
-      "name_category": "Lylia",
-      "title":"Lylia Haunted_Dolls",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/LYLIA/lylia%20haunted_dolls.jpg"
-    },
-    {
-      "id":330,
-      "name_category": "Oddete",
-      "title":"Oddete Auspicious Charm",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ODDETE/Oddete%20Auspicious%20Charm.jpg"
-    },
-    {
-      "id":331,
-      "name_category": "Oddete",
-      "title":"Oddete Black Swan",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ODDETE/Oddete%20Black%20Swan.jpg"
-    },
-    {
-      "id":332,
-      "name_category": "Oddete",
-      "title":"Oddete Butterfly Goddess",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ODDETE/Oddete%20Butterfly%20Goddess.jpg"
-    },
-    {
-      "id":333,
-      "name_category": "Oddete",
-      "title":"Oddete Christmas Carnival",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ODDETE/Oddete%20Christmas%20Carnival.jpg"
-    },
-    {
-      "id":334,
-      "name_category": "Oddete",
-      "title":"Oddete Mermaid Princess",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ODDETE/Oddete%20Mermaid%20Princess.jpg"
-    },
-    {
-      "id":335,
-      "name_category": "Oddete",
-      "title":"Oddete Swan Princess",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ODDETE/Oddete%20Swan%20Princess.jpg"
-    },
-    {
-      "id":336,
-      "name_category": "Oddete",
-      "title":"Oddete Virgo",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ODDETE/Oddete%20Virgo.jpg"
-    },
-    {
-      "id":337,
-      "name_category": "Pharsa",
-      "title":"Pharsa  Phantom Dancer",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/PHARSA/Pharsa%20%20Phantom%20Dancer.jpg"
-    },
-    {
-      "id":338,
-      "name_category": "Pharsa",
-      "title":"Pharsa Enchanting Witch",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/PHARSA/Pharsa%20Enchanting%20Witch.jpg"
-    },
-    {
-      "id":339,
-      "name_category": "Pharsa",
-      "title":"Pharsa Indigo Aviatrix",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/PHARSA/Pharsa%20Indigo%20Aviatrix.jpg"
-    },
-    {
-      "id":340,
-      "name_category": "Pharsa",
-      "title":"Pharsa Peafowls Dance",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/PHARSA/Pharsa%20Peafowls%20Dance.jpg"
-    },
-    {
-      "id":341,
-      "name_category": "Pharsa",
-      "title":"Pharsa Wings Of Heaven",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/PHARSA/Pharsa%20Wings%20Of%20Heaven.jpg"
-    },
-    {
-      "id":342,
-      "name_category": "Pharsa",
-      "title":"Pharsa Wins Of Vengeance",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/PHARSA/Pharsa%20Wins%20Of%20Vengeance.jpg"
-    },
-    {
-      "id":343,
-      "name_category": "Vale",
-      "title":"Vale Windtalker",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/VALE/Vale%20Windtalker.jpg"
-    },
-    {
-      "id":344,
-      "name_category": "Vale",
-      "title":"Vale Cerulean Winds 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/VALE/vale-cerulean-winds%20%282%29.jpg"
-    },
-    {
-      "id":345,
-      "name_category": "Vale",
-      "title":"Vale Kannagi",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/VALE/vale-kannagi.jpg"
-    },
-    {
-      "id":346,
-      "name_category": "Valir",
-      "title":"Valir Pale Flame",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/VALIR/Valir%20Pale%20Flame.jpg"
-    },
-    {
-      "id":347,
-      "name_category": "Valir",
-      "title":"Valir Shikigami Summoner",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/VALIR/Valir%20Shikigami%20Summoner.jpg"
-    },
-    {
-      "id":348,
-      "name_category": "Valir",
-      "title":"Valir Demonlord",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/VALIR/valir-demonlord.jpg"
-    },
-    {
-      "id":349,
-      "name_category": "Valir",
-      "title":"Valir Dictator",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/VALIR/valir-dictator.jpg"
-    },
-    {
-      "id":350,
-      "name_category": "Valir",
-      "title":"Valir Draconic Flame",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/VALIR/valir-draconic-flame.jpg"
-    },
-    {
-      "id":351,
-      "name_category": "Vexana",
-      "title":"Vexana Imprisoner",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/VEXANA/Vexana%20Imprisoner.jpg"
-    },
-    {
-      "id":352,
-      "name_category": "Vexana",
-      "title":"Vexana Sanguine Rose",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/VEXANA/Vexana%20Sanguine%20Rose.jpg"
-    },
-    {
-      "id":353,
-      "name_category": "Vexana",
-      "title":"Vexana Toxic Kiss",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/VEXANA/Vexana%20Toxic%20Kiss.jpg"
-    },
-    {
-      "id":354,
-      "name_category": "Vexana",
-      "title":"Vexanatwisted Summoner",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/VEXANA/VexanaTwisted%20Summoner.jpg"
-    },
-    {
-      "id":355,
-      "name_category": "Vexana",
-      "title":"Vexana 4 ",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/VEXANA/vexana%20%284%29.jpg"
-    },
-    {
-      "id":356,
-      "name_category": "Yve",
-      "title":"Yve 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/YVE/yve%20%282%29.jpg"
-    },
-    {
-      "id":357,
-      "name_category": "Yve",
-      "title":"Yve Forest Hymn",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/YVE/yve-forest-hymn.jpg"
-    },
-    {
-      "id":358,
-      "name_category": "Yve",
-      "title":"Yve",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/YVE/yve.jpg"
-    },
-    {
-      "id":359,
-      "name_category": "Zhask",
-      "title":"Zhask Bone Flamen",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ZHASK/Zhask%20Bone%20Flamen.jpg"
-    },
-    {
-      "id":360,
-      "name_category": "Zhask",
-      "title":"Zhask Cancer",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ZHASK/Zhask%20Cancer.jpg"
-    },
-    {
-      "id":361,
-      "name_category": "Zhask",
-      "title":"Zhask Crystallized Predator",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ZHASK/Zhask%20Crystallized%20Predator.jpg"
-    },
-    {
-      "id":362,
-      "name_category": "Zhask",
-      "title":"Zhask Extraterrestrial",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ZHASK/Zhask%20Extraterrestrial.jpg"
-    },
-    {
-      "id":363,
-      "name_category": "Zhask",
-      "title":"Zhask Planes Dominator",
-      "image":"http://tukumaning.miemiebrownie.com/MAGE/ZHASK/Zhask%20Planes%20Dominator.jpg"
-    },
-    {
-      "id":364,
-      "name_category": "Beatrix",
-      "title":"Beatrix 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/BEATRIX/beatrix%20%282%29.jpg"
-    },
-    {
-      "id":365,
-      "name_category": "Beatrix",
-      "title":"Beatrix X Factor",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/BEATRIX/beatrix%20X%20factor.jpg"
-    },
-    {
-      "id":366,
-      "name_category": "Beatrix",
-      "title":"Beatrix",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/BEATRIX/beatrix.jpg"
-    },
-    {
-      "id":367,
-      "name_category": "Brody",
-      "title":"Brody The Lone Star",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/BRODY/brody%20the%20lone%20star.jpg"
-    },
-    {
-      "id":368,
-      "name_category": "Brody",
-      "title":"Brody Nameless Stray",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/BRODY/brody-nameless-stray.jpg"
-    },
-    {
-      "id":369,
-      "name_category": "Brody",
-      "title":"Brody Stun",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/BRODY/brody-stun.jpg"
-    },
-    {
-      "id":370,
-      "name_category": "Bruno",
-      "title":"Bruno Best Dj",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/BRUNO/Bruno%20Best%20DJ.jpg"
-    },
-    {
-      "id":371,
-      "name_category": "Bruno",
-      "title":"Bruno Firebolt",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/BRUNO/Bruno%20Firebolt.jpg"
-    },
-    {
-      "id":372,
-      "name_category": "Bruno",
-      "title":"Bruno Protector",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/BRUNO/Bruno%20Protector.jpg"
-    },
-    {
-      "id":373,
-      "name_category": "Bruno",
-      "title":"Bruno Street Football",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/BRUNO/Bruno%20Street%20Football.jpg"
-    },
-    {
-      "id":374,
-      "name_category": "Bruno",
-      "title":"Bruno Street Soccer",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/BRUNO/Bruno%20Street%20Soccer.jpg"
-    },
-    {
-      "id":375,
-      "name_category": "Bruno",
-      "title":"Bruno Vanguard Elite 2",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/BRUNO/Bruno%20Vanguard%20Elite%202.jpg"
-    },
-    {
-      "id":376,
-      "name_category": "Bruno",
-      "title":"Bruno Vanguard Elite",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/BRUNO/Bruno%20Vanguard%20Elite.jpg"
-    },
-    {
-      "id":377,
-      "name_category": "Claude",
-      "title":"Claude Christmas Carnival",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLAUDE/Claude%20Christmas%20Carnival.jpg"
-    },
-    {
-      "id":378,
-      "name_category": "Claude",
-      "title":"Claude Golden Bullet",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLAUDE/Claude%20Golden%20Bullet.jpg"
-    },
-    {
-      "id":379,
-      "name_category": "Claude",
-      "title":"Claude Life Guard",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLAUDE/Claude%20Life%20Guard.jpg"
-    },
-    {
-      "id":380,
-      "name_category": "Claude",
-      "title":"Claude Mecha Dragon",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLAUDE/Claude%20Mecha%20Dragon.jpg"
-    },
-    {
-      "id":381,
-      "name_category": "Claude",
-      "title":"Claude Partners In Crime",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLAUDE/Claude%20Partners%20in%20Crime.jpg"
-    },
-    {
-      "id":382,
-      "name_category": "Claude",
-      "title":"Claude Plunderous Pirate",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLAUDE/Claude%20Plunderous%20Pirate.jpg"
-    },
-    {
-      "id":383,
-      "name_category": "Claude",
-      "title":"Claude Christmas Carnival 2 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLAUDE/claude-christmas-carnival%202%20%282%29.jpg"
-    },
-    {
-      "id":384,
-      "name_category": "Claude",
-      "title":"Claude Christmas Carnival 2",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLAUDE/claude-christmas-carnival%202.jpg"
-    },
-    {
-      "id":385,
-      "name_category": "Claude",
-      "title":"Claude Earths Mightiest",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLAUDE/claude-earths-mightiest.jpg"
-    },
-    {
-      "id":386,
-      "name_category": "Clint",
-      "title":"Clint Badminton Champion",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLINT/Clint%20Badminton%20Champion.jpg"
-    },
-    {
-      "id":387,
-      "name_category": "Clint",
-      "title":"Clint Guns And Roses",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLINT/Clint%20Guns%20and%20Roses.jpg"
-    },
-    {
-      "id":388,
-      "name_category": "Clint",
-      "title":"Clint Rock And Roll",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLINT/Clint%20Rock%20and%20Roll.jpg"
-    },
-    {
-      "id":389,
-      "name_category": "Clint",
-      "title":"Clint Sun N Sand",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLINT/Clint%20Sun%20n%20Sand.jpg"
-    },
-    {
-      "id":390,
-      "name_category": "Clint",
-      "title":"Clint Wild Wanderer",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLINT/Clint%20Wild%20Wanderer.jpg"
-    },
-    {
-      "id":391,
-      "name_category": "Clint",
-      "title":"Clint Witch Hunter",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLINT/Clint%20Witch%20Hunter.jpg"
-    },
-    {
-      "id":392,
-      "name_category": "Clint",
-      "title":"Clint Old Version",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLINT/Clint%20old%20Version.jpg"
-    },
-    {
-      "id":393,
-      "name_category": "Clint",
-      "title":"Clint Shadow Omen",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/CLINT/clint-shadow-omen.jpg"
-    },
-    {
-      "id":394,
-      "name_category": "Granger",
-      "title":"Granger Bardic Whisper",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/GRANGER/Granger%20Bardic%20Whisper.jpg"
-    },
-    {
-      "id":395,
-      "name_category": "Granger",
-      "title":"Granger Biosoldier",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/GRANGER/Granger%20Biosoldier.jpg"
-    },
-    {
-      "id":396,
-      "name_category": "Granger",
-      "title":"Granger Death Chanter",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/GRANGER/Granger%20Death%20Chanter.jpg"
-    },
-    {
-      "id":397,
-      "name_category": "Granger",
-      "title":"Granger Doomsday Terminator",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/GRANGER/Granger%20Doomsday%20Terminator.jpg"
-    },
-    {
-      "id":398,
-      "name_category": "Granger",
-      "title":"Granger Lightborn   Overrider",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/GRANGER/Granger%20Lightborn%20-%20Overrider.jpg"
-    },
-    {
-      "id":399,
-      "name_category": "Granger",
-      "title":"Granger Agent Z",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/GRANGER/granger-agent-z.jpg"
-    },
-    {
-      "id":400,
-      "name_category": "Hanabi",
-      "title":"Hanabi Fiery Moth",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/HANABI/Hanabi%20Fiery%20Moth.jpg"
-    },
-    {
-      "id":401,
-      "name_category": "Hanabi",
-      "title":"Hanabi Rakshesha",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/HANABI/Hanabi%20Rakshesha.jpg"
-    },
-    {
-      "id":402,
-      "name_category": "Hanabi",
-      "title":"Hanabi Resplendent Iris",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/HANABI/Hanabi%20Resplendent%20Iris.jpg"
-    },
-    {
-      "id":403,
-      "name_category": "Hanabi",
-      "title":"Hanabi Scarlet Flower",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/HANABI/Hanabi%20Scarlet%20Flower.jpg"
-    },
-    {
-      "id":404,
-      "name_category": "Hanabi",
-      "title":"Hanabi Venom Nephila",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/HANABI/Hanabi%20VENOM%20Nephila.jpg"
-    },
-    {
-      "id":405,
-      "name_category": "Hanabi",
-      "title":"Hanabi Viper",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/HANABI/Hanabi%20viper.jpg"
-    },
-    {
-      "id":406,
-      "name_category": "Irithel",
-      "title":"Irithel  Nightarrow",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/IRITHEL/Irithel%20%20Nightarrow.jpg"
-    },
-    {
-      "id":407,
-      "name_category": "Irithel",
-      "title":"Irithel Hellfire",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/IRITHEL/Irithel%20Hellfire.jpg"
-    },
-    {
-      "id":408,
-      "name_category": "Irithel",
-      "title":"Irithel Jungle Heart",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/IRITHEL/Irithel%20Jungle%20Heart.jpg"
-    },
-    {
-      "id":409,
-      "name_category": "Irithel",
-      "title":"Irithel Sagitarius",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/IRITHEL/Irithel%20Sagitarius.jpg"
-    },
-    {
-      "id":410,
-      "name_category": "Irithel",
-      "title":"Irithel Silver Cyclone",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/IRITHEL/Irithel%20Silver%20Cyclone.jpg"
-    },
-    {
-      "id":411,
-      "name_category": "Irithel",
-      "title":"Irithel Astral Wanderer",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/IRITHEL/irithel-astral-wanderer.jpg"
-    },
-    {
-      "id":412,
-      "name_category": "Karrie",
-      "title":"Karrie Bladed Mantis",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KARRIE/Karrie%20Bladed%20Mantis.jpg"
-    },
-    {
-      "id":413,
-      "name_category": "Karrie",
-      "title":"Karrie Dragon Queen",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KARRIE/Karrie%20Dragon%20Queen.jpg"
-    },
-    {
-      "id":414,
-      "name_category": "Karrie",
-      "title":"Karrie Gill Girl",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KARRIE/Karrie%20Gill%20Girl.jpg"
-    },
-    {
-      "id":415,
-      "name_category": "Karrie",
-      "title":"Karrie Hawkwatch",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KARRIE/Karrie%20Hawkwatch.jpg"
-    },
-    {
-      "id":416,
-      "name_category": "Karrie",
-      "title":"Karrie Jester",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KARRIE/Karrie%20Jester.jpg"
-    },
-    {
-      "id":417,
-      "name_category": "Karrie",
-      "title":"Karrie Lost Star",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KARRIE/Karrie%20Lost%20Star.jpg"
-    },
-    {
-      "id":418,
-      "name_category": "Karrie",
-      "title":"Karrie Neon Lightwheel",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KARRIE/Karrie%20Neon%20Lightwheel.jpg"
-    },
-    {
-      "id":419,
-      "name_category": "Karrie",
-      "title":"Karrie Rising Star",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KARRIE/Karrie%20Rising%20Star.jpg"
-    },
-    {
-      "id":420,
-      "name_category": "Kimmy",
-      "title":"Kimmy Splat Queen",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KIMMY/Kimmy%20Splat%20Queen.jpg"
-    },
-    {
-      "id":421,
-      "name_category": "Kimmy",
-      "title":"Kimmy Astrocat",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KIMMY/kimmy-astrocat.jpg"
-    },
-    {
-      "id":422,
-      "name_category": "Kimmy",
-      "title":"Kimmy Bio Frontier",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KIMMY/kimmy-bio-frontier.jpg"
-    },
-    {
-      "id":423,
-      "name_category": "Kimmy",
-      "title":"Kimmy Charge Leader",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KIMMY/kimmy-charge-leader.jpg"
-    },
-    {
-      "id":424,
-      "name_category": "Kimmy",
-      "title":"Kimmy Frost Wing",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KIMMY/kimmy-frost-wing.jpg"
-    },
-    {
-      "id":425,
-      "name_category": "Kimmy",
-      "title":"Kimmy Steam Researcher",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/KIMMY/kimmy-steam-researcher.jpg"
-    },
-    {
-      "id":426,
-      "name_category": "Layla",
-      "title":"Layla Blue Spectre 2",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LAYLA/Layla%20Blue%20Spectre%202.jpg"
-    },
-    {
-      "id":427,
-      "name_category": "Layla",
-      "title":"Layla Blue Spectre",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LAYLA/Layla%20Blue%20Spectre.jpg"
-    },
-    {
-      "id":428,
-      "name_category": "Layla",
-      "title":"Layla Bunny Babe 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LAYLA/Layla%20Bunny%20Babe%20%282%29.jpg"
-    },
-    {
-      "id":429,
-      "name_category": "Layla",
-      "title":"Layla Cannon And Roses",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LAYLA/Layla%20Cannon%20and%20Roses.jpg"
-    },
-    {
-      "id":430,
-      "name_category": "Layla",
-      "title":"Layla Classic Malefic Gunner",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LAYLA/Layla%20Classic%20Malefic%20Gunner.jpg"
-    },
-    {
-      "id":431,
-      "name_category": "Layla",
-      "title":"Layla Energy Gunner",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LAYLA/Layla%20Energy%20Gunner.jpg"
-    },
-    {
-      "id":432,
-      "name_category": "Layla",
-      "title":"Layla Green Flash",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LAYLA/Layla%20Green%20Flash.jpg"
-    },
-    {
-      "id":433,
-      "name_category": "Layla",
-      "title":"Layla Saber Breacher",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LAYLA/Layla%20SABER%20Breacher.jpg"
-    },
-    {
-      "id":434,
-      "name_category": "Layla",
-      "title":"Layla Blazing Gun",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LAYLA/layla-blazing-gun.jpg"
-    },
-    {
-      "id":435,
-      "name_category": "Lesley",
-      "title":"Lesley Angelic Agent",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LESLEY/Lesley%20Angelic%20Agent.jpg"
-    },
-    {
-      "id":436,
-      "name_category": "Lesley",
-      "title":"Lesley Cheergunner",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LESLEY/Lesley%20Cheergunner.jpg"
-    },
-    {
-      "id":437,
-      "name_category": "Lesley",
-      "title":"Lesley Deadly Sniper",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LESLEY/Lesley%20Deadly%20Sniper.jpg"
-    },
-    {
-      "id":438,
-      "name_category": "Lesley",
-      "title":"Lesley General Rose",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LESLEY/Lesley%20General%20Rose.jpg"
-    },
-    {
-      "id":439,
-      "name_category": "Lesley",
-      "title":"Lesley Lethal Lady",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LESLEY/Lesley%20Lethal%20Lady.jpg"
-    },
-    {
-      "id":440,
-      "name_category": "Lesley",
-      "title":"Lesley Royal Musketeer",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LESLEY/Lesley%20Royal%20Musketeer.jpg"
-    },
-    {
-      "id":441,
-      "name_category": "Lesley",
-      "title":"Lesley Stellaris Ghost",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LESLEY/Lesley%20Stellaris%20Ghost.jpg"
-    },
-    {
-      "id":442,
-      "name_category": "Lesley",
-      "title":"Lesley Dangerous Love With  Gusion Dangerous Liaison ",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/LESLEY/lesley-dangerous-love-With-%20gusion-dangerous-liaison-.jpg"
-    },
-    {
-      "id":443,
-      "name_category": "Miya",
-      "title":"Miya Burning Bow",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MIYA/Miya%20Burning%20Bow.jpg"
-    },
-    {
-      "id":444,
-      "name_category": "Miya",
-      "title":"Miya Captain Thorns",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MIYA/Miya%20Captain%20Thorns.jpg"
-    },
-    {
-      "id":445,
-      "name_category": "Miya",
-      "title":"Miya Chrismas Carnival",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MIYA/Miya%20Chrismas%20Carnival.jpg"
-    },
-    {
-      "id":446,
-      "name_category": "Miya",
-      "title":"Miya Honor",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MIYA/Miya%20Honor.jpg"
-    },
-    {
-      "id":447,
-      "name_category": "Miya",
-      "title":"Miya Modena Butterfly",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MIYA/Miya%20Modena%20Butterfly.jpg"
-    },
-    {
-      "id":448,
-      "name_category": "Miya",
-      "title":"Miya Moonlight Archer",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MIYA/Miya%20Moonlight%20Archer.jpg"
-    },
-    {
-      "id":449,
-      "name_category": "Miya",
-      "title":"Miya Suzuhime",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MIYA/Miya%20Suzuhime.jpg"
-    },
-    {
-      "id":450,
-      "name_category": "Miya",
-      "title":"Miya Sweet Fantasy",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MIYA/Miya%20Sweet%20Fantasy.jpg"
-    },
-    {
-      "id":451,
-      "name_category": "Miya",
-      "title":"Miya Jungle Archer",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MIYA/miya-jungle-archer.jpg"
-    },
-    {
-      "id":452,
-      "name_category": "Moskov",
-      "title":"Moskov Decapitator",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MOSKOV/Moskov%20Decapitator.jpg"
-    },
-    {
-      "id":453,
-      "name_category": "Moskov",
-      "title":"Moskov Javelin Champion",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MOSKOV/Moskov%20Javelin%20Champion.jpg"
-    },
-    {
-      "id":454,
-      "name_category": "Moskov",
-      "title":"Moskov Snacke Eye Commander",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MOSKOV/Moskov%20Snacke%20Eye%20Commander.jpg"
-    },
-    {
-      "id":455,
-      "name_category": "Moskov",
-      "title":"Moskov Spear Of Bone",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MOSKOV/Moskov%20Spear%20of%20Bone.jpg"
-    },
-    {
-      "id":456,
-      "name_category": "Moskov",
-      "title":"Moskov Spear Of Quiescence",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MOSKOV/Moskov%20Spear%20of%20Quiescence.jpg"
-    },
-    {
-      "id":457,
-      "name_category": "Moskov",
-      "title":"Moskov Twilight Dragon",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MOSKOV/Moskov%20Twilight%20Dragon.jpg"
-    },
-    {
-      "id":458,
-      "name_category": "Moskov",
-      "title":"Moskov Yasha",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MOSKOV/Moskov%20Yasha.jpg"
-    },
-    {
-      "id":459,
-      "name_category": "Moskov",
-      "title":"Moskov Blood Spear",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/MOSKOV/moskov%20blood-spear.jpg"
-    },
-    {
-      "id":460,
-      "name_category": "Popol And Kupa",
-      "title":"Popol Kupa  1 ",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/Popol%20Kupa%20%20%281%29.jpg"
-    },
-    {
-      "id":461,
-      "name_category": "Popol And Kupa",
-      "title":"Popol Kupa  2 ",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/Popol%20Kupa%20%20%282%29.jpg"
-    },
-    {
-      "id":462,
-      "name_category": "Popol And Kupa",
-      "title":"Popol Kupa  3 ",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/Popol%20Kupa%20%20%283%29.jpg"
-    },
-    {
-      "id":463,
-      "name_category": "Popol And Kupa",
-      "title":"Popol Kupa Hunting Pals",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/Popol%20Kupa%20Hunting%20pals.jpg"
-    },
-    {
-      "id":464,
-      "name_category": "Popol And Kupa",
-      "title":"Popol Kupa Iceland Companions",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/Popol%20Kupa%20Iceland%20Companions.jpg"
-    },
-    {
-      "id":465,
-      "name_category": "Popol And Kupa",
-      "title":"Popol And Kupa Tribal Howl 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/popol-and-kupa-tribal-howl%20%282%29.jpg"
-    },
-    {
-      "id":466,
-      "name_category": "Popol And Kupa",
-      "title":"Popol And Kupa Tribal Howl",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/POPOL%20%26%20KUPA/popol-and-kupa-tribal-howl.jpg"
-    },
-    {
-      "id":467,
-      "name_category": "Wanwan",
-      "title":"Wanwan Agile Tiger",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/WANWAN/Wanwan%20Agile%20Tiger.jpg"
-    },
-    {
-      "id":468,
-      "name_category": "Wanwan",
-      "title":"Wanwan Darting Star",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/WANWAN/wanwan%20darting%20star.jpg"
-    },
-    {
-      "id":469,
-      "name_category": "Wanwan",
-      "title":"Wanwan Pixel Blast",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/WANWAN/wanwan-pixel-blast.jpg"
-    },
-    {
-      "id":470,
-      "name_category": "Wanwan",
-      "title":"Wanwan Shoujo Commander",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/WANWAN/wanwan-shoujo-commander.jpg"
-    },
-    {
-      "id":471,
-      "name_category": "Wanwan",
-      "title":"Wanwan Teen Pop",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/WANWAN/wanwan-teen-pop.jpg"
-    },
-    {
-      "id":472,
-       "name_category": "Yi Sun Shin",
-      "title":"Yi Sun Shin Apocalypse Agent",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/Yi%20Sun%20Shin%20Apocalypse%20Agent.jpg"
-    },
-    {
-      "id":473,
-       "name_category": "Yi Sun Shin",
-      "title":"Yi Sun Shin Imperial Champion Old Version",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/Yi%20Sun%20Shin%20Imperial%20Champion%20Old%20Version.jpg"
-    },
-    {
-      "id":474,
-       "name_category": "Yi Sun Shin",
-      "title":"Yi Sun Shin Major General Old Version",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/Yi%20Sun%20Shin%20Major%20General%20Old%20version.jpg"
-    },
-    {
-      "id":475,
-       "name_category": "Yi Sun Shin",
-      "title":"Yi Sun Shin Old Version 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/Yi%20Sun%20Shin%20Old%20Version%20%282%29.jpg"
-    },
-    {
-      "id":476,
-       "name_category": "Yi Sun Shin",
-      "title":"Yi Sun Shin Roguish Ranger",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/Yi%20Sun%20Shin%20Roguish%20Ranger.jpg"
-    },
-    {
-      "id":477,
-       "name_category": "Yi Sun Shin",
-      "title":"Yi Sun Shin Lone Destructor",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/yi-sun-shin-lone-destructor.jpg"
-    },
-    {
-      "id":478,
-       "name_category": "Yi Sun Shin",
-      "title":"Yi Sun Shin Major General",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/yi-sun-shin-major-general.jpg"
-    },
-    {
-      "id":479,
-       "name_category": "Yi Sun Shin",
-      "title":"Yi Sun Shin Rework",
-      "image":"http://tukumaning.miemiebrownie.com/MARKSMAN/YU%20SUN-SHIN/yi-sun-shin-rework.jpg"
-    },
-    {
-      "id":480,
-      "name_category": "Angela",
-      "title":"Angela Bunny Love",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ANGELA/Angela%20Bunny%20Love.jpg"
-    },
-    {
-      "id":481,
-      "name_category": "Angela",
-      "title":"Angela Dove Love",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ANGELA/Angela%20Dove%20%26%20Love.jpg"
-    },
-    {
-      "id":482,
-      "name_category": "Angela",
-      "title":"Angela Scream Doll",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ANGELA/Angela%20Scream%20Doll.jpg"
-    },
-    {
-      "id":483,
-      "name_category": "Angela",
-      "title":"Angela Summer Vibes",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ANGELA/Angela%20Summer%20Vibes.jpg"
-    },
-    {
-      "id":484,
-      "name_category": "Angela",
-      "title":"Angela Venom Vespid",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ANGELA/Angela%20VENOM%20Vespid.jpg"
-    },
-    {
-      "id":485,
-      "name_category": "Angela",
-      "title":"Angela Shanghay Maden",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ANGELA/Shanghay%20Maden.jpg"
-    },
-    {
-      "id":486,
-      "name_category": "Carmilla",
-      "title":"Carmilla And Cecilion Wisteria",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/CARMILA/Carmilla%20And%20Cecilion%20Wisteria.jpg"
-    },
-    {
-      "id":487,
-      "name_category": "Carmilla",
-      "title":"Carmilla And Cecilion",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/CARMILA/Carmilla%20And%20Cecilion.jpg"
-    },
-    {
-      "id":488,
-      "name_category": "Carmilla",
-      "title":"Carmilla Shadow Of Twilight",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/CARMILA/Carmilla%20Shadow%20Of%20Twilight.jpg"
-    },
-    {
-      "id":489,
-      "name_category": "Carmilla",
-      "title":"Carmilla 2",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/CARMILA/carmilla%202.jpg"
-    },
-    {
-      "id":490,
-      "name_category": "Carmilla",
-      "title":"Carmilla Magician Girl",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/CARMILA/carmilla-magician-girl.jpg"
-    },
-    {
-      "id":491,
-      "name_category": "Diggie",
-      "title":"Diggie Circus Clown",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/DIGGIE/diggie%20circus%20clown.jpg"
-    },
-    {
-      "id":492,
-      "name_category": "Diggie",
-      "title":"Diggie Constellation",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/DIGGIE/diggie%20constellation.jpg"
-    },
-    {
-      "id":493,
-      "name_category": "Diggie",
-      "title":"Diggie Pigeoneer",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/DIGGIE/diggie%20pigeoneer.jpg"
-    },
-    {
-      "id":494,
-      "name_category": "Diggie",
-      "title":"Diggie Timekeeper",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/DIGGIE/diggie%20timekeeper.jpg"
-    },
-    {
-      "id":495,
-      "name_category": "Estes",
-      "title":"Estes Crow Bishop",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ESTES/Estes%20Crow%20Bishop.jpg"
-    },
-    {
-      "id":496,
-      "name_category": "Estes",
-      "title":"Estes Galaxy Dominator",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ESTES/Estes%20Galaxy-Dominator.jpg"
-    },
-    {
-      "id":497,
-      "name_category": "Estes",
-      "title":"Estes Holy Priest",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ESTES/Estes%20Holy%20Priest.jpg"
-    },
-    {
-      "id":498,
-      "name_category": "Estes",
-      "title":"Estes Moon Elf King",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ESTES/Estes%20Moon%20Elf%20King.jpg"
-    },
-    {
-      "id":499,
-      "name_category": "Estes",
-      "title":"Estes Rattan Dragon",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ESTES/Estes%20Rattan%20Dragon.jpg"
-    },
-    {
-      "id":500,
-      "name_category": "Estes",
-      "title":"Estes White Crane 2",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ESTES/Estes%20White%20Crane%202.jpg"
-    },
-    {
-      "id":501,
-      "name_category": "Estes",
-      "title":"Estes White Crane",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/ESTES/Estes%20White%20Crane.jpg"
-    },
-    {
-      "id":502,
-      "name_category": "Faramis",
-      "title":"Faramis Ivy Feathers",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/FARAMIS/faramis%20Ivy%20Feathers.jpg"
-    },
-    {
-      "id":503,
-      "name_category": "Faramis",
-      "title":"Faramis Dark Necro",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/FARAMIS/faramis%20dark%20necro.jpg"
-    },
-    {
-      "id":504,
-      "name_category": "Faramis",
-      "title":"Faramis The Alchemist",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/FARAMIS/faramis%20the%20alchemist.jpg"
-    },
-    {
-      "id":505,
-      "name_category": "Kaja",
-      "title":"Kaja  Commandment",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/KAJA/Kaja%20%20Commandment.jpg"
-    },
-    {
-      "id":506,
-      "name_category": "Kaja",
-      "title":"Kaja Horror Whiplash",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/KAJA/Kaja%20Horror%20Whiplash.jpg"
-    },
-    {
-      "id":507,
-      "name_category": "Kaja",
-      "title":"Kaja Kaminari",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/KAJA/Kaja%20Kaminari.jpg"
-    },
-    {
-      "id":508,
-      "name_category": "Kaja",
-      "title":"Kaja Nazar King",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/KAJA/Kaja%20Nazar%20King.jpg"
-    },
-    {
-      "id":509,
-      "name_category": "Kaja",
-      "title":"Kaja Skyblocker",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/KAJA/Kaja%20Skyblocker.jpg"
-    },
-    {
-      "id":510,
-      "name_category": "Lolita",
-      "title":"Lolita Impish Trickster",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/LOLITA/Lolita%20Impish%20Trickster.jpg"
-    },
-    {
-      "id":511,
-      "name_category": "Lolita",
-      "title":"Lolita Lion Dance",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/LOLITA/Lolita%20Lion%20Dance.jpg"
-    },
-    {
-      "id":512,
-      "name_category": "Lolita",
-      "title":"Lolita Soldier In Training",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/LOLITA/Lolita%20Soldier%20In%20Training.jpg"
-    },
-    {
-      "id":513,
-      "name_category": "Lolita",
-      "title":"Lolita Special Op",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/LOLITA/Lolita%20Special%20op.jpg"
-    },
-    {
-      "id":514,
-      "name_category": "Lolita",
-      "title":"Lolita Steel Elf",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/LOLITA/Lolita%20Steel%20Elf.jpg"
-    },
-    {
-      "id":515,
-      "name_category": "Mathilda",
-      "title":"Mathilda Unrestrained Delight",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/MATHILDA/mathilda%20unrestrained%20delight.jpg"
-    },
-    {
-      "id":516,
-      "name_category": "Mathilda",
-      "title":"Mathilda Swidt Plume",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/MATHILDA/mathilda-swidt%20plume.jpg"
-    },
-    {
-      "id":517,
-      "name_category": "Nana",
-      "title":"Nana Clockwork Maid",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/NANA/Nana%20Clockwork%20Maid.jpg"
-    },
-    {
-      "id":518,
-      "name_category": "Nana",
-      "title":"Nana Graveyard Party",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/NANA/Nana%20Graveyard%20Party.jpg"
-    },
-    {
-      "id":519,
-      "name_category": "Nana",
-      "title":"Nana Mecha Baby",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/NANA/Nana%20Mecha%20Baby.jpg"
-    },
-    {
-      "id":520,
-      "name_category": "Nana",
-      "title":"Nana Slumber Party",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/NANA/Nana%20Slumber%20Party.jpg"
-    },
-    {
-      "id":521,
-      "name_category": "Nana",
-      "title":"Nana Sweet Leonin",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/NANA/Nana%20Sweet%20Leonin.jpg"
-    },
-    {
-      "id":522,
-      "name_category": "Nana",
-      "title":"Nana Wind Fairy",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/NANA/Nana%20Wind%20Fairy.jpg"
-    },
-    {
-      "id":523,
-      "name_category": "Nana",
-      "title":"Nana Sundress",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/NANA/nana-sundress.jpg"
-    },
-    {
-      "id":524,
-      "name_category": "Rafaela",
-      "title":"Rafaela Biomedic 2",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/RAFAELA/Rafaela%20Biomedic%202.jpg"
-    },
-    {
-      "id":525,
-      "name_category": "Rafaela",
-      "title":"Rafaela Biomedic",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/RAFAELA/Rafaela%20Biomedic.jpg"
-    },
-    {
-      "id":526,
-      "name_category": "Rafaela",
-      "title":"Rafaela Fertility Goddess",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/RAFAELA/Rafaela%20Fertility%20Goddess.jpg"
-    },
-    {
-      "id":527,
-      "name_category": "Rafaela",
-      "title":"Rafaela Flower Fairy",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/RAFAELA/Rafaela%20Flower%20Fairy.jpg"
-    },
-    {
-      "id":528,
-      "name_category": "Rafaela",
-      "title":"Rafaela Old Version 1 ",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/RAFAELA/Rafaela%20Old%20version%20%281%29.jpg"
-    },
-    {
-      "id":529,
-      "name_category": "Rafaela",
-      "title":"Rafaela Wings Of Holiness",
-      "image":"http://tukumaning.miemiebrownie.com/SUPPORT/RAFAELA/Rafaela%20Wings%20Of%20Holiness.jpg"
-    },
-    {
-      "id":530,
-      "name_category": "Akai",
-      "title":"Akai Akazonae Samurai",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/AKAI/Akai%20Akazonae%20Samurai.jpg"
-    },
-    {
-      "id":531,
-      "name_category": "Akai",
-      "title":"Akai Imperial Assassin",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/AKAI/Akai%20Imperial%20Assassin.jpg"
-    },
-    {
-      "id":532,
-      "name_category": "Akai",
-      "title":"Akai Monk",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/AKAI/Akai%20Monk.jpg"
-    },
-    {
-      "id":533,
-      "name_category": "Akai",
-      "title":"Akai Panda Warrior",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/AKAI/Akai%20Panda%20Warrior.jpg"
-    },
-    {
-      "id":534,
-      "name_category": "Akai",
-      "title":"Akai Stream Recluse",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/AKAI/Akai%20Stream%20Recluse.jpg"
-    },
-    {
-      "id":535,
-      "name_category": "Akai",
-      "title":"Akai Summer Party",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/AKAI/Akai%20Summer%20Party.jpg"
-    },
-    {
-      "id":536,
-      "name_category": "Akai",
-      "title":"Akai 1 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/AKAI/akai%20%281%29.jpg"
-    },
-    {
-      "id":537,
-      "name_category": "Akai",
-      "title":"Akai 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/AKAI/akai%20%282%29.jpg"
-    },
-    {
-      "id":538,
-      "name_category": "Atlas",
-      "title":"Atlas Ocean Gladiator",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/ATLAS/Atlas%20Ocean%20Gladiator.jpg"
-    },
-    {
-      "id":539,
-      "name_category": "Atlas",
-      "title":"Atlas Reactor Core",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/ATLAS/Atlas%20Reactor%20Core.jpg"
-    },
-    {
-      "id":540,
-      "name_category": "Atlas",
-      "title":"Atlas 1 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/ATLAS/atlas%20%281%29.jpg"
-    },
-    {
-      "id":541,
-      "name_category": "Atlas",
-      "title":"Atlas 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/ATLAS/atlas%20%282%29.jpg"
-    },
-    {
-      "id":542,
-      "name_category": "Atlas",
-      "title":"Atlas Fuel Turbine",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/ATLAS/atlas-fuel-turbine.jpg"
-    },
-    {
-      "id":543,
-      "name_category": "Barats",
-      "title":"Barats 1 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BARATS/barats%20%281%29.jpg"
-    },
-    {
-      "id":544,
-      "name_category": "Barats",
-      "title":"Barats 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BARATS/barats%20%282%29.jpg"
-    },
-    {
-      "id":545,
-      "name_category": "Barats",
-      "title":"Barats 3 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BARATS/barats%20%283%29.jpg"
-    },
-    {
-      "id":546,
-      "name_category": "Barats",
-      "title":"Barats 4 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BARATS/barats%20%284%29.jpg"
-    },
-    {
-      "id":547,
-      "name_category": "Barats",
-      "title":"Barats 5 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BARATS/barats%20%285%29.jpg"
-    },
-    {
-      "id":548,
-      "name_category": "Barats",
-      "title":"Barats 6 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BARATS/barats%20%286%29.jpg"
-    },
-    {
-      "id":549,
-      "name_category": "Barats",
-      "title":"Barats 7 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BARATS/barats%20%287%29.jpg"
-    },
-    {
-      "id":550,
-      "name_category": "Barats",
-      "title":"Barats Toy Rex",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BARATS/barats-toy-rex.jpg"
-    },
-    {
-      "id":551,
-      "name_category": "Baxia",
-      "title":"Baxia Badass Roller",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BAXIA/Baxia%20Badass%20Roller.jpg"
-    },
-    {
-      "id":552,
-      "name_category": "Baxia",
-      "title":"Baxia Wild Totem",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BAXIA/Baxia%20Wild%20Totem.jpg"
-    },
-    {
-      "id":553,
-      "name_category": "Baxia",
-      "title":"Baxia",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BAXIA/Baxia.jpg"
-    },
-    {
-      "id":554,
-      "name_category": "Baxia",
-      "title":"Baxia Ba Tender",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BAXIA/baxia-ba-tender.jpg"
-    },
-    {
-      "id":555,
-      "name_category": "Belerick",
-      "title":"Belerick  1 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BELERICK/Belerick%20%20%281%29.jpg"
-    },
-    {
-      "id":556,
-      "name_category": "Belerick",
-      "title":"Belerick  2 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BELERICK/Belerick%20%20%282%29.jpg"
-    },
-    {
-      "id":557,
-      "name_category": "Belerick",
-      "title":"Belerick  3 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BELERICK/Belerick%20%20%283%29.jpg"
-    },
-    {
-      "id":558,
-      "name_category": "Belerick",
-      "title":"Belerick Guard Of Nature",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BELERICK/Belerick%20Guard%20of%20Nature.jpg"
-    },
-    {
-      "id":559,
-      "name_category": "Belerick",
-      "title":"Belerick The Deep One",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BELERICK/Belerick%20The%20Deep%20One.jpg"
-    },
-    {
-      "id":560,
-      "name_category": "Belerick",
-      "title":"Belerick Tigers Claw",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BELERICK/Belerick%20Tigers%20Claw.jpg"
-    },
-    {
-      "id":561,
-      "name_category": "Belerick",
-      "title":"Belerick Toroch Guardian",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/BELERICK/Belerick%20Toroch%20Guardian.jpg"
-    },
-    {
-      "id":562,
-      "name_category": "Franco",
-      "title":"Franco Apocalypse 2",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/FRANCO/Franco%20Apocalypse%202.jpg"
-    },
-    {
-      "id":563,
-      "name_category": "Franco",
-      "title":"Franco Apocalypse",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/FRANCO/Franco%20Apocalypse.jpg"
-    },
-    {
-      "id":564,
-      "name_category": "Franco",
-      "title":"Franco Frozen Warrior",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/FRANCO/Franco%20Frozen%20Warrior.jpg"
-    },
-    {
-      "id":565,
-      "name_category": "Franco",
-      "title":"Franco Wheatfield  Nightmare",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/FRANCO/Franco%20Wheatfield%20%20Nightmare.jpg"
-    },
-    {
-      "id":566,
-      "name_category": "Franco",
-      "title":"Franco Masterchef",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/FRANCO/franco%20masterchef.jpg"
-    },
-    {
-      "id":567,
-      "name_category": "Franco",
-      "title":"Franco Blazing Axe",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/FRANCO/franco-blazing-axe.jpg"
-    },
-    {
-      "id":568,
-      "name_category": "Franco",
-      "title":"Franco Locomotive",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/FRANCO/franco-locomotive.jpg"
-    },
-    {
-      "id":569,
-      "name_category": "Franco",
-      "title":"Franco Valhalla Ruler",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/FRANCO/franco-valhalla-ruler.jpg"
-    },
-    {
-      "id":570,
-      "name_category": "Gatotkaca",
-      "title":"Gatotkaca Arhat King",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GATOTKACA/Gatotkaca%20Arhat%20King.jpg"
-    },
-    {
-      "id":571,
-      "name_category": "Gatotkaca",
-      "title":"Gatotkaca Mighty Guardian",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GATOTKACA/Gatotkaca%20Mighty%20Guardian.jpg"
-    },
-    {
-      "id":572,
-      "name_category": "Gatotkaca",
-      "title":"Gatotkaca Mighty Legend",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GATOTKACA/Gatotkaca%20Mighty%20Legend.jpg"
-    },
-    {
-      "id":573,
-      "name_category": "Gatotkaca",
-      "title":"Gatotkaca Sentinel",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GATOTKACA/Gatotkaca%20Sentinel.jpg"
-    },
-    {
-      "id":574,
-      "name_category": "Gatotkaca",
-      "title":"Gatotkaca Spark",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GATOTKACA/gatotkaca-spark.jpg"
-    },
-    {
-      "id":575,
-      "name_category": "Gloo",
-      "title":"Gloo 2 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GLOO/gloo%20%282%29.jpg"
-    },
-    {
-      "id":576,
-      "name_category": "Gloo",
-      "title":"Gloo Verdant Enchanter",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GLOO/gloo-verdant-enchanter.jpg"
-    },
-    {
-      "id":577,
-      "name_category": "Gloo",
-      "title":"Gloo",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GLOO/gloo.jpg"
-    },
-    {
-      "id":578,
-      "name_category": "Grock",
-      "title":"Grock Castle Guard",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GROCK/Grock%20Castle%20Guard.jpg"
-    },
-    {
-      "id":579,
-      "name_category": "Grock",
-      "title":"Grock Codename Rhino",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GROCK/Grock%20Codename%20Rhino.jpg"
-    },
-    {
-      "id":580,
-      "name_category": "Grock",
-      "title":"Grock Fortress Titan",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GROCK/Grock%20Fortress%20Titan.jpg"
-    },
-    {
-      "id":581,
-      "name_category": "Grock",
-      "title":"Grock Grave Guardian",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GROCK/Grock%20Grave%20Guardian.jpg"
-    },
-    {
-      "id":582,
-      "name_category": "Grock",
-      "title":"Grock Iceland Golem",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GROCK/Grock%20Iceland%20Golem.jpg"
-    },
-    {
-      "id":583,
-      "name_category": "Grock",
-      "title":"Grock Venom Monitor Lizard",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/GROCK/Grock%20VENOM%20Monitor%20Lizard.jpg"
-    },
-    {
-      "id":584,
-      "name_category": "Hilda",
-      "title":"Hilda Aries",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/HILDA/Hilda%20Aries.jpg"
-    },
-    {
-      "id":585,
-      "name_category": "Hilda",
-      "title":"Hilda Flower Of The Wastes",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/HILDA/Hilda%20Flower%20of%20the%20Wastes.jpg"
-    },
-    {
-      "id":586,
-      "name_category": "Hilda",
-      "title":"Hilda Power Of Megalith",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/HILDA/Hilda%20Power%20of%20Megalith.jpg"
-    },
-    {
-      "id":587,
-      "name_category": "Hilda",
-      "title":"Hilda Power Of Wildness",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/HILDA/Hilda%20Power%20of%20wildness.jpg"
-    },
-    {
-      "id":588,
-      "name_category": "Hilda",
-      "title":"Hilda Sacred Guard",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/HILDA/Hilda%20Sacred%20Guard.jpg"
-    },
-    {
-      "id":589,
-      "name_category": "Hylos",
-      "title":"Hylos Abyssal Shaman",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/HYLOS/Hylos%20Abyssal%20shaman.jpg"
-    },
-    {
-      "id":590,
-      "name_category": "Hylos",
-      "title":"Hylos Grand Warden",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/HYLOS/Hylos%20Grand%20Warden.jpg"
-    },
-    {
-      "id":591,
-      "name_category": "Hylos",
-      "title":"Hylos Phantom Seer",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/HYLOS/Hylos%20Phantom%20seer.jpg"
-    },
-    {
-      "id":592,
-      "name_category": "Hylos",
-      "title":"Hylos Jungle Watcher",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/HYLOS/Hylos%20jungle%20watcher.jpg"
-    },
-    {
-      "id":593,
-      "name_category": "Johnson",
-      "title":"Johnson Fire Chief",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/JOHNSON/Johnson%20Fire%20Chief.jpg"
-    },
-    {
-      "id":594,
-      "name_category": "Johnson",
-      "title":"Johnson Jeepney Racer",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/JOHNSON/Johnson%20Jeepney%20Racer.jpg"
-    },
-    {
-      "id":595,
-      "name_category": "Johnson",
-      "title":"Johnson Mustang",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/JOHNSON/Johnson%20Mustang.jpg"
-    },
-    {
-      "id":596,
-      "name_category": "Johnson",
-      "title":"Johnson Saber Automata",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/JOHNSON/Johnson%20SABER%20Automata.jpg"
-    },
-    {
-      "id":597,
-      "name_category": "Johnson",
-      "title":"Johnson Wreck King",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/JOHNSON/Johnson%20Wreck%20king.jpg"
-    },
-    {
-      "id":598,
-      "name_category": "Johnson",
-      "title":"Johnson Death Ride",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/JOHNSON/johnson-death-ride.jpg"
-    },
-    {
-      "id":599,
-      "name_category": "Khufra",
-      "title":"Khufra Desert Tyrant",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/KHUFRA/khufra%20Desert%20Tyrant.jpg"
-    },
-    {
-      "id":600,
-      "name_category": "Khufra",
-      "title":"Khufra Apophis",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/KHUFRA/khufra%20apophis.jpg"
-    },
-    {
-      "id":601,
-      "name_category": "Khufra",
-      "title":"Khufra Desert Owl",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/KHUFRA/khufra%20desert%20owl.jpg"
-    },
-    {
-      "id":602,
-      "name_category": "Khufra",
-      "title":"Khufra Gentleman Thief",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/KHUFRA/khufra%20gentleman%20thief.jpg"
-    },
-    {
-      "id":603,
-      "name_category": "Khufra",
-      "title":"Khufra Volcanic Overlord",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/KHUFRA/khufra-volcanic-overlord.jpg"
-    },
-    {
-      "id":604,
-      "name_category": "Minotaur",
-      "title":"Minotaur  1 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/MINOTAUR/minotaur%20%20%281%29.jpg"
-    },
-    {
-      "id":605,
-      "name_category": "Minotaur",
-      "title":"Minotaur  2 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/MINOTAUR/minotaur%20%20%282%29.jpg"
-    },
-    {
-      "id":606,
-      "name_category": "Minotaur",
-      "title":"Minotaur  3 ",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/MINOTAUR/minotaur%20%20%283%29.jpg"
-    },
-    {
-      "id":607,
-      "name_category": "Minotaur",
-      "title":"Minotaur Busting Yama",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/MINOTAUR/minotaur%20busting%20yama.jpg"
-    },
-    {
-      "id":608,
-      "name_category": "Minotaur",
-      "title":"Minotaur Orbiter",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/MINOTAUR/minotaur%20orbiter.jpg"
-    },
-    {
-      "id":609,
-      "name_category": "Minotaur",
-      "title":"Minotaur Sacred Hummer",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/MINOTAUR/minotaur%20sacred%20hummer.jpg"
-    },
-    {
-      "id":610,
-      "name_category": "Minotaur",
-      "title":"Minotaur Son Of Minos",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/MINOTAUR/minotaur%20son%20of%20minos.jpg"
-    },
-    {
-      "id":611,
-      "name_category": "Minotaur",
-      "title":"Minotaur Taurus",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/MINOTAUR/minotaur%20taurus.jpg"
-    },
-    {
-      "id":612,
-      "name_category": "Tigreal",
-      "title":"Tigreal 2",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/TIGREAL/Tigreal%202.jpg"
-    },
-    {
-      "id":613,
-      "name_category": "Tigreal",
-      "title":"Tigreal Dark Guardian Old Version",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/TIGREAL/Tigreal%20Dark%20Guardian%20Old%20Version.jpg"
-    },
-    {
-      "id":614,
-      "name_category": "Tigreal",
-      "title":"Tigreal Fallen Guard",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/TIGREAL/Tigreal%20Fallen%20Guard.jpg"
-    },
-    {
-      "id":615,
-      "name_category": "Tigreal",
-      "title":"Tigreal Old Version",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/TIGREAL/Tigreal%20Old%20Version.jpg"
-    },
-    {
-      "id":616,
-      "name_category": "Tigreal",
-      "title":"Tigreal Wyrmslayer",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/TIGREAL/Tigreal%20Wyrmslayer.jpg"
-    },
-    {
-      "id":617,
-      "name_category": "Tigreal",
-      "title":"Tigreal Lightborn Defender",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/TIGREAL/tigreal-lightborn-defender.jpg"
-    },
-    {
-      "id":618,
-      "name_category": "Uranus",
-      "title":"Uranus Aethereal Defender",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/URANUS/Uranus%20Aethereal%20Defender.jpg"
-    },
-    {
-      "id":619,
-      "name_category": "Uranus",
-      "title":"Uranus Ancient Soul",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/URANUS/Uranus%20Ancient%20Soul.jpg"
-    },
-    {
-      "id":620,
-      "name_category": "Uranus",
-      "title":"Uranus Mech Protector",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/URANUS/uranus-mech-protector.jpg"
-    },
-    {
-      "id":621,
-      "name_category": "Uranus",
-      "title":"Uranus Pinball",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/URANUS/uranus-pinball.jpg"
-    },
-    {
-      "id":622,
-      "name_category": "Uranus",
-      "title":"Uranus Video Game Dominator",
-      "image":"http://tukumaning.miemiebrownie.com/TANK/URANUS/uranus-video-game-dominator.jpg"
+      "name_category": "Zilong",
+      "title":"Zilong revamped",
+      "image":"https://i.ibb.co/RPKLVgB/Zilong-revamped.jpg"
     }
 
   ]
