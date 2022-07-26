@@ -3,8 +3,8 @@
     {
       "select_ads": "APPLOVIN",
       "select_backup_ads": "",
-      "status_app": "0",
-      "link_redirect": "https://",
+      "status_app": "1",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.tukudroid.ultimateskinherowallpaper",
       "admob_interid": "ca-app-pub-5445947100454432/8915690239",
       "admob_nativeid": "ca-app-pub-5445947100454432/7602608560",
       "admob_openid": "ca-app-pub-5445947100454432/5754146752",
